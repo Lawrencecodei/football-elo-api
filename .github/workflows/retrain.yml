@@ -59,7 +59,9 @@ jobs:
     # --------------------------------------------------------------------- #
     - name: 🛠️  Run data pipeline
       working-directory: ${{ steps.scope.outputs.WORKDIR }}
-      run: python data_pipeline.py
+      env:
+       FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+      run: python -u data_pipeline.py
 
     # --------------------------------------------------------------------- #
     - name: 📤  Commit updated artefacts (if any)
