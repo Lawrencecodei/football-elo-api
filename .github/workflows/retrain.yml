@@ -1,42 +1,81 @@
 name: Nightly Elo retrain
 
+################################################################################
+# WHY THIS VERSION WORKS
+# • Uses `actions/checkout` with fetch-depth 0   (so we can push back).
+# • Detects whether your code lives in a nested “wrapper” folder and
+#   sets WORKDIR accordingly — no manual tweaks needed.
+# • Commits ONLY when data/elo_ratings.pkl   or   data/matches_clean.csv change.
+################################################################################
+
 on:
-  # 03:10 UTC = 04:10 WAT every day
+  # 03:10 UTC every day  (≈ 04:10 WAT).  Adjust to taste.
   schedule:
     - cron: "10 3 * * *"
-  workflow_dispatch:   # lets you trigger it manually
+  # Manual trigger button in the Actions tab
+  workflow_dispatch:
 
 jobs:
   retrain:
     runs-on: ubuntu-latest
-
     permissions:
-      contents: write      # so the job can git-push back to main
+      contents: write      # allow git push back to main
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0    # needed for pushing later
+    # --------------------------------------------------------------------- #
+    - name: ▶️  Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+    # --------------------------------------------------------------------- #
+    # Auto-detect working directory.
+    # If repo contains a single top-level folder with the repo name,
+    # we’ll use that as workdir; otherwise we stay in $GITHUB_WORKSPACE.
+    - name: 🔍 Determine workdir
+      id: scope
+      run: |
+        WRAPPER="$(basename "$GITHUB_REPOSITORY")"
+        if [ -d "$WRAPPER" ]; then
+          echo "WORKDIR=$WRAPPER" >>"$GITHUB_OUTPUT"
+        else
+          echo "WORKDIR=."       >>"$GITHUB_OUTPUT"
+        fi
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          pip install scikit-learn requests tqdm
+    # --------------------------------------------------------------------- #
+    - name: 🐍  Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.12"
 
-      - name: Run data pipeline
-        run: python data_pipeline.py
+    # --------------------------------------------------------------------- #
+    - name: 📦  Install dependencies
+      working-directory: ${{ steps.scope.outputs.WORKDIR }}
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install scikit-learn requests tqdm
 
-      - name: Commit artefacts
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/elo_ratings.pkl data/matches_clean.csv
-          git commit -m "🤖 nightly retrain: `date -u +'%Y-%m-%d'`" || echo "No changes"
+    # --------------------------------------------------------------------- #
+    - name: 🛠️  Run data pipeline
+      working-directory: ${{ steps.scope.outputs.WORKDIR }}
+      run: python data_pipeline.py
+
+    # --------------------------------------------------------------------- #
+    - name: 📤  Commit updated artefacts (if any)
+      working-directory: ${{ steps.scope.outputs.WORKDIR }}
+      run: |
+        git config user.name  "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+
+        CHANGED=0
+        git add data/elo_ratings.pkl data/matches_clean.csv || true
+        if ! git diff --cached --quiet; then
+          CHANGED=1
+          git commit -m "🤖 nightly retrain: $(date -u +'%Y-%m-%d')" 
           git push origin HEAD:main
+        fi
+
+        if [ "$CHANGED" -eq 0 ]; then
+          echo "No artefact changes — nothing to commit."
+        fi
