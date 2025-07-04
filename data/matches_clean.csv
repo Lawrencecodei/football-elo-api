@@ -1,0 +1,3041 @@
+date,home_team,away_team,full_time_result,season,league
+2021-08-13,Brentford,Arsenal,H,2021-2022,EPL
+2021-08-14,Man United,Leeds,H,2021-2022,EPL
+2021-08-14,Burnley,Brighton,A,2021-2022,EPL
+2021-08-14,Chelsea,Crystal Palace,H,2021-2022,EPL
+2021-08-14,Everton,Southampton,H,2021-2022,EPL
+2021-08-14,Leicester,Wolves,H,2021-2022,EPL
+2021-08-14,Watford,Aston Villa,H,2021-2022,EPL
+2021-08-14,Norwich,Liverpool,A,2021-2022,EPL
+2021-08-15,Newcastle,West Ham,A,2021-2022,EPL
+2021-08-15,Tottenham,Man City,H,2021-2022,EPL
+2021-08-21,Liverpool,Burnley,H,2021-2022,EPL
+2021-08-21,Aston Villa,Newcastle,H,2021-2022,EPL
+2021-08-21,Crystal Palace,Brentford,D,2021-2022,EPL
+2021-08-21,Leeds,Everton,D,2021-2022,EPL
+2021-08-21,Man City,Norwich,H,2021-2022,EPL
+2021-08-21,Brighton,Watford,H,2021-2022,EPL
+2021-08-22,Southampton,Man United,D,2021-2022,EPL
+2021-08-22,Wolves,Tottenham,A,2021-2022,EPL
+2021-08-22,Arsenal,Chelsea,A,2021-2022,EPL
+2021-08-23,West Ham,Leicester,H,2021-2022,EPL
+2021-08-28,Man City,Arsenal,H,2021-2022,EPL
+2021-08-28,Aston Villa,Brentford,D,2021-2022,EPL
+2021-08-28,Brighton,Everton,A,2021-2022,EPL
+2021-08-28,Newcastle,Southampton,D,2021-2022,EPL
+2021-08-28,Norwich,Leicester,A,2021-2022,EPL
+2021-08-28,West Ham,Crystal Palace,D,2021-2022,EPL
+2021-08-28,Liverpool,Chelsea,D,2021-2022,EPL
+2021-08-29,Burnley,Leeds,D,2021-2022,EPL
+2021-08-29,Tottenham,Watford,H,2021-2022,EPL
+2021-08-29,Wolves,Man United,A,2021-2022,EPL
+2021-09-11,Crystal Palace,Tottenham,H,2021-2022,EPL
+2021-09-11,Arsenal,Norwich,H,2021-2022,EPL
+2021-09-11,Brentford,Brighton,A,2021-2022,EPL
+2021-09-11,Leicester,Man City,A,2021-2022,EPL
+2021-09-11,Man United,Newcastle,H,2021-2022,EPL
+2021-09-11,Southampton,West Ham,D,2021-2022,EPL
+2021-09-11,Watford,Wolves,A,2021-2022,EPL
+2021-09-11,Chelsea,Aston Villa,H,2021-2022,EPL
+2021-09-12,Leeds,Liverpool,A,2021-2022,EPL
+2021-09-13,Everton,Burnley,H,2021-2022,EPL
+2021-09-17,Newcastle,Leeds,D,2021-2022,EPL
+2021-09-18,Wolves,Brentford,A,2021-2022,EPL
+2021-09-18,Burnley,Arsenal,A,2021-2022,EPL
+2021-09-18,Liverpool,Crystal Palace,H,2021-2022,EPL
+2021-09-18,Man City,Southampton,D,2021-2022,EPL
+2021-09-18,Norwich,Watford,A,2021-2022,EPL
+2021-09-18,Aston Villa,Everton,H,2021-2022,EPL
+2021-09-19,Brighton,Leicester,H,2021-2022,EPL
+2021-09-19,West Ham,Man United,A,2021-2022,EPL
+2021-09-19,Tottenham,Chelsea,A,2021-2022,EPL
+2021-09-25,Chelsea,Man City,A,2021-2022,EPL
+2021-09-25,Man United,Aston Villa,A,2021-2022,EPL
+2021-09-25,Everton,Norwich,H,2021-2022,EPL
+2021-09-25,Leeds,West Ham,A,2021-2022,EPL
+2021-09-25,Leicester,Burnley,D,2021-2022,EPL
+2021-09-25,Watford,Newcastle,D,2021-2022,EPL
+2021-09-25,Brentford,Liverpool,D,2021-2022,EPL
+2021-09-26,Southampton,Wolves,A,2021-2022,EPL
+2021-09-26,Arsenal,Tottenham,H,2021-2022,EPL
+2021-09-27,Crystal Palace,Brighton,D,2021-2022,EPL
+2021-10-02,Man United,Everton,D,2021-2022,EPL
+2021-10-02,Burnley,Norwich,D,2021-2022,EPL
+2021-10-02,Chelsea,Southampton,H,2021-2022,EPL
+2021-10-02,Leeds,Watford,H,2021-2022,EPL
+2021-10-02,Wolves,Newcastle,H,2021-2022,EPL
+2021-10-02,Brighton,Arsenal,D,2021-2022,EPL
+2021-10-03,Crystal Palace,Leicester,D,2021-2022,EPL
+2021-10-03,Tottenham,Aston Villa,H,2021-2022,EPL
+2021-10-03,West Ham,Brentford,A,2021-2022,EPL
+2021-10-03,Liverpool,Man City,D,2021-2022,EPL
+2021-10-16,Watford,Liverpool,A,2021-2022,EPL
+2021-10-16,Aston Villa,Wolves,A,2021-2022,EPL
+2021-10-16,Leicester,Man United,H,2021-2022,EPL
+2021-10-16,Man City,Burnley,H,2021-2022,EPL
+2021-10-16,Norwich,Brighton,D,2021-2022,EPL
+2021-10-16,Southampton,Leeds,H,2021-2022,EPL
+2021-10-16,Brentford,Chelsea,A,2021-2022,EPL
+2021-10-17,Everton,West Ham,A,2021-2022,EPL
+2021-10-17,Newcastle,Tottenham,A,2021-2022,EPL
+2021-10-18,Arsenal,Crystal Palace,D,2021-2022,EPL
+2021-10-22,Arsenal,Aston Villa,H,2021-2022,EPL
+2021-10-23,Chelsea,Norwich,H,2021-2022,EPL
+2021-10-23,Crystal Palace,Newcastle,D,2021-2022,EPL
+2021-10-23,Everton,Watford,A,2021-2022,EPL
+2021-10-23,Leeds,Wolves,D,2021-2022,EPL
+2021-10-23,Southampton,Burnley,D,2021-2022,EPL
+2021-10-23,Brighton,Man City,A,2021-2022,EPL
+2021-10-24,Brentford,Leicester,A,2021-2022,EPL
+2021-10-24,West Ham,Tottenham,H,2021-2022,EPL
+2021-10-24,Man United,Liverpool,A,2021-2022,EPL
+2021-10-30,Leicester,Arsenal,A,2021-2022,EPL
+2021-10-30,Burnley,Brentford,H,2021-2022,EPL
+2021-10-30,Liverpool,Brighton,D,2021-2022,EPL
+2021-10-30,Man City,Crystal Palace,A,2021-2022,EPL
+2021-10-30,Newcastle,Chelsea,A,2021-2022,EPL
+2021-10-30,Watford,Southampton,A,2021-2022,EPL
+2021-10-30,Tottenham,Man United,A,2021-2022,EPL
+2021-10-31,Norwich,Leeds,A,2021-2022,EPL
+2021-10-31,Aston Villa,West Ham,A,2021-2022,EPL
+2021-11-01,Wolves,Everton,H,2021-2022,EPL
+2021-11-05,Southampton,Aston Villa,H,2021-2022,EPL
+2021-11-06,Man United,Man City,A,2021-2022,EPL
+2021-11-06,Brentford,Norwich,A,2021-2022,EPL
+2021-11-06,Chelsea,Burnley,D,2021-2022,EPL
+2021-11-06,Crystal Palace,Wolves,H,2021-2022,EPL
+2021-11-06,Brighton,Newcastle,D,2021-2022,EPL
+2021-11-07,Arsenal,Watford,H,2021-2022,EPL
+2021-11-07,Everton,Tottenham,D,2021-2022,EPL
+2021-11-07,Leeds,Leicester,D,2021-2022,EPL
+2021-11-07,West Ham,Liverpool,H,2021-2022,EPL
+2021-11-20,Leicester,Chelsea,A,2021-2022,EPL
+2021-11-20,Aston Villa,Brighton,H,2021-2022,EPL
+2021-11-20,Burnley,Crystal Palace,D,2021-2022,EPL
+2021-11-20,Newcastle,Brentford,D,2021-2022,EPL
+2021-11-20,Norwich,Southampton,H,2021-2022,EPL
+2021-11-20,Watford,Man United,H,2021-2022,EPL
+2021-11-20,Wolves,West Ham,H,2021-2022,EPL
+2021-11-20,Liverpool,Arsenal,H,2021-2022,EPL
+2021-11-21,Man City,Everton,H,2021-2022,EPL
+2021-11-21,Tottenham,Leeds,H,2021-2022,EPL
+2021-11-27,Arsenal,Newcastle,H,2021-2022,EPL
+2021-11-27,Crystal Palace,Aston Villa,A,2021-2022,EPL
+2021-11-27,Liverpool,Southampton,H,2021-2022,EPL
+2021-11-27,Norwich,Wolves,D,2021-2022,EPL
+2021-11-27,Brighton,Leeds,D,2021-2022,EPL
+2021-11-28,Brentford,Everton,H,2021-2022,EPL
+2021-11-28,Leicester,Watford,H,2021-2022,EPL
+2021-11-28,Man City,West Ham,H,2021-2022,EPL
+2021-11-28,Chelsea,Man United,D,2021-2022,EPL
+2021-11-30,Newcastle,Norwich,D,2021-2022,EPL
+2021-11-30,Leeds,Crystal Palace,H,2021-2022,EPL
+2021-12-01,Southampton,Leicester,D,2021-2022,EPL
+2021-12-01,Watford,Chelsea,A,2021-2022,EPL
+2021-12-01,West Ham,Brighton,D,2021-2022,EPL
+2021-12-01,Wolves,Burnley,D,2021-2022,EPL
+2021-12-01,Aston Villa,Man City,A,2021-2022,EPL
+2021-12-01,Everton,Liverpool,A,2021-2022,EPL
+2021-12-02,Tottenham,Brentford,H,2021-2022,EPL
+2021-12-02,Man United,Arsenal,H,2021-2022,EPL
+2021-12-04,West Ham,Chelsea,H,2021-2022,EPL
+2021-12-04,Newcastle,Burnley,H,2021-2022,EPL
+2021-12-04,Southampton,Brighton,D,2021-2022,EPL
+2021-12-04,Wolves,Liverpool,A,2021-2022,EPL
+2021-12-04,Watford,Man City,A,2021-2022,EPL
+2021-12-05,Leeds,Brentford,D,2021-2022,EPL
+2021-12-05,Man United,Crystal Palace,H,2021-2022,EPL
+2021-12-05,Tottenham,Norwich,H,2021-2022,EPL
+2021-12-05,Aston Villa,Leicester,H,2021-2022,EPL
+2021-12-06,Everton,Arsenal,H,2021-2022,EPL
+2021-12-10,Brentford,Watford,H,2021-2022,EPL
+2021-12-11,Man City,Wolves,H,2021-2022,EPL
+2021-12-11,Arsenal,Southampton,H,2021-2022,EPL
+2021-12-11,Chelsea,Leeds,H,2021-2022,EPL
+2021-12-11,Liverpool,Aston Villa,H,2021-2022,EPL
+2021-12-11,Norwich,Man United,A,2021-2022,EPL
+2021-12-12,Burnley,West Ham,D,2021-2022,EPL
+2021-12-12,Leicester,Newcastle,H,2021-2022,EPL
+2021-12-12,Crystal Palace,Everton,H,2021-2022,EPL
+2021-12-14,Norwich,Aston Villa,A,2021-2022,EPL
+2021-12-14,Man City,Leeds,H,2021-2022,EPL
+2021-12-15,Brighton,Wolves,A,2021-2022,EPL
+2021-12-15,Crystal Palace,Southampton,D,2021-2022,EPL
+2021-12-15,Arsenal,West Ham,H,2021-2022,EPL
+2021-12-16,Chelsea,Everton,D,2021-2022,EPL
+2021-12-16,Liverpool,Newcastle,H,2021-2022,EPL
+2021-12-18,Leeds,Arsenal,A,2021-2022,EPL
+2021-12-19,Newcastle,Man City,A,2021-2022,EPL
+2021-12-19,Wolves,Chelsea,D,2021-2022,EPL
+2021-12-19,Tottenham,Liverpool,D,2021-2022,EPL
+2021-12-26,Man City,Leicester,H,2021-2022,EPL
+2021-12-26,Norwich,Arsenal,A,2021-2022,EPL
+2021-12-26,Tottenham,Crystal Palace,H,2021-2022,EPL
+2021-12-26,West Ham,Southampton,A,2021-2022,EPL
+2021-12-26,Aston Villa,Chelsea,A,2021-2022,EPL
+2021-12-26,Brighton,Brentford,H,2021-2022,EPL
+2021-12-27,Newcastle,Man United,D,2021-2022,EPL
+2021-12-28,Crystal Palace,Norwich,H,2021-2022,EPL
+2021-12-28,Southampton,Tottenham,D,2021-2022,EPL
+2021-12-28,Watford,West Ham,A,2021-2022,EPL
+2021-12-28,Leicester,Liverpool,H,2021-2022,EPL
+2021-12-29,Chelsea,Brighton,D,2021-2022,EPL
+2021-12-29,Brentford,Man City,A,2021-2022,EPL
+2021-12-30,Man United,Burnley,H,2021-2022,EPL
+2022-01-01,Arsenal,Man City,A,2021-2022,EPL
+2022-01-01,Watford,Tottenham,A,2021-2022,EPL
+2022-01-01,Crystal Palace,West Ham,A,2021-2022,EPL
+2022-01-02,Brentford,Aston Villa,H,2021-2022,EPL
+2022-01-02,Everton,Brighton,A,2021-2022,EPL
+2022-01-02,Leeds,Burnley,H,2021-2022,EPL
+2022-01-02,Chelsea,Liverpool,D,2021-2022,EPL
+2022-01-03,Man United,Wolves,A,2021-2022,EPL
+2022-01-11,Southampton,Brentford,H,2021-2022,EPL
+2022-01-12,West Ham,Norwich,H,2021-2022,EPL
+2022-01-14,Brighton,Crystal Palace,D,2021-2022,EPL
+2022-01-15,Man City,Chelsea,H,2021-2022,EPL
+2022-01-15,Newcastle,Watford,D,2021-2022,EPL
+2022-01-15,Norwich,Everton,H,2021-2022,EPL
+2022-01-15,Wolves,Southampton,H,2021-2022,EPL
+2022-01-15,Aston Villa,Man United,D,2021-2022,EPL
+2022-01-16,Liverpool,Brentford,H,2021-2022,EPL
+2022-01-16,West Ham,Leeds,A,2021-2022,EPL
+2022-01-18,Brighton,Chelsea,D,2021-2022,EPL
+2022-01-19,Leicester,Tottenham,A,2021-2022,EPL
+2022-01-19,Brentford,Man United,A,2021-2022,EPL
+2022-01-21,Watford,Norwich,A,2021-2022,EPL
+2022-01-22,Everton,Aston Villa,A,2021-2022,EPL
+2022-01-22,Brentford,Wolves,A,2021-2022,EPL
+2022-01-22,Leeds,Newcastle,A,2021-2022,EPL
+2022-01-22,Man United,West Ham,H,2021-2022,EPL
+2022-01-22,Southampton,Man City,D,2021-2022,EPL
+2022-01-23,Arsenal,Burnley,D,2021-2022,EPL
+2022-01-23,Crystal Palace,Liverpool,A,2021-2022,EPL
+2022-01-23,Leicester,Brighton,D,2021-2022,EPL
+2022-01-23,Chelsea,Tottenham,H,2021-2022,EPL
+2022-02-05,Burnley,Watford,D,2021-2022,EPL
+2022-02-08,Newcastle,Everton,H,2021-2022,EPL
+2022-02-08,West Ham,Watford,H,2021-2022,EPL
+2022-02-08,Burnley,Man United,D,2021-2022,EPL
+2022-02-09,Man City,Brentford,H,2021-2022,EPL
+2022-02-09,Norwich,Crystal Palace,D,2021-2022,EPL
+2022-02-09,Tottenham,Southampton,A,2021-2022,EPL
+2022-02-09,Aston Villa,Leeds,D,2021-2022,EPL
+2022-02-10,Liverpool,Leicester,H,2021-2022,EPL
+2022-02-10,Wolves,Arsenal,A,2021-2022,EPL
+2022-02-12,Man United,Southampton,D,2021-2022,EPL
+2022-02-12,Brentford,Crystal Palace,D,2021-2022,EPL
+2022-02-12,Everton,Leeds,H,2021-2022,EPL
+2022-02-12,Watford,Brighton,A,2021-2022,EPL
+2022-02-12,Norwich,Man City,A,2021-2022,EPL
+2022-02-13,Burnley,Liverpool,A,2021-2022,EPL
+2022-02-13,Newcastle,Aston Villa,H,2021-2022,EPL
+2022-02-13,Tottenham,Wolves,A,2021-2022,EPL
+2022-02-13,Leicester,West Ham,D,2021-2022,EPL
+2022-02-15,Man United,Brighton,H,2021-2022,EPL
+2022-02-19,West Ham,Newcastle,D,2021-2022,EPL
+2022-02-19,Arsenal,Brentford,H,2021-2022,EPL
+2022-02-19,Aston Villa,Watford,A,2021-2022,EPL
+2022-02-19,Brighton,Burnley,A,2021-2022,EPL
+2022-02-19,Crystal Palace,Chelsea,A,2021-2022,EPL
+2022-02-19,Liverpool,Norwich,H,2021-2022,EPL
+2022-02-19,Southampton,Everton,H,2021-2022,EPL
+2022-02-19,Man City,Tottenham,A,2021-2022,EPL
+2022-02-20,Leeds,Man United,A,2021-2022,EPL
+2022-02-20,Wolves,Leicester,H,2021-2022,EPL
+2022-02-23,Burnley,Tottenham,H,2021-2022,EPL
+2022-02-23,Watford,Crystal Palace,A,2021-2022,EPL
+2022-02-23,Liverpool,Leeds,H,2021-2022,EPL
+2022-02-24,Arsenal,Wolves,H,2021-2022,EPL
+2022-02-25,Southampton,Norwich,H,2021-2022,EPL
+2022-02-26,Leeds,Tottenham,A,2021-2022,EPL
+2022-02-26,Brentford,Newcastle,A,2021-2022,EPL
+2022-02-26,Crystal Palace,Burnley,D,2021-2022,EPL
+2022-02-26,Man United,Watford,D,2021-2022,EPL
+2022-02-26,Brighton,Aston Villa,A,2021-2022,EPL
+2022-02-26,Everton,Man City,A,2021-2022,EPL
+2022-02-27,West Ham,Wolves,H,2021-2022,EPL
+2022-03-01,Burnley,Leicester,A,2021-2022,EPL
+2022-03-05,Leicester,Leeds,H,2021-2022,EPL
+2022-03-05,Aston Villa,Southampton,H,2021-2022,EPL
+2022-03-05,Burnley,Chelsea,A,2021-2022,EPL
+2022-03-05,Newcastle,Brighton,H,2021-2022,EPL
+2022-03-05,Norwich,Brentford,A,2021-2022,EPL
+2022-03-05,Wolves,Crystal Palace,A,2021-2022,EPL
+2022-03-05,Liverpool,West Ham,H,2021-2022,EPL
+2022-03-06,Watford,Arsenal,A,2021-2022,EPL
+2022-03-06,Man City,Man United,H,2021-2022,EPL
+2022-03-07,Tottenham,Everton,H,2021-2022,EPL
+2022-03-10,Norwich,Chelsea,A,2021-2022,EPL
+2022-03-10,Southampton,Newcastle,A,2021-2022,EPL
+2022-03-10,Wolves,Watford,H,2021-2022,EPL
+2022-03-10,Leeds,Aston Villa,A,2021-2022,EPL
+2022-03-12,Brighton,Liverpool,A,2021-2022,EPL
+2022-03-12,Brentford,Burnley,H,2021-2022,EPL
+2022-03-12,Man United,Tottenham,H,2021-2022,EPL
+2022-03-13,Chelsea,Newcastle,H,2021-2022,EPL
+2022-03-13,Everton,Wolves,A,2021-2022,EPL
+2022-03-13,Leeds,Norwich,H,2021-2022,EPL
+2022-03-13,Southampton,Watford,A,2021-2022,EPL
+2022-03-13,West Ham,Aston Villa,H,2021-2022,EPL
+2022-03-13,Arsenal,Leicester,H,2021-2022,EPL
+2022-03-14,Crystal Palace,Man City,D,2021-2022,EPL
+2022-03-16,Brighton,Tottenham,A,2021-2022,EPL
+2022-03-16,Arsenal,Liverpool,A,2021-2022,EPL
+2022-03-17,Everton,Newcastle,H,2021-2022,EPL
+2022-03-18,Wolves,Leeds,A,2021-2022,EPL
+2022-03-19,Aston Villa,Arsenal,A,2021-2022,EPL
+2022-03-20,Leicester,Brentford,H,2021-2022,EPL
+2022-03-20,Tottenham,West Ham,H,2021-2022,EPL
+2022-04-02,Liverpool,Watford,H,2021-2022,EPL
+2022-04-02,Brighton,Norwich,D,2021-2022,EPL
+2022-04-02,Burnley,Man City,A,2021-2022,EPL
+2022-04-02,Chelsea,Brentford,A,2021-2022,EPL
+2022-04-02,Leeds,Southampton,D,2021-2022,EPL
+2022-04-02,Wolves,Aston Villa,H,2021-2022,EPL
+2022-04-02,Man United,Leicester,D,2021-2022,EPL
+2022-04-03,West Ham,Everton,H,2021-2022,EPL
+2022-04-03,Tottenham,Newcastle,H,2021-2022,EPL
+2022-04-04,Crystal Palace,Arsenal,H,2021-2022,EPL
+2022-04-06,Burnley,Everton,H,2021-2022,EPL
+2022-04-08,Newcastle,Wolves,H,2021-2022,EPL
+2022-04-09,Everton,Man United,H,2021-2022,EPL
+2022-04-09,Arsenal,Brighton,A,2021-2022,EPL
+2022-04-09,Southampton,Chelsea,A,2021-2022,EPL
+2022-04-09,Watford,Leeds,A,2021-2022,EPL
+2022-04-09,Aston Villa,Tottenham,A,2021-2022,EPL
+2022-04-10,Brentford,West Ham,H,2021-2022,EPL
+2022-04-10,Leicester,Crystal Palace,H,2021-2022,EPL
+2022-04-10,Norwich,Burnley,H,2021-2022,EPL
+2022-04-10,Man City,Liverpool,D,2021-2022,EPL
+2022-04-16,Tottenham,Brighton,A,2021-2022,EPL
+2022-04-16,Man United,Norwich,H,2021-2022,EPL
+2022-04-16,Southampton,Arsenal,H,2021-2022,EPL
+2022-04-16,Watford,Brentford,A,2021-2022,EPL
+2022-04-17,Newcastle,Leicester,H,2021-2022,EPL
+2022-04-17,West Ham,Burnley,D,2021-2022,EPL
+2022-04-19,Liverpool,Man United,H,2021-2022,EPL
+2022-04-20,Chelsea,Arsenal,A,2021-2022,EPL
+2022-04-20,Everton,Leicester,D,2021-2022,EPL
+2022-04-20,Newcastle,Crystal Palace,H,2021-2022,EPL
+2022-04-20,Man City,Brighton,H,2021-2022,EPL
+2022-04-21,Burnley,Southampton,H,2021-2022,EPL
+2022-04-23,Arsenal,Man United,H,2021-2022,EPL
+2022-04-23,Leicester,Aston Villa,D,2021-2022,EPL
+2022-04-23,Man City,Watford,H,2021-2022,EPL
+2022-04-23,Norwich,Newcastle,A,2021-2022,EPL
+2022-04-23,Brentford,Tottenham,D,2021-2022,EPL
+2022-04-24,Brighton,Southampton,D,2021-2022,EPL
+2022-04-24,Burnley,Wolves,H,2021-2022,EPL
+2022-04-24,Chelsea,West Ham,H,2021-2022,EPL
+2022-04-24,Liverpool,Everton,H,2021-2022,EPL
+2022-04-25,Crystal Palace,Leeds,D,2021-2022,EPL
+2022-04-28,Man United,Chelsea,D,2021-2022,EPL
+2022-04-30,Newcastle,Liverpool,A,2021-2022,EPL
+2022-04-30,Aston Villa,Norwich,H,2021-2022,EPL
+2022-04-30,Southampton,Crystal Palace,A,2021-2022,EPL
+2022-04-30,Watford,Burnley,A,2021-2022,EPL
+2022-04-30,Wolves,Brighton,A,2021-2022,EPL
+2022-04-30,Leeds,Man City,A,2021-2022,EPL
+2022-05-01,Everton,Chelsea,H,2021-2022,EPL
+2022-05-01,Tottenham,Leicester,H,2021-2022,EPL
+2022-05-01,West Ham,Arsenal,A,2021-2022,EPL
+2022-05-02,Man United,Brentford,H,2021-2022,EPL
+2022-05-07,Brentford,Southampton,H,2021-2022,EPL
+2022-05-07,Burnley,Aston Villa,A,2021-2022,EPL
+2022-05-07,Chelsea,Wolves,D,2021-2022,EPL
+2022-05-07,Crystal Palace,Watford,H,2021-2022,EPL
+2022-05-07,Brighton,Man United,H,2021-2022,EPL
+2022-05-07,Liverpool,Tottenham,D,2021-2022,EPL
+2022-05-08,Arsenal,Leeds,H,2021-2022,EPL
+2022-05-08,Leicester,Everton,A,2021-2022,EPL
+2022-05-08,Norwich,West Ham,A,2021-2022,EPL
+2022-05-08,Man City,Newcastle,H,2021-2022,EPL
+2022-05-10,Aston Villa,Liverpool,A,2021-2022,EPL
+2022-05-11,Leeds,Chelsea,A,2021-2022,EPL
+2022-05-11,Leicester,Norwich,H,2021-2022,EPL
+2022-05-11,Watford,Everton,D,2021-2022,EPL
+2022-05-11,Wolves,Man City,A,2021-2022,EPL
+2022-05-12,Tottenham,Arsenal,H,2021-2022,EPL
+2022-05-15,Tottenham,Burnley,H,2021-2022,EPL
+2022-05-15,Aston Villa,Crystal Palace,D,2021-2022,EPL
+2022-05-15,Leeds,Brighton,D,2021-2022,EPL
+2022-05-15,Watford,Leicester,A,2021-2022,EPL
+2022-05-15,West Ham,Man City,D,2021-2022,EPL
+2022-05-15,Wolves,Norwich,D,2021-2022,EPL
+2022-05-15,Everton,Brentford,A,2021-2022,EPL
+2022-05-16,Newcastle,Arsenal,H,2021-2022,EPL
+2022-05-17,Southampton,Liverpool,A,2021-2022,EPL
+2022-05-19,Everton,Crystal Palace,H,2021-2022,EPL
+2022-05-19,Aston Villa,Burnley,D,2021-2022,EPL
+2022-05-19,Chelsea,Leicester,D,2021-2022,EPL
+2022-05-22,Arsenal,Everton,H,2021-2022,EPL
+2022-05-22,Brentford,Leeds,A,2021-2022,EPL
+2022-05-22,Brighton,West Ham,H,2021-2022,EPL
+2022-05-22,Burnley,Newcastle,A,2021-2022,EPL
+2022-05-22,Chelsea,Watford,H,2021-2022,EPL
+2022-05-22,Crystal Palace,Man United,H,2021-2022,EPL
+2022-05-22,Leicester,Southampton,H,2021-2022,EPL
+2022-05-22,Liverpool,Wolves,H,2021-2022,EPL
+2022-05-22,Man City,Aston Villa,H,2021-2022,EPL
+2022-05-22,Norwich,Tottenham,A,2021-2022,EPL
+2021-08-13,Valencia,Getafe,H,2021-2022,LaLiga
+2021-08-14,Cadiz,Levante,D,2021-2022,LaLiga
+2021-08-14,Mallorca,Betis,D,2021-2022,LaLiga
+2021-08-14,Alaves,Real Madrid,A,2021-2022,LaLiga
+2021-08-14,Osasuna,Espanol,D,2021-2022,LaLiga
+2021-08-15,Celta,Ath Madrid,A,2021-2022,LaLiga
+2021-08-15,Barcelona,Sociedad,H,2021-2022,LaLiga
+2021-08-15,Sevilla,Vallecano,H,2021-2022,LaLiga
+2021-08-16,Villarreal,Granada,D,2021-2022,LaLiga
+2021-08-16,Elche,Ath Bilbao,D,2021-2022,LaLiga
+2021-08-20,Betis,Cadiz,D,2021-2022,LaLiga
+2021-08-21,Alaves,Mallorca,A,2021-2022,LaLiga
+2021-08-21,Espanol,Villarreal,D,2021-2022,LaLiga
+2021-08-21,Granada,Valencia,D,2021-2022,LaLiga
+2021-08-21,Ath Bilbao,Barcelona,D,2021-2022,LaLiga
+2021-08-22,Sociedad,Vallecano,H,2021-2022,LaLiga
+2021-08-22,Ath Madrid,Elche,H,2021-2022,LaLiga
+2021-08-22,Levante,Real Madrid,D,2021-2022,LaLiga
+2021-08-23,Getafe,Sevilla,A,2021-2022,LaLiga
+2021-08-23,Osasuna,Celta,D,2021-2022,LaLiga
+2021-08-27,Mallorca,Espanol,H,2021-2022,LaLiga
+2021-08-27,Valencia,Alaves,H,2021-2022,LaLiga
+2021-08-28,Celta,Ath Bilbao,A,2021-2022,LaLiga
+2021-08-28,Elche,Sevilla,D,2021-2022,LaLiga
+2021-08-28,Sociedad,Levante,H,2021-2022,LaLiga
+2021-08-28,Betis,Real Madrid,A,2021-2022,LaLiga
+2021-08-29,Barcelona,Getafe,H,2021-2022,LaLiga
+2021-08-29,Cadiz,Osasuna,A,2021-2022,LaLiga
+2021-08-29,Vallecano,Granada,H,2021-2022,LaLiga
+2021-08-29,Ath Madrid,Villarreal,D,2021-2022,LaLiga
+2021-09-11,Levante,Vallecano,D,2021-2022,LaLiga
+2021-09-11,Ath Bilbao,Mallorca,H,2021-2022,LaLiga
+2021-09-12,Espanol,Ath Madrid,A,2021-2022,LaLiga
+2021-09-12,Osasuna,Valencia,A,2021-2022,LaLiga
+2021-09-12,Cadiz,Sociedad,A,2021-2022,LaLiga
+2021-09-12,Real Madrid,Celta,H,2021-2022,LaLiga
+2021-09-13,Getafe,Elche,A,2021-2022,LaLiga
+2021-09-13,Granada,Betis,A,2021-2022,LaLiga
+2021-09-17,Celta,Cadiz,A,2021-2022,LaLiga
+2021-09-18,Vallecano,Getafe,H,2021-2022,LaLiga
+2021-09-18,Ath Madrid,Ath Bilbao,D,2021-2022,LaLiga
+2021-09-18,Elche,Levante,D,2021-2022,LaLiga
+2021-09-18,Alaves,Osasuna,A,2021-2022,LaLiga
+2021-09-19,Mallorca,Villarreal,D,2021-2022,LaLiga
+2021-09-19,Sociedad,Sevilla,D,2021-2022,LaLiga
+2021-09-19,Betis,Espanol,D,2021-2022,LaLiga
+2021-09-19,Valencia,Real Madrid,A,2021-2022,LaLiga
+2021-09-20,Barcelona,Granada,D,2021-2022,LaLiga
+2021-09-21,Getafe,Ath Madrid,A,2021-2022,LaLiga
+2021-09-21,Ath Bilbao,Vallecano,A,2021-2022,LaLiga
+2021-09-21,Levante,Celta,A,2021-2022,LaLiga
+2021-09-22,Espanol,Alaves,H,2021-2022,LaLiga
+2021-09-22,Sevilla,Valencia,H,2021-2022,LaLiga
+2021-09-22,Real Madrid,Mallorca,H,2021-2022,LaLiga
+2021-09-22,Villarreal,Elche,H,2021-2022,LaLiga
+2021-09-23,Granada,Sociedad,A,2021-2022,LaLiga
+2021-09-23,Osasuna,Betis,A,2021-2022,LaLiga
+2021-09-23,Cadiz,Barcelona,D,2021-2022,LaLiga
+2021-09-25,Alaves,Ath Madrid,H,2021-2022,LaLiga
+2021-09-25,Valencia,Ath Bilbao,D,2021-2022,LaLiga
+2021-09-25,Sevilla,Espanol,H,2021-2022,LaLiga
+2021-09-25,Real Madrid,Villarreal,D,2021-2022,LaLiga
+2021-09-26,Mallorca,Osasuna,A,2021-2022,LaLiga
+2021-09-26,Barcelona,Levante,H,2021-2022,LaLiga
+2021-09-26,Sociedad,Elche,H,2021-2022,LaLiga
+2021-09-26,Vallecano,Cadiz,H,2021-2022,LaLiga
+2021-09-26,Betis,Getafe,H,2021-2022,LaLiga
+2021-09-27,Celta,Granada,H,2021-2022,LaLiga
+2021-10-01,Ath Bilbao,Alaves,H,2021-2022,LaLiga
+2021-10-02,Osasuna,Vallecano,H,2021-2022,LaLiga
+2021-10-02,Mallorca,Levante,H,2021-2022,LaLiga
+2021-10-02,Cadiz,Valencia,D,2021-2022,LaLiga
+2021-10-02,Ath Madrid,Barcelona,H,2021-2022,LaLiga
+2021-10-03,Elche,Celta,H,2021-2022,LaLiga
+2021-10-03,Espanol,Real Madrid,H,2021-2022,LaLiga
+2021-10-03,Getafe,Sociedad,D,2021-2022,LaLiga
+2021-10-03,Villarreal,Betis,H,2021-2022,LaLiga
+2021-10-03,Granada,Sevilla,H,2021-2022,LaLiga
+2021-10-16,Levante,Getafe,D,2021-2022,LaLiga
+2021-10-16,Sociedad,Mallorca,H,2021-2022,LaLiga
+2021-10-17,Vallecano,Elche,H,2021-2022,LaLiga
+2021-10-17,Celta,Sevilla,A,2021-2022,LaLiga
+2021-10-17,Villarreal,Osasuna,A,2021-2022,LaLiga
+2021-10-17,Barcelona,Valencia,H,2021-2022,LaLiga
+2021-10-18,Alaves,Betis,A,2021-2022,LaLiga
+2021-10-18,Espanol,Cadiz,H,2021-2022,LaLiga
+2021-10-22,Osasuna,Granada,D,2021-2022,LaLiga
+2021-10-23,Valencia,Mallorca,D,2021-2022,LaLiga
+2021-10-23,Cadiz,Alaves,A,2021-2022,LaLiga
+2021-10-23,Elche,Espanol,D,2021-2022,LaLiga
+2021-10-23,Ath Bilbao,Villarreal,H,2021-2022,LaLiga
+2021-10-24,Sevilla,Levante,H,2021-2022,LaLiga
+2021-10-24,Barcelona,Real Madrid,A,2021-2022,LaLiga
+2021-10-24,Betis,Vallecano,H,2021-2022,LaLiga
+2021-10-24,Ath Madrid,Sociedad,D,2021-2022,LaLiga
+2021-10-25,Getafe,Celta,A,2021-2022,LaLiga
+2021-10-26,Alaves,Elche,H,2021-2022,LaLiga
+2021-10-26,Espanol,Ath Bilbao,D,2021-2022,LaLiga
+2021-10-26,Villarreal,Cadiz,D,2021-2022,LaLiga
+2021-10-27,Mallorca,Sevilla,D,2021-2022,LaLiga
+2021-10-27,Vallecano,Barcelona,H,2021-2022,LaLiga
+2021-10-27,Betis,Valencia,H,2021-2022,LaLiga
+2021-10-27,Real Madrid,Osasuna,D,2021-2022,LaLiga
+2021-10-28,Celta,Sociedad,A,2021-2022,LaLiga
+2021-10-28,Granada,Getafe,D,2021-2022,LaLiga
+2021-10-28,Levante,Ath Madrid,D,2021-2022,LaLiga
+2021-10-30,Elche,Real Madrid,A,2021-2022,LaLiga
+2021-10-30,Sevilla,Osasuna,H,2021-2022,LaLiga
+2021-10-30,Valencia,Villarreal,H,2021-2022,LaLiga
+2021-10-30,Barcelona,Alaves,D,2021-2022,LaLiga
+2021-10-31,Cadiz,Mallorca,D,2021-2022,LaLiga
+2021-10-31,Ath Madrid,Betis,H,2021-2022,LaLiga
+2021-10-31,Getafe,Espanol,H,2021-2022,LaLiga
+2021-10-31,Sociedad,Ath Bilbao,D,2021-2022,LaLiga
+2021-11-01,Vallecano,Celta,D,2021-2022,LaLiga
+2021-11-01,Levante,Granada,A,2021-2022,LaLiga
+2021-11-05,Ath Bilbao,Cadiz,A,2021-2022,LaLiga
+2021-11-06,Espanol,Granada,H,2021-2022,LaLiga
+2021-11-06,Celta,Barcelona,D,2021-2022,LaLiga
+2021-11-06,Alaves,Levante,H,2021-2022,LaLiga
+2021-11-06,Real Madrid,Vallecano,H,2021-2022,LaLiga
+2021-11-07,Villarreal,Getafe,H,2021-2022,LaLiga
+2021-11-07,Valencia,Ath Madrid,D,2021-2022,LaLiga
+2021-11-07,Mallorca,Elche,D,2021-2022,LaLiga
+2021-11-07,Osasuna,Sociedad,A,2021-2022,LaLiga
+2021-11-07,Betis,Sevilla,A,2021-2022,LaLiga
+2021-11-19,Levante,Ath Bilbao,D,2021-2022,LaLiga
+2021-11-20,Celta,Villarreal,D,2021-2022,LaLiga
+2021-11-20,Sevilla,Alaves,D,2021-2022,LaLiga
+2021-11-20,Ath Madrid,Osasuna,H,2021-2022,LaLiga
+2021-11-20,Barcelona,Espanol,H,2021-2022,LaLiga
+2021-11-21,Getafe,Cadiz,H,2021-2022,LaLiga
+2021-11-21,Granada,Real Madrid,A,2021-2022,LaLiga
+2021-11-21,Elche,Betis,A,2021-2022,LaLiga
+2021-11-21,Sociedad,Valencia,D,2021-2022,LaLiga
+2021-11-22,Vallecano,Mallorca,H,2021-2022,LaLiga
+2021-11-26,Ath Bilbao,Granada,D,2021-2022,LaLiga
+2021-11-27,Alaves,Celta,A,2021-2022,LaLiga
+2021-11-27,Valencia,Vallecano,D,2021-2022,LaLiga
+2021-11-27,Mallorca,Getafe,D,2021-2022,LaLiga
+2021-11-27,Villarreal,Barcelona,A,2021-2022,LaLiga
+2021-11-28,Betis,Levante,H,2021-2022,LaLiga
+2021-11-28,Espanol,Sociedad,H,2021-2022,LaLiga
+2021-11-28,Cadiz,Ath Madrid,A,2021-2022,LaLiga
+2021-11-28,Real Madrid,Sevilla,H,2021-2022,LaLiga
+2021-11-29,Osasuna,Elche,D,2021-2022,LaLiga
+2021-12-01,Real Madrid,Ath Bilbao,H,2021-2022,LaLiga
+2021-12-03,Granada,Alaves,H,2021-2022,LaLiga
+2021-12-04,Sevilla,Villarreal,H,2021-2022,LaLiga
+2021-12-04,Barcelona,Betis,A,2021-2022,LaLiga
+2021-12-04,Ath Madrid,Mallorca,A,2021-2022,LaLiga
+2021-12-04,Sociedad,Real Madrid,A,2021-2022,LaLiga
+2021-12-05,Vallecano,Espanol,H,2021-2022,LaLiga
+2021-12-05,Elche,Cadiz,H,2021-2022,LaLiga
+2021-12-05,Levante,Osasuna,D,2021-2022,LaLiga
+2021-12-05,Celta,Valencia,A,2021-2022,LaLiga
+2021-12-06,Getafe,Ath Bilbao,D,2021-2022,LaLiga
+2021-12-10,Mallorca,Celta,D,2021-2022,LaLiga
+2021-12-11,Espanol,Levante,H,2021-2022,LaLiga
+2021-12-11,Alaves,Getafe,D,2021-2022,LaLiga
+2021-12-11,Valencia,Elche,H,2021-2022,LaLiga
+2021-12-11,Ath Bilbao,Sevilla,A,2021-2022,LaLiga
+2021-12-12,Villarreal,Vallecano,H,2021-2022,LaLiga
+2021-12-12,Osasuna,Barcelona,D,2021-2022,LaLiga
+2021-12-12,Betis,Sociedad,H,2021-2022,LaLiga
+2021-12-12,Real Madrid,Ath Madrid,H,2021-2022,LaLiga
+2021-12-13,Cadiz,Granada,D,2021-2022,LaLiga
+2021-12-17,Celta,Espanol,H,2021-2022,LaLiga
+2021-12-18,Vallecano,Alaves,H,2021-2022,LaLiga
+2021-12-18,Sociedad,Villarreal,A,2021-2022,LaLiga
+2021-12-18,Barcelona,Elche,H,2021-2022,LaLiga
+2021-12-18,Sevilla,Ath Madrid,H,2021-2022,LaLiga
+2021-12-19,Granada,Mallorca,H,2021-2022,LaLiga
+2021-12-19,Ath Bilbao,Betis,H,2021-2022,LaLiga
+2021-12-19,Getafe,Osasuna,H,2021-2022,LaLiga
+2021-12-19,Real Madrid,Cadiz,D,2021-2022,LaLiga
+2021-12-20,Levante,Valencia,A,2021-2022,LaLiga
+2021-12-21,Villarreal,Alaves,H,2021-2022,LaLiga
+2021-12-21,Sevilla,Barcelona,D,2021-2022,LaLiga
+2021-12-22,Granada,Ath Madrid,H,2021-2022,LaLiga
+2021-12-22,Ath Bilbao,Real Madrid,A,2021-2022,LaLiga
+2021-12-31,Valencia,Espanol,A,2021-2022,LaLiga
+2022-01-02,Getafe,Real Madrid,H,2021-2022,LaLiga
+2022-01-02,Ath Madrid,Vallecano,H,2021-2022,LaLiga
+2022-01-02,Elche,Granada,D,2021-2022,LaLiga
+2022-01-02,Alaves,Sociedad,D,2021-2022,LaLiga
+2022-01-02,Betis,Celta,A,2021-2022,LaLiga
+2022-01-02,Mallorca,Barcelona,A,2021-2022,LaLiga
+2022-01-03,Villarreal,Levante,H,2021-2022,LaLiga
+2022-01-03,Osasuna,Ath Bilbao,A,2021-2022,LaLiga
+2022-01-03,Cadiz,Sevilla,A,2021-2022,LaLiga
+2022-01-08,Levante,Mallorca,H,2021-2022,LaLiga
+2022-01-08,Sociedad,Celta,H,2021-2022,LaLiga
+2022-01-08,Granada,Barcelona,D,2021-2022,LaLiga
+2022-01-08,Real Madrid,Valencia,H,2021-2022,LaLiga
+2022-01-09,Vallecano,Betis,D,2021-2022,LaLiga
+2022-01-09,Sevilla,Getafe,H,2021-2022,LaLiga
+2022-01-09,Alaves,Ath Bilbao,D,2021-2022,LaLiga
+2022-01-09,Osasuna,Cadiz,H,2021-2022,LaLiga
+2022-01-09,Villarreal,Ath Madrid,D,2021-2022,LaLiga
+2022-01-10,Espanol,Elche,A,2021-2022,LaLiga
+2022-01-16,Elche,Villarreal,H,2021-2022,LaLiga
+2022-01-18,Betis,Alaves,H,2021-2022,LaLiga
+2022-01-18,Cadiz,Espanol,D,2021-2022,LaLiga
+2022-01-19,Celta,Osasuna,H,2021-2022,LaLiga
+2022-01-19,Valencia,Sevilla,D,2021-2022,LaLiga
+2022-01-20,Getafe,Granada,H,2021-2022,LaLiga
+2022-01-21,Espanol,Betis,A,2021-2022,LaLiga
+2022-01-22,Levante,Cadiz,A,2021-2022,LaLiga
+2022-01-22,Villarreal,Mallorca,H,2021-2022,LaLiga
+2022-01-22,Sevilla,Celta,D,2021-2022,LaLiga
+2022-01-22,Ath Madrid,Valencia,H,2021-2022,LaLiga
+2022-01-23,Granada,Osasuna,A,2021-2022,LaLiga
+2022-01-23,Real Madrid,Elche,D,2021-2022,LaLiga
+2022-01-23,Sociedad,Getafe,D,2021-2022,LaLiga
+2022-01-23,Vallecano,Ath Bilbao,A,2021-2022,LaLiga
+2022-01-23,Alaves,Barcelona,A,2021-2022,LaLiga
+2022-02-04,Getafe,Levante,H,2021-2022,LaLiga
+2022-02-05,Elche,Alaves,H,2021-2022,LaLiga
+2022-02-05,Mallorca,Cadiz,H,2021-2022,LaLiga
+2022-02-05,Celta,Vallecano,H,2021-2022,LaLiga
+2022-02-05,Osasuna,Sevilla,D,2021-2022,LaLiga
+2022-02-06,Valencia,Sociedad,D,2021-2022,LaLiga
+2022-02-06,Barcelona,Ath Madrid,H,2021-2022,LaLiga
+2022-02-06,Betis,Villarreal,A,2021-2022,LaLiga
+2022-02-06,Real Madrid,Granada,H,2021-2022,LaLiga
+2022-02-07,Ath Bilbao,Espanol,H,2021-2022,LaLiga
+2022-02-11,Sevilla,Elche,H,2021-2022,LaLiga
+2022-02-12,Cadiz,Celta,D,2021-2022,LaLiga
+2022-02-12,Villarreal,Real Madrid,D,2021-2022,LaLiga
+2022-02-12,Vallecano,Osasuna,A,2021-2022,LaLiga
+2022-02-12,Ath Madrid,Getafe,H,2021-2022,LaLiga
+2022-02-13,Alaves,Valencia,H,2021-2022,LaLiga
+2022-02-13,Levante,Betis,A,2021-2022,LaLiga
+2022-02-13,Sociedad,Granada,H,2021-2022,LaLiga
+2022-02-13,Espanol,Barcelona,D,2021-2022,LaLiga
+2022-02-14,Mallorca,Ath Bilbao,H,2021-2022,LaLiga
+2022-02-16,Ath Madrid,Levante,A,2021-2022,LaLiga
+2022-02-18,Elche,Vallecano,H,2021-2022,LaLiga
+2022-02-19,Granada,Villarreal,A,2021-2022,LaLiga
+2022-02-19,Osasuna,Ath Madrid,A,2021-2022,LaLiga
+2022-02-19,Cadiz,Getafe,D,2021-2022,LaLiga
+2022-02-19,Real Madrid,Alaves,H,2021-2022,LaLiga
+2022-02-20,Espanol,Sevilla,D,2021-2022,LaLiga
+2022-02-20,Valencia,Barcelona,A,2021-2022,LaLiga
+2022-02-20,Betis,Mallorca,H,2021-2022,LaLiga
+2022-02-20,Ath Bilbao,Sociedad,H,2021-2022,LaLiga
+2022-02-21,Celta,Levante,D,2021-2022,LaLiga
+2022-02-25,Levante,Elche,H,2021-2022,LaLiga
+2022-02-26,Mallorca,Valencia,A,2021-2022,LaLiga
+2022-02-26,Getafe,Alaves,D,2021-2022,LaLiga
+2022-02-26,Vallecano,Real Madrid,A,2021-2022,LaLiga
+2022-02-26,Ath Madrid,Celta,H,2021-2022,LaLiga
+2022-02-27,Villarreal,Espanol,H,2021-2022,LaLiga
+2022-02-27,Sevilla,Betis,H,2021-2022,LaLiga
+2022-02-27,Sociedad,Osasuna,H,2021-2022,LaLiga
+2022-02-27,Barcelona,Ath Bilbao,H,2021-2022,LaLiga
+2022-02-28,Granada,Cadiz,D,2021-2022,LaLiga
+2022-03-02,Mallorca,Sociedad,A,2021-2022,LaLiga
+2022-03-04,Alaves,Sevilla,D,2021-2022,LaLiga
+2022-03-05,Osasuna,Villarreal,H,2021-2022,LaLiga
+2022-03-05,Espanol,Getafe,H,2021-2022,LaLiga
+2022-03-05,Valencia,Granada,H,2021-2022,LaLiga
+2022-03-05,Real Madrid,Sociedad,H,2021-2022,LaLiga
+2022-03-06,Cadiz,Vallecano,H,2021-2022,LaLiga
+2022-03-06,Elche,Barcelona,A,2021-2022,LaLiga
+2022-03-06,Celta,Mallorca,H,2021-2022,LaLiga
+2022-03-06,Betis,Ath Madrid,A,2021-2022,LaLiga
+2022-03-07,Ath Bilbao,Levante,H,2021-2022,LaLiga
+2022-03-11,Ath Madrid,Cadiz,H,2021-2022,LaLiga
+2022-03-12,Levante,Espanol,D,2021-2022,LaLiga
+2022-03-12,Granada,Elche,A,2021-2022,LaLiga
+2022-03-12,Villarreal,Celta,H,2021-2022,LaLiga
+2022-03-12,Getafe,Valencia,D,2021-2022,LaLiga
+2022-03-13,Vallecano,Sevilla,D,2021-2022,LaLiga
+2022-03-13,Betis,Ath Bilbao,H,2021-2022,LaLiga
+2022-03-13,Sociedad,Alaves,H,2021-2022,LaLiga
+2022-03-13,Barcelona,Osasuna,H,2021-2022,LaLiga
+2022-03-14,Mallorca,Real Madrid,A,2021-2022,LaLiga
+2022-03-18,Ath Bilbao,Getafe,D,2021-2022,LaLiga
+2022-03-19,Alaves,Granada,A,2021-2022,LaLiga
+2022-03-19,Elche,Valencia,A,2021-2022,LaLiga
+2022-03-19,Osasuna,Levante,H,2021-2022,LaLiga
+2022-03-19,Vallecano,Ath Madrid,A,2021-2022,LaLiga
+2022-03-20,Espanol,Mallorca,H,2021-2022,LaLiga
+2022-03-20,Cadiz,Villarreal,H,2021-2022,LaLiga
+2022-03-20,Celta,Betis,D,2021-2022,LaLiga
+2022-03-20,Sevilla,Sociedad,D,2021-2022,LaLiga
+2022-03-20,Real Madrid,Barcelona,A,2021-2022,LaLiga
+2022-04-02,Getafe,Mallorca,H,2021-2022,LaLiga
+2022-04-02,Levante,Villarreal,H,2021-2022,LaLiga
+2022-04-02,Celta,Real Madrid,A,2021-2022,LaLiga
+2022-04-02,Ath Madrid,Alaves,H,2021-2022,LaLiga
+2022-04-03,Ath Bilbao,Elche,H,2021-2022,LaLiga
+2022-04-03,Betis,Osasuna,H,2021-2022,LaLiga
+2022-04-03,Granada,Vallecano,D,2021-2022,LaLiga
+2022-04-03,Valencia,Cadiz,D,2021-2022,LaLiga
+2022-04-03,Barcelona,Sevilla,H,2021-2022,LaLiga
+2022-04-04,Sociedad,Espanol,H,2021-2022,LaLiga
+2022-04-08,Sevilla,Granada,H,2021-2022,LaLiga
+2022-04-09,Cadiz,Betis,A,2021-2022,LaLiga
+2022-04-09,Mallorca,Ath Madrid,H,2021-2022,LaLiga
+2022-04-09,Villarreal,Ath Bilbao,D,2021-2022,LaLiga
+2022-04-09,Real Madrid,Getafe,H,2021-2022,LaLiga
+2022-04-10,Osasuna,Alaves,H,2021-2022,LaLiga
+2022-04-10,Espanol,Celta,H,2021-2022,LaLiga
+2022-04-10,Elche,Sociedad,A,2021-2022,LaLiga
+2022-04-10,Levante,Barcelona,A,2021-2022,LaLiga
+2022-04-11,Vallecano,Valencia,D,2021-2022,LaLiga
+2022-04-15,Sociedad,Betis,D,2021-2022,LaLiga
+2022-04-16,Elche,Mallorca,H,2021-2022,LaLiga
+2022-04-16,Alaves,Vallecano,H,2021-2022,LaLiga
+2022-04-16,Valencia,Osasuna,A,2021-2022,LaLiga
+2022-04-16,Getafe,Villarreal,A,2021-2022,LaLiga
+2022-04-17,Granada,Levante,A,2021-2022,LaLiga
+2022-04-17,Ath Madrid,Espanol,H,2021-2022,LaLiga
+2022-04-17,Ath Bilbao,Celta,A,2021-2022,LaLiga
+2022-04-17,Sevilla,Real Madrid,A,2021-2022,LaLiga
+2022-04-18,Barcelona,Cadiz,A,2021-2022,LaLiga
+2022-04-19,Mallorca,Alaves,H,2021-2022,LaLiga
+2022-04-19,Betis,Elche,A,2021-2022,LaLiga
+2022-04-19,Villarreal,Valencia,H,2021-2022,LaLiga
+2022-04-20,Ath Madrid,Granada,D,2021-2022,LaLiga
+2022-04-20,Celta,Getafe,A,2021-2022,LaLiga
+2022-04-20,Osasuna,Real Madrid,A,2021-2022,LaLiga
+2022-04-21,Espanol,Vallecano,A,2021-2022,LaLiga
+2022-04-21,Levante,Sevilla,A,2021-2022,LaLiga
+2022-04-21,Cadiz,Ath Bilbao,A,2021-2022,LaLiga
+2022-04-21,Sociedad,Barcelona,A,2021-2022,LaLiga
+2022-04-24,Barcelona,Vallecano,A,2021-2022,LaLiga
+2022-04-29,Sevilla,Cadiz,D,2021-2022,LaLiga
+2022-04-30,Alaves,Villarreal,H,2021-2022,LaLiga
+2022-04-30,Real Madrid,Espanol,H,2021-2022,LaLiga
+2022-04-30,Valencia,Levante,D,2021-2022,LaLiga
+2022-04-30,Ath Bilbao,Ath Madrid,H,2021-2022,LaLiga
+2022-05-01,Elche,Osasuna,D,2021-2022,LaLiga
+2022-05-01,Granada,Celta,D,2021-2022,LaLiga
+2022-05-01,Vallecano,Sociedad,D,2021-2022,LaLiga
+2022-05-01,Barcelona,Mallorca,H,2021-2022,LaLiga
+2022-05-02,Getafe,Betis,D,2021-2022,LaLiga
+2022-05-06,Levante,Sociedad,H,2021-2022,LaLiga
+2022-05-07,Mallorca,Granada,A,2021-2022,LaLiga
+2022-05-07,Ath Bilbao,Valencia,D,2021-2022,LaLiga
+2022-05-07,Cadiz,Elche,H,2021-2022,LaLiga
+2022-05-07,Celta,Alaves,H,2021-2022,LaLiga
+2022-05-07,Betis,Barcelona,A,2021-2022,LaLiga
+2022-05-08,Getafe,Vallecano,D,2021-2022,LaLiga
+2022-05-08,Villarreal,Sevilla,D,2021-2022,LaLiga
+2022-05-08,Espanol,Osasuna,D,2021-2022,LaLiga
+2022-05-08,Ath Madrid,Real Madrid,H,2021-2022,LaLiga
+2022-05-10,Valencia,Betis,A,2021-2022,LaLiga
+2022-05-10,Granada,Ath Bilbao,H,2021-2022,LaLiga
+2022-05-10,Barcelona,Celta,H,2021-2022,LaLiga
+2022-05-11,Alaves,Espanol,H,2021-2022,LaLiga
+2022-05-11,Osasuna,Getafe,D,2021-2022,LaLiga
+2022-05-11,Sevilla,Mallorca,D,2021-2022,LaLiga
+2022-05-11,Elche,Ath Madrid,A,2021-2022,LaLiga
+2022-05-12,Sociedad,Cadiz,H,2021-2022,LaLiga
+2022-05-12,Vallecano,Villarreal,A,2021-2022,LaLiga
+2022-05-12,Real Madrid,Levante,H,2021-2022,LaLiga
+2022-05-14,Espanol,Valencia,D,2021-2022,LaLiga
+2022-05-15,Ath Bilbao,Osasuna,H,2021-2022,LaLiga
+2022-05-15,Ath Madrid,Sevilla,D,2021-2022,LaLiga
+2022-05-15,Betis,Granada,H,2021-2022,LaLiga
+2022-05-15,Cadiz,Real Madrid,D,2021-2022,LaLiga
+2022-05-15,Celta,Elche,H,2021-2022,LaLiga
+2022-05-15,Getafe,Barcelona,D,2021-2022,LaLiga
+2022-05-15,Levante,Alaves,H,2021-2022,LaLiga
+2022-05-15,Mallorca,Vallecano,H,2021-2022,LaLiga
+2022-05-15,Villarreal,Sociedad,A,2021-2022,LaLiga
+2022-05-20,Real Madrid,Betis,D,2021-2022,LaLiga
+2022-05-20,Vallecano,Levante,A,2021-2022,LaLiga
+2022-05-21,Valencia,Celta,H,2021-2022,LaLiga
+2022-05-22,Elche,Getafe,H,2021-2022,LaLiga
+2022-05-22,Alaves,Cadiz,A,2021-2022,LaLiga
+2022-05-22,Granada,Espanol,D,2021-2022,LaLiga
+2022-05-22,Osasuna,Mallorca,A,2021-2022,LaLiga
+2022-05-22,Barcelona,Villarreal,A,2021-2022,LaLiga
+2022-05-22,Sevilla,Ath Bilbao,H,2021-2022,LaLiga
+2022-05-22,Sociedad,Ath Madrid,A,2021-2022,LaLiga
+2022-08-05,Crystal Palace,Arsenal,A,2022-2023,EPL
+2022-08-06,Fulham,Liverpool,D,2022-2023,EPL
+2022-08-06,Bournemouth,Aston Villa,H,2022-2023,EPL
+2022-08-06,Leeds,Wolves,H,2022-2023,EPL
+2022-08-06,Newcastle,Nott'm Forest,H,2022-2023,EPL
+2022-08-06,Tottenham,Southampton,H,2022-2023,EPL
+2022-08-06,Everton,Chelsea,A,2022-2023,EPL
+2022-08-07,Leicester,Brentford,D,2022-2023,EPL
+2022-08-07,Man United,Brighton,A,2022-2023,EPL
+2022-08-07,West Ham,Man City,A,2022-2023,EPL
+2022-08-13,Aston Villa,Everton,H,2022-2023,EPL
+2022-08-13,Arsenal,Leicester,H,2022-2023,EPL
+2022-08-13,Brighton,Newcastle,D,2022-2023,EPL
+2022-08-13,Man City,Bournemouth,H,2022-2023,EPL
+2022-08-13,Southampton,Leeds,D,2022-2023,EPL
+2022-08-13,Wolves,Fulham,D,2022-2023,EPL
+2022-08-13,Brentford,Man United,H,2022-2023,EPL
+2022-08-14,Nott'm Forest,West Ham,H,2022-2023,EPL
+2022-08-14,Chelsea,Tottenham,D,2022-2023,EPL
+2022-08-15,Liverpool,Crystal Palace,D,2022-2023,EPL
+2022-08-20,Tottenham,Wolves,H,2022-2023,EPL
+2022-08-20,Crystal Palace,Aston Villa,H,2022-2023,EPL
+2022-08-20,Everton,Nott'm Forest,D,2022-2023,EPL
+2022-08-20,Fulham,Brentford,H,2022-2023,EPL
+2022-08-20,Leicester,Southampton,A,2022-2023,EPL
+2022-08-20,Bournemouth,Arsenal,A,2022-2023,EPL
+2022-08-21,Leeds,Chelsea,H,2022-2023,EPL
+2022-08-21,West Ham,Brighton,A,2022-2023,EPL
+2022-08-21,Newcastle,Man City,D,2022-2023,EPL
+2022-08-22,Man United,Liverpool,H,2022-2023,EPL
+2022-08-27,Southampton,Man United,A,2022-2023,EPL
+2022-08-27,Brentford,Everton,D,2022-2023,EPL
+2022-08-27,Brighton,Leeds,H,2022-2023,EPL
+2022-08-27,Chelsea,Leicester,H,2022-2023,EPL
+2022-08-27,Liverpool,Bournemouth,H,2022-2023,EPL
+2022-08-27,Man City,Crystal Palace,H,2022-2023,EPL
+2022-08-27,Arsenal,Fulham,H,2022-2023,EPL
+2022-08-28,Aston Villa,West Ham,A,2022-2023,EPL
+2022-08-28,Wolves,Newcastle,D,2022-2023,EPL
+2022-08-28,Nott'm Forest,Tottenham,A,2022-2023,EPL
+2022-08-30,Crystal Palace,Brentford,D,2022-2023,EPL
+2022-08-30,Fulham,Brighton,H,2022-2023,EPL
+2022-08-30,Southampton,Chelsea,H,2022-2023,EPL
+2022-08-30,Leeds,Everton,D,2022-2023,EPL
+2022-08-31,Arsenal,Aston Villa,H,2022-2023,EPL
+2022-08-31,Bournemouth,Wolves,D,2022-2023,EPL
+2022-08-31,Man City,Nott'm Forest,H,2022-2023,EPL
+2022-08-31,West Ham,Tottenham,D,2022-2023,EPL
+2022-08-31,Liverpool,Newcastle,H,2022-2023,EPL
+2022-09-01,Leicester,Man United,A,2022-2023,EPL
+2022-09-03,Everton,Liverpool,D,2022-2023,EPL
+2022-09-03,Brentford,Leeds,H,2022-2023,EPL
+2022-09-03,Chelsea,West Ham,H,2022-2023,EPL
+2022-09-03,Newcastle,Crystal Palace,D,2022-2023,EPL
+2022-09-03,Nott'm Forest,Bournemouth,A,2022-2023,EPL
+2022-09-03,Tottenham,Fulham,H,2022-2023,EPL
+2022-09-03,Wolves,Southampton,H,2022-2023,EPL
+2022-09-03,Aston Villa,Man City,D,2022-2023,EPL
+2022-09-04,Brighton,Leicester,H,2022-2023,EPL
+2022-09-04,Man United,Arsenal,H,2022-2023,EPL
+2022-09-16,Aston Villa,Southampton,H,2022-2023,EPL
+2022-09-16,Nott'm Forest,Fulham,A,2022-2023,EPL
+2022-09-17,Wolves,Man City,A,2022-2023,EPL
+2022-09-17,Newcastle,Bournemouth,D,2022-2023,EPL
+2022-09-17,Tottenham,Leicester,H,2022-2023,EPL
+2022-09-18,Brentford,Arsenal,A,2022-2023,EPL
+2022-09-18,Everton,West Ham,H,2022-2023,EPL
+2022-10-01,Arsenal,Tottenham,H,2022-2023,EPL
+2022-10-01,Bournemouth,Brentford,D,2022-2023,EPL
+2022-10-01,Crystal Palace,Chelsea,A,2022-2023,EPL
+2022-10-01,Fulham,Newcastle,A,2022-2023,EPL
+2022-10-01,Liverpool,Brighton,D,2022-2023,EPL
+2022-10-01,Southampton,Everton,A,2022-2023,EPL
+2022-10-01,West Ham,Wolves,H,2022-2023,EPL
+2022-10-02,Man City,Man United,H,2022-2023,EPL
+2022-10-02,Leeds,Aston Villa,D,2022-2023,EPL
+2022-10-03,Leicester,Nott'm Forest,H,2022-2023,EPL
+2022-10-08,Bournemouth,Leicester,H,2022-2023,EPL
+2022-10-08,Chelsea,Wolves,H,2022-2023,EPL
+2022-10-08,Man City,Southampton,H,2022-2023,EPL
+2022-10-08,Newcastle,Brentford,H,2022-2023,EPL
+2022-10-08,Brighton,Tottenham,A,2022-2023,EPL
+2022-10-09,Crystal Palace,Leeds,H,2022-2023,EPL
+2022-10-09,West Ham,Fulham,H,2022-2023,EPL
+2022-10-09,Arsenal,Liverpool,H,2022-2023,EPL
+2022-10-09,Everton,Man United,A,2022-2023,EPL
+2022-10-10,Nott'm Forest,Aston Villa,D,2022-2023,EPL
+2022-10-14,Brentford,Brighton,H,2022-2023,EPL
+2022-10-15,Leicester,Crystal Palace,D,2022-2023,EPL
+2022-10-15,Fulham,Bournemouth,D,2022-2023,EPL
+2022-10-15,Wolves,Nott'm Forest,H,2022-2023,EPL
+2022-10-15,Tottenham,Everton,H,2022-2023,EPL
+2022-10-16,Aston Villa,Chelsea,A,2022-2023,EPL
+2022-10-16,Leeds,Arsenal,A,2022-2023,EPL
+2022-10-16,Man United,Newcastle,D,2022-2023,EPL
+2022-10-16,Southampton,West Ham,D,2022-2023,EPL
+2022-10-16,Liverpool,Man City,H,2022-2023,EPL
+2022-10-18,Brighton,Nott'm Forest,D,2022-2023,EPL
+2022-10-18,Crystal Palace,Wolves,H,2022-2023,EPL
+2022-10-19,Bournemouth,Southampton,A,2022-2023,EPL
+2022-10-19,Brentford,Chelsea,D,2022-2023,EPL
+2022-10-19,Liverpool,West Ham,H,2022-2023,EPL
+2022-10-19,Newcastle,Everton,H,2022-2023,EPL
+2022-10-19,Man United,Tottenham,H,2022-2023,EPL
+2022-10-20,Fulham,Aston Villa,H,2022-2023,EPL
+2022-10-20,Leicester,Leeds,H,2022-2023,EPL
+2022-10-22,Nott'm Forest,Liverpool,H,2022-2023,EPL
+2022-10-22,Everton,Crystal Palace,H,2022-2023,EPL
+2022-10-22,Man City,Brighton,H,2022-2023,EPL
+2022-10-22,Chelsea,Man United,D,2022-2023,EPL
+2022-10-23,Aston Villa,Brentford,H,2022-2023,EPL
+2022-10-23,Leeds,Fulham,A,2022-2023,EPL
+2022-10-23,Southampton,Arsenal,D,2022-2023,EPL
+2022-10-23,Wolves,Leicester,A,2022-2023,EPL
+2022-10-23,Tottenham,Newcastle,A,2022-2023,EPL
+2022-10-24,West Ham,Bournemouth,H,2022-2023,EPL
+2022-10-29,Leicester,Man City,A,2022-2023,EPL
+2022-10-29,Bournemouth,Tottenham,A,2022-2023,EPL
+2022-10-29,Brentford,Wolves,D,2022-2023,EPL
+2022-10-29,Brighton,Chelsea,H,2022-2023,EPL
+2022-10-29,Crystal Palace,Southampton,H,2022-2023,EPL
+2022-10-29,Newcastle,Aston Villa,H,2022-2023,EPL
+2022-10-29,Fulham,Everton,D,2022-2023,EPL
+2022-10-29,Liverpool,Leeds,A,2022-2023,EPL
+2022-10-30,Arsenal,Nott'm Forest,H,2022-2023,EPL
+2022-10-30,Man United,West Ham,H,2022-2023,EPL
+2022-11-05,Leeds,Bournemouth,H,2022-2023,EPL
+2022-11-05,Man City,Fulham,H,2022-2023,EPL
+2022-11-05,Nott'm Forest,Brentford,D,2022-2023,EPL
+2022-11-05,Wolves,Brighton,A,2022-2023,EPL
+2022-11-05,Everton,Leicester,A,2022-2023,EPL
+2022-11-06,Chelsea,Arsenal,A,2022-2023,EPL
+2022-11-06,Aston Villa,Man United,H,2022-2023,EPL
+2022-11-06,Southampton,Newcastle,A,2022-2023,EPL
+2022-11-06,West Ham,Crystal Palace,A,2022-2023,EPL
+2022-11-06,Tottenham,Liverpool,A,2022-2023,EPL
+2022-11-12,Man City,Brentford,A,2022-2023,EPL
+2022-11-12,Bournemouth,Everton,H,2022-2023,EPL
+2022-11-12,Liverpool,Southampton,H,2022-2023,EPL
+2022-11-12,Nott'm Forest,Crystal Palace,H,2022-2023,EPL
+2022-11-12,Tottenham,Leeds,H,2022-2023,EPL
+2022-11-12,West Ham,Leicester,A,2022-2023,EPL
+2022-11-12,Newcastle,Chelsea,H,2022-2023,EPL
+2022-11-12,Wolves,Arsenal,A,2022-2023,EPL
+2022-11-13,Brighton,Aston Villa,A,2022-2023,EPL
+2022-11-13,Fulham,Man United,A,2022-2023,EPL
+2022-12-26,Brentford,Tottenham,D,2022-2023,EPL
+2022-12-26,Crystal Palace,Fulham,A,2022-2023,EPL
+2022-12-26,Everton,Wolves,A,2022-2023,EPL
+2022-12-26,Leicester,Newcastle,A,2022-2023,EPL
+2022-12-26,Southampton,Brighton,A,2022-2023,EPL
+2022-12-26,Aston Villa,Liverpool,A,2022-2023,EPL
+2022-12-26,Arsenal,West Ham,H,2022-2023,EPL
+2022-12-27,Chelsea,Bournemouth,H,2022-2023,EPL
+2022-12-27,Man United,Nott'm Forest,H,2022-2023,EPL
+2022-12-28,Leeds,Man City,A,2022-2023,EPL
+2022-12-30,West Ham,Brentford,A,2022-2023,EPL
+2022-12-30,Liverpool,Leicester,H,2022-2023,EPL
+2022-12-31,Wolves,Man United,A,2022-2023,EPL
+2022-12-31,Bournemouth,Crystal Palace,A,2022-2023,EPL
+2022-12-31,Fulham,Southampton,H,2022-2023,EPL
+2022-12-31,Man City,Everton,D,2022-2023,EPL
+2022-12-31,Newcastle,Leeds,D,2022-2023,EPL
+2022-12-31,Brighton,Arsenal,A,2022-2023,EPL
+2023-01-01,Tottenham,Aston Villa,A,2022-2023,EPL
+2023-01-01,Nott'm Forest,Chelsea,D,2022-2023,EPL
+2023-01-02,Brentford,Liverpool,H,2022-2023,EPL
+2023-01-03,Arsenal,Newcastle,D,2022-2023,EPL
+2023-01-03,Everton,Brighton,A,2022-2023,EPL
+2023-01-03,Leicester,Fulham,A,2022-2023,EPL
+2023-01-03,Man United,Bournemouth,H,2022-2023,EPL
+2023-01-04,Southampton,Nott'm Forest,A,2022-2023,EPL
+2023-01-04,Leeds,West Ham,D,2022-2023,EPL
+2023-01-04,Aston Villa,Wolves,D,2022-2023,EPL
+2023-01-04,Crystal Palace,Tottenham,A,2022-2023,EPL
+2023-01-05,Chelsea,Man City,A,2022-2023,EPL
+2023-01-12,Fulham,Chelsea,H,2022-2023,EPL
+2023-01-13,Aston Villa,Leeds,H,2022-2023,EPL
+2023-01-14,Man United,Man City,H,2022-2023,EPL
+2023-01-14,Brighton,Liverpool,H,2022-2023,EPL
+2023-01-14,Everton,Southampton,A,2022-2023,EPL
+2023-01-14,Nott'm Forest,Leicester,H,2022-2023,EPL
+2023-01-14,Wolves,West Ham,H,2022-2023,EPL
+2023-01-14,Brentford,Bournemouth,H,2022-2023,EPL
+2023-01-15,Chelsea,Crystal Palace,H,2022-2023,EPL
+2023-01-15,Newcastle,Fulham,H,2022-2023,EPL
+2023-01-15,Tottenham,Arsenal,A,2022-2023,EPL
+2023-01-18,Crystal Palace,Man United,D,2022-2023,EPL
+2023-01-19,Man City,Tottenham,H,2022-2023,EPL
+2023-01-21,Liverpool,Chelsea,D,2022-2023,EPL
+2023-01-21,Bournemouth,Nott'm Forest,D,2022-2023,EPL
+2023-01-21,Leicester,Brighton,D,2022-2023,EPL
+2023-01-21,Southampton,Aston Villa,A,2022-2023,EPL
+2023-01-21,West Ham,Everton,H,2022-2023,EPL
+2023-01-21,Crystal Palace,Newcastle,D,2022-2023,EPL
+2023-01-22,Leeds,Brentford,D,2022-2023,EPL
+2023-01-22,Man City,Wolves,H,2022-2023,EPL
+2023-01-22,Arsenal,Man United,H,2022-2023,EPL
+2023-01-23,Fulham,Tottenham,A,2022-2023,EPL
+2023-02-03,Chelsea,Fulham,D,2022-2023,EPL
+2023-02-04,Everton,Arsenal,H,2022-2023,EPL
+2023-02-04,Aston Villa,Leicester,A,2022-2023,EPL
+2023-02-04,Brentford,Southampton,H,2022-2023,EPL
+2023-02-04,Brighton,Bournemouth,H,2022-2023,EPL
+2023-02-04,Man United,Crystal Palace,H,2022-2023,EPL
+2023-02-04,Wolves,Liverpool,H,2022-2023,EPL
+2023-02-04,Newcastle,West Ham,D,2022-2023,EPL
+2023-02-05,Nott'm Forest,Leeds,H,2022-2023,EPL
+2023-02-05,Tottenham,Man City,H,2022-2023,EPL
+2023-02-08,Man United,Leeds,D,2022-2023,EPL
+2023-02-11,West Ham,Chelsea,D,2022-2023,EPL
+2023-02-11,Arsenal,Brentford,D,2022-2023,EPL
+2023-02-11,Crystal Palace,Brighton,D,2022-2023,EPL
+2023-02-11,Fulham,Nott'm Forest,H,2022-2023,EPL
+2023-02-11,Leicester,Tottenham,H,2022-2023,EPL
+2023-02-11,Southampton,Wolves,A,2022-2023,EPL
+2023-02-11,Bournemouth,Newcastle,D,2022-2023,EPL
+2023-02-12,Leeds,Man United,A,2022-2023,EPL
+2023-02-12,Man City,Aston Villa,H,2022-2023,EPL
+2023-02-13,Liverpool,Everton,H,2022-2023,EPL
+2023-02-15,Arsenal,Man City,A,2022-2023,EPL
+2023-02-18,Aston Villa,Arsenal,A,2022-2023,EPL
+2023-02-18,Brentford,Crystal Palace,D,2022-2023,EPL
+2023-02-18,Brighton,Fulham,A,2022-2023,EPL
+2023-02-18,Chelsea,Southampton,A,2022-2023,EPL
+2023-02-18,Everton,Leeds,H,2022-2023,EPL
+2023-02-18,Nott'm Forest,Man City,D,2022-2023,EPL
+2023-02-18,Wolves,Bournemouth,A,2022-2023,EPL
+2023-02-18,Newcastle,Liverpool,A,2022-2023,EPL
+2023-02-19,Man United,Leicester,H,2022-2023,EPL
+2023-02-19,Tottenham,West Ham,H,2022-2023,EPL
+2023-02-24,Fulham,Wolves,D,2022-2023,EPL
+2023-02-25,Everton,Aston Villa,A,2022-2023,EPL
+2023-02-25,Leeds,Southampton,H,2022-2023,EPL
+2023-02-25,Leicester,Arsenal,A,2022-2023,EPL
+2023-02-25,West Ham,Nott'm Forest,H,2022-2023,EPL
+2023-02-25,Bournemouth,Man City,A,2022-2023,EPL
+2023-02-25,Crystal Palace,Liverpool,D,2022-2023,EPL
+2023-02-26,Tottenham,Chelsea,H,2022-2023,EPL
+2023-03-01,Arsenal,Everton,H,2022-2023,EPL
+2023-03-01,Liverpool,Wolves,H,2022-2023,EPL
+2023-03-04,Man City,Newcastle,H,2022-2023,EPL
+2023-03-04,Arsenal,Bournemouth,H,2022-2023,EPL
+2023-03-04,Aston Villa,Crystal Palace,H,2022-2023,EPL
+2023-03-04,Brighton,West Ham,H,2022-2023,EPL
+2023-03-04,Chelsea,Leeds,H,2022-2023,EPL
+2023-03-04,Wolves,Tottenham,H,2022-2023,EPL
+2023-03-04,Southampton,Leicester,H,2022-2023,EPL
+2023-03-05,Nott'm Forest,Everton,D,2022-2023,EPL
+2023-03-05,Liverpool,Man United,H,2022-2023,EPL
+2023-03-06,Brentford,Fulham,H,2022-2023,EPL
+2023-03-11,Bournemouth,Liverpool,H,2022-2023,EPL
+2023-03-11,Everton,Brentford,H,2022-2023,EPL
+2023-03-11,Leeds,Brighton,D,2022-2023,EPL
+2023-03-11,Leicester,Chelsea,A,2022-2023,EPL
+2023-03-11,Tottenham,Nott'm Forest,H,2022-2023,EPL
+2023-03-11,Crystal Palace,Man City,A,2022-2023,EPL
+2023-03-12,Fulham,Arsenal,A,2022-2023,EPL
+2023-03-12,Man United,Southampton,D,2022-2023,EPL
+2023-03-12,West Ham,Aston Villa,D,2022-2023,EPL
+2023-03-12,Newcastle,Wolves,H,2022-2023,EPL
+2023-03-15,Brighton,Crystal Palace,H,2022-2023,EPL
+2023-03-15,Southampton,Brentford,A,2022-2023,EPL
+2023-03-17,Nott'm Forest,Newcastle,A,2022-2023,EPL
+2023-03-18,Aston Villa,Bournemouth,H,2022-2023,EPL
+2023-03-18,Brentford,Leicester,D,2022-2023,EPL
+2023-03-18,Southampton,Tottenham,D,2022-2023,EPL
+2023-03-18,Wolves,Leeds,A,2022-2023,EPL
+2023-03-18,Chelsea,Everton,D,2022-2023,EPL
+2023-03-19,Arsenal,Crystal Palace,H,2022-2023,EPL
+2023-04-01,Man City,Liverpool,H,2022-2023,EPL
+2023-04-01,Arsenal,Leeds,H,2022-2023,EPL
+2023-04-01,Bournemouth,Fulham,H,2022-2023,EPL
+2023-04-01,Brighton,Brentford,D,2022-2023,EPL
+2023-04-01,Crystal Palace,Leicester,H,2022-2023,EPL
+2023-04-01,Nott'm Forest,Wolves,D,2022-2023,EPL
+2023-04-01,Chelsea,Aston Villa,A,2022-2023,EPL
+2023-04-02,West Ham,Southampton,H,2022-2023,EPL
+2023-04-02,Newcastle,Man United,H,2022-2023,EPL
+2023-04-03,Everton,Tottenham,D,2022-2023,EPL
+2023-04-04,Bournemouth,Brighton,A,2022-2023,EPL
+2023-04-04,Leeds,Nott'm Forest,H,2022-2023,EPL
+2023-04-04,Leicester,Aston Villa,A,2022-2023,EPL
+2023-04-04,Chelsea,Liverpool,D,2022-2023,EPL
+2023-04-05,Man United,Brentford,H,2022-2023,EPL
+2023-04-05,West Ham,Newcastle,A,2022-2023,EPL
+2023-04-08,Man United,Everton,H,2022-2023,EPL
+2023-04-08,Aston Villa,Nott'm Forest,H,2022-2023,EPL
+2023-04-08,Brentford,Newcastle,A,2022-2023,EPL
+2023-04-08,Fulham,West Ham,A,2022-2023,EPL
+2023-04-08,Leicester,Bournemouth,A,2022-2023,EPL
+2023-04-08,Tottenham,Brighton,H,2022-2023,EPL
+2023-04-08,Wolves,Chelsea,H,2022-2023,EPL
+2023-04-08,Southampton,Man City,A,2022-2023,EPL
+2023-04-09,Leeds,Crystal Palace,A,2022-2023,EPL
+2023-04-09,Liverpool,Arsenal,D,2022-2023,EPL
+2023-04-15,Aston Villa,Newcastle,H,2022-2023,EPL
+2023-04-15,Chelsea,Brighton,A,2022-2023,EPL
+2023-04-15,Everton,Fulham,A,2022-2023,EPL
+2023-04-15,Southampton,Crystal Palace,A,2022-2023,EPL
+2023-04-15,Tottenham,Bournemouth,A,2022-2023,EPL
+2023-04-15,Wolves,Brentford,H,2022-2023,EPL
+2023-04-15,Man City,Leicester,H,2022-2023,EPL
+2023-04-16,West Ham,Arsenal,D,2022-2023,EPL
+2023-04-16,Nott'm Forest,Man United,A,2022-2023,EPL
+2023-04-17,Leeds,Liverpool,A,2022-2023,EPL
+2023-04-21,Arsenal,Southampton,D,2022-2023,EPL
+2023-04-22,Fulham,Leeds,H,2022-2023,EPL
+2023-04-22,Brentford,Aston Villa,D,2022-2023,EPL
+2023-04-22,Crystal Palace,Everton,D,2022-2023,EPL
+2023-04-22,Leicester,Wolves,H,2022-2023,EPL
+2023-04-22,Liverpool,Nott'm Forest,H,2022-2023,EPL
+2023-04-23,Bournemouth,West Ham,A,2022-2023,EPL
+2023-04-23,Newcastle,Tottenham,H,2022-2023,EPL
+2023-04-25,Wolves,Crystal Palace,H,2022-2023,EPL
+2023-04-25,Aston Villa,Fulham,H,2022-2023,EPL
+2023-04-25,Leeds,Leicester,D,2022-2023,EPL
+2023-04-26,Nott'm Forest,Brighton,H,2022-2023,EPL
+2023-04-26,Chelsea,Brentford,A,2022-2023,EPL
+2023-04-26,West Ham,Liverpool,A,2022-2023,EPL
+2023-04-26,Man City,Arsenal,H,2022-2023,EPL
+2023-04-27,Everton,Newcastle,A,2022-2023,EPL
+2023-04-27,Southampton,Bournemouth,A,2022-2023,EPL
+2023-04-27,Tottenham,Man United,D,2022-2023,EPL
+2023-04-29,Crystal Palace,West Ham,H,2022-2023,EPL
+2023-04-29,Brentford,Nott'm Forest,H,2022-2023,EPL
+2023-04-29,Brighton,Wolves,H,2022-2023,EPL
+2023-04-30,Bournemouth,Leeds,H,2022-2023,EPL
+2023-04-30,Fulham,Man City,A,2022-2023,EPL
+2023-04-30,Man United,Aston Villa,H,2022-2023,EPL
+2023-04-30,Newcastle,Southampton,H,2022-2023,EPL
+2023-04-30,Liverpool,Tottenham,H,2022-2023,EPL
+2023-05-01,Leicester,Everton,D,2022-2023,EPL
+2023-05-02,Arsenal,Chelsea,H,2022-2023,EPL
+2023-05-03,Liverpool,Fulham,H,2022-2023,EPL
+2023-05-03,Man City,West Ham,H,2022-2023,EPL
+2023-05-04,Brighton,Man United,H,2022-2023,EPL
+2023-05-06,Bournemouth,Chelsea,A,2022-2023,EPL
+2023-05-06,Man City,Leeds,H,2022-2023,EPL
+2023-05-06,Tottenham,Crystal Palace,H,2022-2023,EPL
+2023-05-06,Wolves,Aston Villa,H,2022-2023,EPL
+2023-05-06,Liverpool,Brentford,H,2022-2023,EPL
+2023-05-07,Newcastle,Arsenal,A,2022-2023,EPL
+2023-05-07,West Ham,Man United,H,2022-2023,EPL
+2023-05-08,Fulham,Leicester,H,2022-2023,EPL
+2023-05-08,Brighton,Everton,A,2022-2023,EPL
+2023-05-08,Nott'm Forest,Southampton,H,2022-2023,EPL
+2023-05-13,Leeds,Newcastle,D,2022-2023,EPL
+2023-05-13,Aston Villa,Tottenham,H,2022-2023,EPL
+2023-05-13,Chelsea,Nott'm Forest,D,2022-2023,EPL
+2023-05-13,Crystal Palace,Bournemouth,H,2022-2023,EPL
+2023-05-13,Man United,Wolves,H,2022-2023,EPL
+2023-05-13,Southampton,Fulham,A,2022-2023,EPL
+2023-05-14,Brentford,West Ham,H,2022-2023,EPL
+2023-05-14,Everton,Man City,A,2022-2023,EPL
+2023-05-14,Arsenal,Brighton,A,2022-2023,EPL
+2023-05-15,Leicester,Liverpool,A,2022-2023,EPL
+2023-05-18,Newcastle,Brighton,H,2022-2023,EPL
+2023-05-20,Tottenham,Brentford,A,2022-2023,EPL
+2023-05-20,Bournemouth,Man United,A,2022-2023,EPL
+2023-05-20,Fulham,Crystal Palace,D,2022-2023,EPL
+2023-05-20,Liverpool,Aston Villa,D,2022-2023,EPL
+2023-05-20,Wolves,Everton,D,2022-2023,EPL
+2023-05-20,Nott'm Forest,Arsenal,H,2022-2023,EPL
+2023-05-21,West Ham,Leeds,H,2022-2023,EPL
+2023-05-21,Brighton,Southampton,H,2022-2023,EPL
+2023-05-21,Man City,Chelsea,H,2022-2023,EPL
+2023-05-22,Newcastle,Leicester,D,2022-2023,EPL
+2023-05-24,Brighton,Man City,D,2022-2023,EPL
+2023-05-25,Man United,Chelsea,H,2022-2023,EPL
+2023-05-28,Arsenal,Wolves,H,2022-2023,EPL
+2023-05-28,Aston Villa,Brighton,H,2022-2023,EPL
+2023-05-28,Brentford,Man City,H,2022-2023,EPL
+2023-05-28,Chelsea,Newcastle,D,2022-2023,EPL
+2023-05-28,Crystal Palace,Nott'm Forest,D,2022-2023,EPL
+2023-05-28,Everton,Bournemouth,H,2022-2023,EPL
+2023-05-28,Leeds,Tottenham,A,2022-2023,EPL
+2023-05-28,Leicester,West Ham,H,2022-2023,EPL
+2023-05-28,Man United,Fulham,H,2022-2023,EPL
+2023-05-28,Southampton,Liverpool,D,2022-2023,EPL
+2022-08-12,Osasuna,Sevilla,H,2022-2023,LaLiga
+2022-08-13,Celta,Espanol,D,2022-2023,LaLiga
+2022-08-13,Valladolid,Villarreal,A,2022-2023,LaLiga
+2022-08-13,Barcelona,Vallecano,D,2022-2023,LaLiga
+2022-08-14,Cadiz,Sociedad,A,2022-2023,LaLiga
+2022-08-14,Valencia,Girona,H,2022-2023,LaLiga
+2022-08-14,Almeria,Real Madrid,A,2022-2023,LaLiga
+2022-08-15,Ath Bilbao,Mallorca,D,2022-2023,LaLiga
+2022-08-15,Getafe,Ath Madrid,A,2022-2023,LaLiga
+2022-08-15,Betis,Elche,H,2022-2023,LaLiga
+2022-08-19,Espanol,Vallecano,A,2022-2023,LaLiga
+2022-08-19,Sevilla,Valladolid,D,2022-2023,LaLiga
+2022-08-20,Osasuna,Cadiz,H,2022-2023,LaLiga
+2022-08-20,Mallorca,Betis,A,2022-2023,LaLiga
+2022-08-20,Celta,Real Madrid,A,2022-2023,LaLiga
+2022-08-21,Ath Bilbao,Valencia,H,2022-2023,LaLiga
+2022-08-21,Ath Madrid,Villarreal,A,2022-2023,LaLiga
+2022-08-21,Sociedad,Barcelona,A,2022-2023,LaLiga
+2022-08-22,Elche,Almeria,D,2022-2023,LaLiga
+2022-08-22,Girona,Getafe,H,2022-2023,LaLiga
+2022-08-26,Girona,Celta,A,2022-2023,LaLiga
+2022-08-26,Betis,Osasuna,H,2022-2023,LaLiga
+2022-08-27,Elche,Sociedad,A,2022-2023,LaLiga
+2022-08-27,Vallecano,Mallorca,A,2022-2023,LaLiga
+2022-08-27,Almeria,Sevilla,H,2022-2023,LaLiga
+2022-08-28,Getafe,Villarreal,D,2022-2023,LaLiga
+2022-08-28,Barcelona,Valladolid,H,2022-2023,LaLiga
+2022-08-28,Espanol,Real Madrid,A,2022-2023,LaLiga
+2022-08-29,Cadiz,Ath Bilbao,A,2022-2023,LaLiga
+2022-08-29,Valencia,Ath Madrid,A,2022-2023,LaLiga
+2022-09-02,Celta,Cadiz,H,2022-2023,LaLiga
+2022-09-03,Mallorca,Girona,D,2022-2023,LaLiga
+2022-09-03,Real Madrid,Betis,H,2022-2023,LaLiga
+2022-09-03,Sociedad,Ath Madrid,D,2022-2023,LaLiga
+2022-09-03,Sevilla,Barcelona,A,2022-2023,LaLiga
+2022-09-04,Osasuna,Vallecano,H,2022-2023,LaLiga
+2022-09-04,Ath Bilbao,Espanol,A,2022-2023,LaLiga
+2022-09-04,Villarreal,Elche,H,2022-2023,LaLiga
+2022-09-04,Valencia,Getafe,H,2022-2023,LaLiga
+2022-09-05,Valladolid,Almeria,H,2022-2023,LaLiga
+2022-09-09,Girona,Valladolid,H,2022-2023,LaLiga
+2022-09-10,Vallecano,Valencia,H,2022-2023,LaLiga
+2022-09-10,Espanol,Sevilla,A,2022-2023,LaLiga
+2022-09-10,Cadiz,Barcelona,A,2022-2023,LaLiga
+2022-09-10,Ath Madrid,Celta,H,2022-2023,LaLiga
+2022-09-11,Real Madrid,Mallorca,H,2022-2023,LaLiga
+2022-09-11,Elche,Ath Bilbao,A,2022-2023,LaLiga
+2022-09-11,Getafe,Sociedad,H,2022-2023,LaLiga
+2022-09-11,Betis,Villarreal,H,2022-2023,LaLiga
+2022-09-12,Almeria,Osasuna,A,2022-2023,LaLiga
+2022-09-16,Valladolid,Cadiz,A,2022-2023,LaLiga
+2022-09-17,Mallorca,Almeria,H,2022-2023,LaLiga
+2022-09-17,Barcelona,Elche,H,2022-2023,LaLiga
+2022-09-17,Valencia,Celta,H,2022-2023,LaLiga
+2022-09-17,Ath Bilbao,Vallecano,H,2022-2023,LaLiga
+2022-09-18,Osasuna,Getafe,A,2022-2023,LaLiga
+2022-09-18,Villarreal,Sevilla,D,2022-2023,LaLiga
+2022-09-18,Betis,Girona,H,2022-2023,LaLiga
+2022-09-18,Sociedad,Espanol,H,2022-2023,LaLiga
+2022-09-18,Ath Madrid,Real Madrid,A,2022-2023,LaLiga
+2022-09-30,Ath Bilbao,Almeria,H,2022-2023,LaLiga
+2022-10-01,Cadiz,Villarreal,D,2022-2023,LaLiga
+2022-10-01,Getafe,Valladolid,A,2022-2023,LaLiga
+2022-10-01,Sevilla,Ath Madrid,A,2022-2023,LaLiga
+2022-10-01,Mallorca,Barcelona,A,2022-2023,LaLiga
+2022-10-02,Espanol,Valencia,D,2022-2023,LaLiga
+2022-10-02,Celta,Betis,H,2022-2023,LaLiga
+2022-10-02,Girona,Sociedad,A,2022-2023,LaLiga
+2022-10-02,Real Madrid,Osasuna,D,2022-2023,LaLiga
+2022-10-03,Vallecano,Elche,H,2022-2023,LaLiga
+2022-10-07,Osasuna,Valencia,A,2022-2023,LaLiga
+2022-10-08,Almeria,Vallecano,H,2022-2023,LaLiga
+2022-10-08,Ath Madrid,Girona,H,2022-2023,LaLiga
+2022-10-08,Sevilla,Ath Bilbao,D,2022-2023,LaLiga
+2022-10-08,Getafe,Real Madrid,A,2022-2023,LaLiga
+2022-10-09,Valladolid,Betis,D,2022-2023,LaLiga
+2022-10-09,Cadiz,Espanol,D,2022-2023,LaLiga
+2022-10-09,Sociedad,Villarreal,H,2022-2023,LaLiga
+2022-10-09,Barcelona,Celta,H,2022-2023,LaLiga
+2022-10-10,Elche,Mallorca,D,2022-2023,LaLiga
+2022-10-14,Vallecano,Getafe,D,2022-2023,LaLiga
+2022-10-15,Girona,Cadiz,D,2022-2023,LaLiga
+2022-10-15,Valencia,Elche,D,2022-2023,LaLiga
+2022-10-15,Mallorca,Sevilla,A,2022-2023,LaLiga
+2022-10-15,Ath Bilbao,Ath Madrid,A,2022-2023,LaLiga
+2022-10-16,Celta,Sociedad,A,2022-2023,LaLiga
+2022-10-16,Real Madrid,Barcelona,H,2022-2023,LaLiga
+2022-10-16,Espanol,Valladolid,H,2022-2023,LaLiga
+2022-10-16,Betis,Almeria,H,2022-2023,LaLiga
+2022-10-17,Villarreal,Osasuna,H,2022-2023,LaLiga
+2022-10-18,Sevilla,Valencia,D,2022-2023,LaLiga
+2022-10-18,Getafe,Ath Bilbao,D,2022-2023,LaLiga
+2022-10-18,Ath Madrid,Vallecano,D,2022-2023,LaLiga
+2022-10-19,Cadiz,Betis,D,2022-2023,LaLiga
+2022-10-19,Valladolid,Celta,H,2022-2023,LaLiga
+2022-10-19,Sociedad,Mallorca,H,2022-2023,LaLiga
+2022-10-19,Elche,Real Madrid,A,2022-2023,LaLiga
+2022-10-20,Almeria,Girona,H,2022-2023,LaLiga
+2022-10-20,Osasuna,Espanol,H,2022-2023,LaLiga
+2022-10-20,Barcelona,Villarreal,H,2022-2023,LaLiga
+2022-10-22,Vallecano,Cadiz,H,2022-2023,LaLiga
+2022-10-22,Valladolid,Sociedad,H,2022-2023,LaLiga
+2022-10-22,Valencia,Mallorca,A,2022-2023,LaLiga
+2022-10-22,Real Madrid,Sevilla,H,2022-2023,LaLiga
+2022-10-23,Espanol,Elche,D,2022-2023,LaLiga
+2022-10-23,Betis,Ath Madrid,A,2022-2023,LaLiga
+2022-10-23,Girona,Osasuna,D,2022-2023,LaLiga
+2022-10-23,Villarreal,Almeria,H,2022-2023,LaLiga
+2022-10-23,Barcelona,Ath Bilbao,H,2022-2023,LaLiga
+2022-10-24,Celta,Getafe,D,2022-2023,LaLiga
+2022-10-28,Mallorca,Espanol,D,2022-2023,LaLiga
+2022-10-29,Almeria,Celta,H,2022-2023,LaLiga
+2022-10-29,Cadiz,Ath Madrid,H,2022-2023,LaLiga
+2022-10-29,Sevilla,Vallecano,A,2022-2023,LaLiga
+2022-10-29,Valencia,Barcelona,A,2022-2023,LaLiga
+2022-10-30,Osasuna,Valladolid,H,2022-2023,LaLiga
+2022-10-30,Real Madrid,Girona,D,2022-2023,LaLiga
+2022-10-30,Ath Bilbao,Villarreal,H,2022-2023,LaLiga
+2022-10-30,Sociedad,Betis,A,2022-2023,LaLiga
+2022-10-31,Elche,Getafe,A,2022-2023,LaLiga
+2022-11-04,Girona,Ath Bilbao,H,2022-2023,LaLiga
+2022-11-05,Getafe,Cadiz,D,2022-2023,LaLiga
+2022-11-05,Valladolid,Elche,H,2022-2023,LaLiga
+2022-11-05,Celta,Osasuna,A,2022-2023,LaLiga
+2022-11-05,Barcelona,Almeria,H,2022-2023,LaLiga
+2022-11-06,Ath Madrid,Espanol,D,2022-2023,LaLiga
+2022-11-06,Sociedad,Valencia,D,2022-2023,LaLiga
+2022-11-06,Villarreal,Mallorca,A,2022-2023,LaLiga
+2022-11-06,Betis,Sevilla,D,2022-2023,LaLiga
+2022-11-07,Vallecano,Real Madrid,H,2022-2023,LaLiga
+2022-11-08,Elche,Girona,A,2022-2023,LaLiga
+2022-11-08,Ath Bilbao,Valladolid,H,2022-2023,LaLiga
+2022-11-08,Osasuna,Barcelona,A,2022-2023,LaLiga
+2022-11-09,Almeria,Getafe,H,2022-2023,LaLiga
+2022-11-09,Sevilla,Sociedad,A,2022-2023,LaLiga
+2022-11-09,Espanol,Villarreal,A,2022-2023,LaLiga
+2022-11-09,Mallorca,Ath Madrid,H,2022-2023,LaLiga
+2022-11-10,Vallecano,Celta,D,2022-2023,LaLiga
+2022-11-10,Valencia,Betis,H,2022-2023,LaLiga
+2022-11-10,Real Madrid,Cadiz,H,2022-2023,LaLiga
+2022-12-29,Girona,Vallecano,D,2022-2023,LaLiga
+2022-12-29,Betis,Ath Bilbao,D,2022-2023,LaLiga
+2022-12-29,Ath Madrid,Elche,H,2022-2023,LaLiga
+2022-12-30,Getafe,Mallorca,H,2022-2023,LaLiga
+2022-12-30,Cadiz,Almeria,D,2022-2023,LaLiga
+2022-12-30,Celta,Sevilla,D,2022-2023,LaLiga
+2022-12-30,Valladolid,Real Madrid,A,2022-2023,LaLiga
+2022-12-31,Barcelona,Espanol,D,2022-2023,LaLiga
+2022-12-31,Sociedad,Osasuna,H,2022-2023,LaLiga
+2022-12-31,Villarreal,Valencia,H,2022-2023,LaLiga
+2023-01-06,Elche,Celta,A,2022-2023,LaLiga
+2023-01-06,Valencia,Cadiz,A,2022-2023,LaLiga
+2023-01-07,Villarreal,Real Madrid,H,2022-2023,LaLiga
+2023-01-07,Mallorca,Valladolid,H,2022-2023,LaLiga
+2023-01-07,Espanol,Girona,D,2022-2023,LaLiga
+2023-01-08,Almeria,Sociedad,A,2022-2023,LaLiga
+2023-01-08,Vallecano,Betis,A,2022-2023,LaLiga
+2023-01-08,Sevilla,Getafe,H,2022-2023,LaLiga
+2023-01-08,Ath Madrid,Barcelona,A,2022-2023,LaLiga
+2023-01-09,Ath Bilbao,Osasuna,D,2022-2023,LaLiga
+2023-01-13,Celta,Villarreal,D,2022-2023,LaLiga
+2023-01-14,Valladolid,Vallecano,A,2022-2023,LaLiga
+2023-01-14,Girona,Sevilla,H,2022-2023,LaLiga
+2023-01-14,Osasuna,Mallorca,H,2022-2023,LaLiga
+2023-01-14,Sociedad,Ath Bilbao,H,2022-2023,LaLiga
+2023-01-15,Getafe,Espanol,A,2022-2023,LaLiga
+2023-01-15,Almeria,Ath Madrid,D,2022-2023,LaLiga
+2023-01-16,Cadiz,Elche,D,2022-2023,LaLiga
+2023-01-20,Mallorca,Celta,H,2022-2023,LaLiga
+2023-01-21,Vallecano,Sociedad,A,2022-2023,LaLiga
+2023-01-21,Espanol,Betis,H,2022-2023,LaLiga
+2023-01-21,Ath Madrid,Valladolid,H,2022-2023,LaLiga
+2023-01-21,Sevilla,Cadiz,H,2022-2023,LaLiga
+2023-01-22,Villarreal,Girona,H,2022-2023,LaLiga
+2023-01-22,Elche,Osasuna,D,2022-2023,LaLiga
+2023-01-22,Barcelona,Getafe,H,2022-2023,LaLiga
+2023-01-22,Ath Bilbao,Real Madrid,A,2022-2023,LaLiga
+2023-01-23,Valencia,Almeria,D,2022-2023,LaLiga
+2023-01-27,Almeria,Espanol,H,2022-2023,LaLiga
+2023-01-28,Cadiz,Mallorca,H,2022-2023,LaLiga
+2023-01-28,Girona,Barcelona,A,2022-2023,LaLiga
+2023-01-28,Sevilla,Elche,H,2022-2023,LaLiga
+2023-01-28,Getafe,Betis,A,2022-2023,LaLiga
+2023-01-29,Valladolid,Valencia,H,2022-2023,LaLiga
+2023-01-29,Osasuna,Ath Madrid,A,2022-2023,LaLiga
+2023-01-29,Celta,Ath Bilbao,H,2022-2023,LaLiga
+2023-01-29,Real Madrid,Sociedad,D,2022-2023,LaLiga
+2023-01-30,Villarreal,Vallecano,A,2022-2023,LaLiga
+2023-02-01,Betis,Barcelona,A,2022-2023,LaLiga
+2023-02-02,Real Madrid,Valencia,H,2022-2023,LaLiga
+2023-02-03,Ath Bilbao,Cadiz,H,2022-2023,LaLiga
+2023-02-04,Espanol,Osasuna,D,2022-2023,LaLiga
+2023-02-04,Elche,Villarreal,H,2022-2023,LaLiga
+2023-02-04,Ath Madrid,Getafe,D,2022-2023,LaLiga
+2023-02-04,Betis,Celta,A,2022-2023,LaLiga
+2023-02-05,Mallorca,Real Madrid,H,2022-2023,LaLiga
+2023-02-05,Girona,Valencia,H,2022-2023,LaLiga
+2023-02-05,Sociedad,Valladolid,A,2022-2023,LaLiga
+2023-02-05,Barcelona,Sevilla,H,2022-2023,LaLiga
+2023-02-06,Vallecano,Almeria,H,2022-2023,LaLiga
+2023-02-10,Cadiz,Girona,H,2022-2023,LaLiga
+2023-02-11,Almeria,Betis,A,2022-2023,LaLiga
+2023-02-11,Sevilla,Mallorca,H,2022-2023,LaLiga
+2023-02-11,Valencia,Ath Bilbao,A,2022-2023,LaLiga
+2023-02-12,Getafe,Vallecano,D,2022-2023,LaLiga
+2023-02-12,Celta,Ath Madrid,A,2022-2023,LaLiga
+2023-02-12,Valladolid,Osasuna,D,2022-2023,LaLiga
+2023-02-12,Villarreal,Barcelona,A,2022-2023,LaLiga
+2023-02-13,Espanol,Sociedad,A,2022-2023,LaLiga
+2023-02-15,Real Madrid,Elche,H,2022-2023,LaLiga
+2023-02-17,Girona,Almeria,H,2022-2023,LaLiga
+2023-02-18,Sociedad,Celta,D,2022-2023,LaLiga
+2023-02-18,Betis,Valladolid,H,2022-2023,LaLiga
+2023-02-18,Mallorca,Villarreal,H,2022-2023,LaLiga
+2023-02-18,Osasuna,Real Madrid,A,2022-2023,LaLiga
+2023-02-19,Elche,Espanol,A,2022-2023,LaLiga
+2023-02-19,Vallecano,Sevilla,D,2022-2023,LaLiga
+2023-02-19,Ath Madrid,Ath Bilbao,H,2022-2023,LaLiga
+2023-02-19,Barcelona,Cadiz,H,2022-2023,LaLiga
+2023-02-20,Getafe,Valencia,H,2022-2023,LaLiga
+2023-02-24,Elche,Betis,A,2022-2023,LaLiga
+2023-02-25,Espanol,Mallorca,H,2022-2023,LaLiga
+2023-02-25,Cadiz,Vallecano,H,2022-2023,LaLiga
+2023-02-25,Real Madrid,Ath Madrid,D,2022-2023,LaLiga
+2023-02-25,Valencia,Sociedad,H,2022-2023,LaLiga
+2023-02-26,Ath Bilbao,Girona,A,2022-2023,LaLiga
+2023-02-26,Celta,Valladolid,H,2022-2023,LaLiga
+2023-02-26,Almeria,Barcelona,H,2022-2023,LaLiga
+2023-02-26,Sevilla,Osasuna,A,2022-2023,LaLiga
+2023-02-27,Villarreal,Getafe,H,2022-2023,LaLiga
+2023-03-03,Sociedad,Cadiz,D,2022-2023,LaLiga
+2023-03-04,Getafe,Girona,H,2022-2023,LaLiga
+2023-03-04,Almeria,Villarreal,A,2022-2023,LaLiga
+2023-03-04,Mallorca,Elche,A,2022-2023,LaLiga
+2023-03-04,Ath Madrid,Sevilla,H,2022-2023,LaLiga
+2023-03-05,Valladolid,Espanol,H,2022-2023,LaLiga
+2023-03-05,Barcelona,Valencia,H,2022-2023,LaLiga
+2023-03-05,Vallecano,Ath Bilbao,D,2022-2023,LaLiga
+2023-03-05,Betis,Real Madrid,D,2022-2023,LaLiga
+2023-03-06,Osasuna,Celta,D,2022-2023,LaLiga
+2023-03-10,Cadiz,Getafe,D,2022-2023,LaLiga
+2023-03-11,Real Madrid,Espanol,H,2022-2023,LaLiga
+2023-03-11,Elche,Valladolid,D,2022-2023,LaLiga
+2023-03-11,Celta,Vallecano,H,2022-2023,LaLiga
+2023-03-11,Valencia,Osasuna,H,2022-2023,LaLiga
+2023-03-12,Mallorca,Sociedad,D,2022-2023,LaLiga
+2023-03-12,Sevilla,Almeria,H,2022-2023,LaLiga
+2023-03-12,Villarreal,Betis,D,2022-2023,LaLiga
+2023-03-12,Ath Bilbao,Barcelona,A,2022-2023,LaLiga
+2023-03-13,Girona,Ath Madrid,A,2022-2023,LaLiga
+2023-03-17,Valladolid,Ath Bilbao,A,2022-2023,LaLiga
+2023-03-18,Almeria,Cadiz,D,2022-2023,LaLiga
+2023-03-18,Vallecano,Girona,D,2022-2023,LaLiga
+2023-03-18,Espanol,Celta,A,2022-2023,LaLiga
+2023-03-18,Ath Madrid,Valencia,H,2022-2023,LaLiga
+2023-03-19,Betis,Mallorca,H,2022-2023,LaLiga
+2023-03-19,Osasuna,Villarreal,A,2022-2023,LaLiga
+2023-03-19,Sociedad,Elche,H,2022-2023,LaLiga
+2023-03-19,Getafe,Sevilla,H,2022-2023,LaLiga
+2023-03-19,Barcelona,Real Madrid,H,2022-2023,LaLiga
+2023-03-31,Mallorca,Osasuna,D,2022-2023,LaLiga
+2023-04-01,Girona,Espanol,H,2022-2023,LaLiga
+2023-04-01,Ath Bilbao,Getafe,D,2022-2023,LaLiga
+2023-04-01,Cadiz,Sevilla,A,2022-2023,LaLiga
+2023-04-01,Elche,Barcelona,A,2022-2023,LaLiga
+2023-04-02,Celta,Almeria,D,2022-2023,LaLiga
+2023-04-02,Real Madrid,Valladolid,H,2022-2023,LaLiga
+2023-04-02,Villarreal,Sociedad,H,2022-2023,LaLiga
+2023-04-02,Ath Madrid,Betis,H,2022-2023,LaLiga
+2023-04-03,Valencia,Vallecano,D,2022-2023,LaLiga
+2023-04-07,Sevilla,Celta,D,2022-2023,LaLiga
+2023-04-08,Osasuna,Elche,H,2022-2023,LaLiga
+2023-04-08,Espanol,Ath Bilbao,A,2022-2023,LaLiga
+2023-04-08,Sociedad,Getafe,H,2022-2023,LaLiga
+2023-04-08,Real Madrid,Villarreal,A,2022-2023,LaLiga
+2023-04-09,Valladolid,Mallorca,D,2022-2023,LaLiga
+2023-04-09,Betis,Cadiz,A,2022-2023,LaLiga
+2023-04-09,Almeria,Valencia,H,2022-2023,LaLiga
+2023-04-09,Vallecano,Ath Madrid,A,2022-2023,LaLiga
+2023-04-10,Barcelona,Girona,D,2022-2023,LaLiga
+2023-04-14,Vallecano,Osasuna,H,2022-2023,LaLiga
+2023-04-15,Villarreal,Valladolid,A,2022-2023,LaLiga
+2023-04-15,Ath Bilbao,Sociedad,H,2022-2023,LaLiga
+2023-04-15,Betis,Espanol,H,2022-2023,LaLiga
+2023-04-15,Cadiz,Real Madrid,A,2022-2023,LaLiga
+2023-04-16,Girona,Elche,H,2022-2023,LaLiga
+2023-04-16,Getafe,Barcelona,D,2022-2023,LaLiga
+2023-04-16,Ath Madrid,Almeria,H,2022-2023,LaLiga
+2023-04-16,Valencia,Sevilla,A,2022-2023,LaLiga
+2023-04-17,Celta,Mallorca,A,2022-2023,LaLiga
+2023-04-21,Espanol,Cadiz,D,2022-2023,LaLiga
+2023-04-22,Osasuna,Betis,H,2022-2023,LaLiga
+2023-04-22,Almeria,Ath Bilbao,A,2022-2023,LaLiga
+2023-04-22,Sociedad,Vallecano,H,2022-2023,LaLiga
+2023-04-22,Valladolid,Girona,H,2022-2023,LaLiga
+2023-04-22,Real Madrid,Celta,H,2022-2023,LaLiga
+2023-04-23,Elche,Valencia,A,2022-2023,LaLiga
+2023-04-23,Barcelona,Ath Madrid,H,2022-2023,LaLiga
+2023-04-23,Mallorca,Getafe,H,2022-2023,LaLiga
+2023-04-23,Sevilla,Villarreal,H,2022-2023,LaLiga
+2023-04-25,Cadiz,Osasuna,A,2022-2023,LaLiga
+2023-04-25,Girona,Real Madrid,H,2022-2023,LaLiga
+2023-04-25,Betis,Sociedad,D,2022-2023,LaLiga
+2023-04-26,Ath Madrid,Mallorca,H,2022-2023,LaLiga
+2023-04-26,Getafe,Almeria,A,2022-2023,LaLiga
+2023-04-26,Celta,Elche,H,2022-2023,LaLiga
+2023-04-26,Vallecano,Barcelona,H,2022-2023,LaLiga
+2023-04-27,Valencia,Valladolid,H,2022-2023,LaLiga
+2023-04-27,Villarreal,Espanol,H,2022-2023,LaLiga
+2023-04-27,Ath Bilbao,Sevilla,A,2022-2023,LaLiga
+2023-04-28,Osasuna,Sociedad,A,2022-2023,LaLiga
+2023-04-29,Elche,Vallecano,H,2022-2023,LaLiga
+2023-04-29,Real Madrid,Almeria,H,2022-2023,LaLiga
+2023-04-29,Barcelona,Betis,H,2022-2023,LaLiga
+2023-04-30,Cadiz,Valencia,H,2022-2023,LaLiga
+2023-04-30,Villarreal,Celta,H,2022-2023,LaLiga
+2023-04-30,Espanol,Getafe,H,2022-2023,LaLiga
+2023-04-30,Valladolid,Ath Madrid,A,2022-2023,LaLiga
+2023-05-01,Mallorca,Ath Bilbao,D,2022-2023,LaLiga
+2023-05-01,Sevilla,Girona,A,2022-2023,LaLiga
+2023-05-02,Almeria,Elche,H,2022-2023,LaLiga
+2023-05-02,Barcelona,Osasuna,H,2022-2023,LaLiga
+2023-05-02,Sociedad,Real Madrid,H,2022-2023,LaLiga
+2023-05-03,Valencia,Villarreal,D,2022-2023,LaLiga
+2023-05-03,Ath Madrid,Cadiz,H,2022-2023,LaLiga
+2023-05-03,Getafe,Celta,H,2022-2023,LaLiga
+2023-05-04,Girona,Mallorca,H,2022-2023,LaLiga
+2023-05-04,Sevilla,Espanol,H,2022-2023,LaLiga
+2023-05-04,Ath Bilbao,Betis,A,2022-2023,LaLiga
+2023-05-04,Vallecano,Valladolid,H,2022-2023,LaLiga
+2023-05-12,Mallorca,Cadiz,H,2022-2023,LaLiga
+2023-05-13,Sociedad,Girona,D,2022-2023,LaLiga
+2023-05-13,Osasuna,Almeria,H,2022-2023,LaLiga
+2023-05-13,Villarreal,Ath Bilbao,H,2022-2023,LaLiga
+2023-05-13,Real Madrid,Getafe,H,2022-2023,LaLiga
+2023-05-14,Celta,Valencia,A,2022-2023,LaLiga
+2023-05-14,Elche,Ath Madrid,H,2022-2023,LaLiga
+2023-05-14,Valladolid,Sevilla,A,2022-2023,LaLiga
+2023-05-14,Espanol,Barcelona,A,2022-2023,LaLiga
+2023-05-15,Betis,Vallecano,H,2022-2023,LaLiga
+2023-05-19,Cadiz,Valladolid,H,2022-2023,LaLiga
+2023-05-20,Girona,Villarreal,A,2022-2023,LaLiga
+2023-05-20,Ath Bilbao,Celta,H,2022-2023,LaLiga
+2023-05-20,Almeria,Mallorca,H,2022-2023,LaLiga
+2023-05-20,Getafe,Elche,D,2022-2023,LaLiga
+2023-05-20,Barcelona,Sociedad,A,2022-2023,LaLiga
+2023-05-21,Vallecano,Espanol,A,2022-2023,LaLiga
+2023-05-21,Ath Madrid,Osasuna,H,2022-2023,LaLiga
+2023-05-21,Valencia,Real Madrid,H,2022-2023,LaLiga
+2023-05-21,Sevilla,Betis,D,2022-2023,LaLiga
+2023-05-23,Celta,Girona,D,2022-2023,LaLiga
+2023-05-23,Sociedad,Almeria,H,2022-2023,LaLiga
+2023-05-23,Valladolid,Barcelona,H,2022-2023,LaLiga
+2023-05-24,Elche,Sevilla,D,2022-2023,LaLiga
+2023-05-24,Real Madrid,Vallecano,H,2022-2023,LaLiga
+2023-05-24,Villarreal,Cadiz,H,2022-2023,LaLiga
+2023-05-24,Betis,Getafe,A,2022-2023,LaLiga
+2023-05-24,Espanol,Ath Madrid,D,2022-2023,LaLiga
+2023-05-25,Mallorca,Valencia,H,2022-2023,LaLiga
+2023-05-25,Osasuna,Ath Bilbao,H,2022-2023,LaLiga
+2023-05-27,Sevilla,Real Madrid,A,2022-2023,LaLiga
+2023-05-28,Almeria,Valladolid,D,2022-2023,LaLiga
+2023-05-28,Ath Bilbao,Elche,A,2022-2023,LaLiga
+2023-05-28,Ath Madrid,Sociedad,H,2022-2023,LaLiga
+2023-05-28,Barcelona,Mallorca,H,2022-2023,LaLiga
+2023-05-28,Cadiz,Celta,H,2022-2023,LaLiga
+2023-05-28,Getafe,Osasuna,H,2022-2023,LaLiga
+2023-05-28,Girona,Betis,A,2022-2023,LaLiga
+2023-05-28,Valencia,Espanol,D,2022-2023,LaLiga
+2023-05-28,Vallecano,Villarreal,H,2022-2023,LaLiga
+2023-06-04,Mallorca,Vallecano,H,2022-2023,LaLiga
+2023-06-04,Osasuna,Girona,H,2022-2023,LaLiga
+2023-06-04,Real Madrid,Ath Bilbao,D,2022-2023,LaLiga
+2023-06-04,Sociedad,Sevilla,H,2022-2023,LaLiga
+2023-06-04,Villarreal,Ath Madrid,D,2022-2023,LaLiga
+2023-06-04,Betis,Valencia,D,2022-2023,LaLiga
+2023-06-04,Celta,Barcelona,H,2022-2023,LaLiga
+2023-06-04,Elche,Cadiz,D,2022-2023,LaLiga
+2023-06-04,Espanol,Almeria,D,2022-2023,LaLiga
+2023-06-04,Valladolid,Getafe,D,2022-2023,LaLiga
+2023-08-11,Burnley,Man City,A,2023-2024,EPL
+2023-08-12,Arsenal,Nott'm Forest,H,2023-2024,EPL
+2023-08-12,Bournemouth,West Ham,D,2023-2024,EPL
+2023-08-12,Brighton,Luton,H,2023-2024,EPL
+2023-08-12,Everton,Fulham,A,2023-2024,EPL
+2023-08-12,Sheffield United,Crystal Palace,A,2023-2024,EPL
+2023-08-12,Newcastle,Aston Villa,H,2023-2024,EPL
+2023-08-13,Brentford,Tottenham,D,2023-2024,EPL
+2023-08-13,Chelsea,Liverpool,D,2023-2024,EPL
+2023-08-14,Man United,Wolves,H,2023-2024,EPL
+2023-08-18,Nott'm Forest,Sheffield United,H,2023-2024,EPL
+2023-08-19,Fulham,Brentford,A,2023-2024,EPL
+2023-08-19,Liverpool,Bournemouth,H,2023-2024,EPL
+2023-08-19,Wolves,Brighton,A,2023-2024,EPL
+2023-08-19,Tottenham,Man United,H,2023-2024,EPL
+2023-08-19,Man City,Newcastle,H,2023-2024,EPL
+2023-08-20,Aston Villa,Everton,H,2023-2024,EPL
+2023-08-20,West Ham,Chelsea,H,2023-2024,EPL
+2023-08-21,Crystal Palace,Arsenal,A,2023-2024,EPL
+2023-08-25,Chelsea,Luton,H,2023-2024,EPL
+2023-08-26,Bournemouth,Tottenham,A,2023-2024,EPL
+2023-08-26,Arsenal,Fulham,D,2023-2024,EPL
+2023-08-26,Brentford,Crystal Palace,D,2023-2024,EPL
+2023-08-26,Everton,Wolves,A,2023-2024,EPL
+2023-08-26,Man United,Nott'm Forest,H,2023-2024,EPL
+2023-08-26,Brighton,West Ham,A,2023-2024,EPL
+2023-08-27,Burnley,Aston Villa,A,2023-2024,EPL
+2023-08-27,Sheffield United,Man City,A,2023-2024,EPL
+2023-08-27,Newcastle,Liverpool,A,2023-2024,EPL
+2023-09-01,Luton,West Ham,A,2023-2024,EPL
+2023-09-02,Sheffield United,Everton,D,2023-2024,EPL
+2023-09-02,Brentford,Bournemouth,D,2023-2024,EPL
+2023-09-02,Burnley,Tottenham,A,2023-2024,EPL
+2023-09-02,Chelsea,Nott'm Forest,A,2023-2024,EPL
+2023-09-02,Man City,Fulham,H,2023-2024,EPL
+2023-09-02,Brighton,Newcastle,H,2023-2024,EPL
+2023-09-03,Crystal Palace,Wolves,H,2023-2024,EPL
+2023-09-03,Liverpool,Aston Villa,H,2023-2024,EPL
+2023-09-03,Arsenal,Man United,H,2023-2024,EPL
+2023-09-16,Wolves,Liverpool,A,2023-2024,EPL
+2023-09-16,Aston Villa,Crystal Palace,H,2023-2024,EPL
+2023-09-16,Fulham,Luton,H,2023-2024,EPL
+2023-09-16,Man United,Brighton,A,2023-2024,EPL
+2023-09-16,Tottenham,Sheffield United,H,2023-2024,EPL
+2023-09-16,West Ham,Man City,A,2023-2024,EPL
+2023-09-16,Newcastle,Brentford,H,2023-2024,EPL
+2023-09-17,Bournemouth,Chelsea,D,2023-2024,EPL
+2023-09-17,Everton,Arsenal,A,2023-2024,EPL
+2023-09-18,Nott'm Forest,Burnley,D,2023-2024,EPL
+2023-09-23,Crystal Palace,Fulham,D,2023-2024,EPL
+2023-09-23,Luton,Wolves,D,2023-2024,EPL
+2023-09-23,Man City,Nott'm Forest,H,2023-2024,EPL
+2023-09-23,Brentford,Everton,A,2023-2024,EPL
+2023-09-23,Burnley,Man United,A,2023-2024,EPL
+2023-09-24,Arsenal,Tottenham,D,2023-2024,EPL
+2023-09-24,Brighton,Bournemouth,H,2023-2024,EPL
+2023-09-24,Chelsea,Aston Villa,A,2023-2024,EPL
+2023-09-24,Liverpool,West Ham,H,2023-2024,EPL
+2023-09-24,Sheffield United,Newcastle,A,2023-2024,EPL
+2023-09-30,Aston Villa,Brighton,H,2023-2024,EPL
+2023-09-30,Bournemouth,Arsenal,A,2023-2024,EPL
+2023-09-30,Everton,Luton,A,2023-2024,EPL
+2023-09-30,Man United,Crystal Palace,A,2023-2024,EPL
+2023-09-30,Newcastle,Burnley,H,2023-2024,EPL
+2023-09-30,West Ham,Sheffield United,H,2023-2024,EPL
+2023-09-30,Wolves,Man City,H,2023-2024,EPL
+2023-09-30,Tottenham,Liverpool,H,2023-2024,EPL
+2023-10-01,Nott'm Forest,Brentford,D,2023-2024,EPL
+2023-10-02,Fulham,Chelsea,A,2023-2024,EPL
+2023-10-03,Luton,Burnley,A,2023-2024,EPL
+2023-10-07,Luton,Tottenham,A,2023-2024,EPL
+2023-10-07,Burnley,Chelsea,A,2023-2024,EPL
+2023-10-07,Everton,Bournemouth,H,2023-2024,EPL
+2023-10-07,Fulham,Sheffield United,H,2023-2024,EPL
+2023-10-07,Man United,Brentford,H,2023-2024,EPL
+2023-10-07,Crystal Palace,Nott'm Forest,D,2023-2024,EPL
+2023-10-08,Brighton,Liverpool,D,2023-2024,EPL
+2023-10-08,West Ham,Newcastle,D,2023-2024,EPL
+2023-10-08,Wolves,Aston Villa,D,2023-2024,EPL
+2023-10-08,Arsenal,Man City,H,2023-2024,EPL
+2023-10-21,Liverpool,Everton,H,2023-2024,EPL
+2023-10-21,Bournemouth,Wolves,A,2023-2024,EPL
+2023-10-21,Brentford,Burnley,H,2023-2024,EPL
+2023-10-21,Man City,Brighton,H,2023-2024,EPL
+2023-10-21,Newcastle,Crystal Palace,H,2023-2024,EPL
+2023-10-21,Nott'm Forest,Luton,D,2023-2024,EPL
+2023-10-21,Chelsea,Arsenal,D,2023-2024,EPL
+2023-10-21,Sheffield United,Man United,A,2023-2024,EPL
+2023-10-22,Aston Villa,West Ham,H,2023-2024,EPL
+2023-10-23,Tottenham,Fulham,H,2023-2024,EPL
+2023-10-27,Crystal Palace,Tottenham,A,2023-2024,EPL
+2023-10-28,Chelsea,Brentford,A,2023-2024,EPL
+2023-10-28,Arsenal,Sheffield United,H,2023-2024,EPL
+2023-10-28,Bournemouth,Burnley,H,2023-2024,EPL
+2023-10-28,Wolves,Newcastle,D,2023-2024,EPL
+2023-10-29,West Ham,Everton,A,2023-2024,EPL
+2023-10-29,Aston Villa,Luton,H,2023-2024,EPL
+2023-10-29,Brighton,Fulham,D,2023-2024,EPL
+2023-10-29,Liverpool,Nott'm Forest,H,2023-2024,EPL
+2023-10-29,Man United,Man City,A,2023-2024,EPL
+2023-11-04,Fulham,Man United,A,2023-2024,EPL
+2023-11-04,Brentford,West Ham,H,2023-2024,EPL
+2023-11-04,Burnley,Crystal Palace,A,2023-2024,EPL
+2023-11-04,Everton,Brighton,D,2023-2024,EPL
+2023-11-04,Man City,Bournemouth,H,2023-2024,EPL
+2023-11-04,Sheffield United,Wolves,H,2023-2024,EPL
+2023-11-04,Newcastle,Arsenal,H,2023-2024,EPL
+2023-11-05,Nott'm Forest,Aston Villa,H,2023-2024,EPL
+2023-11-05,Luton,Liverpool,D,2023-2024,EPL
+2023-11-06,Tottenham,Chelsea,A,2023-2024,EPL
+2023-11-11,Wolves,Tottenham,H,2023-2024,EPL
+2023-11-11,Arsenal,Burnley,H,2023-2024,EPL
+2023-11-11,Crystal Palace,Everton,A,2023-2024,EPL
+2023-11-11,Man United,Luton,H,2023-2024,EPL
+2023-11-11,Bournemouth,Newcastle,H,2023-2024,EPL
+2023-11-12,Aston Villa,Fulham,H,2023-2024,EPL
+2023-11-12,Brighton,Sheffield United,D,2023-2024,EPL
+2023-11-12,Liverpool,Brentford,H,2023-2024,EPL
+2023-11-12,West Ham,Nott'm Forest,H,2023-2024,EPL
+2023-11-12,Chelsea,Man City,D,2023-2024,EPL
+2023-11-25,Man City,Liverpool,D,2023-2024,EPL
+2023-11-25,Burnley,West Ham,A,2023-2024,EPL
+2023-11-25,Luton,Crystal Palace,H,2023-2024,EPL
+2023-11-25,Newcastle,Chelsea,H,2023-2024,EPL
+2023-11-25,Nott'm Forest,Brighton,A,2023-2024,EPL
+2023-11-25,Sheffield United,Bournemouth,A,2023-2024,EPL
+2023-11-25,Brentford,Arsenal,A,2023-2024,EPL
+2023-11-26,Tottenham,Aston Villa,A,2023-2024,EPL
+2023-11-26,Everton,Man United,A,2023-2024,EPL
+2023-11-27,Fulham,Wolves,H,2023-2024,EPL
+2023-12-02,Arsenal,Wolves,H,2023-2024,EPL
+2023-12-02,Brentford,Luton,H,2023-2024,EPL
+2023-12-02,Burnley,Sheffield United,H,2023-2024,EPL
+2023-12-02,Nott'm Forest,Everton,A,2023-2024,EPL
+2023-12-02,Newcastle,Man United,H,2023-2024,EPL
+2023-12-03,Bournemouth,Aston Villa,D,2023-2024,EPL
+2023-12-03,Chelsea,Brighton,H,2023-2024,EPL
+2023-12-03,Liverpool,Fulham,H,2023-2024,EPL
+2023-12-03,West Ham,Crystal Palace,D,2023-2024,EPL
+2023-12-03,Man City,Tottenham,D,2023-2024,EPL
+2023-12-05,Wolves,Burnley,H,2023-2024,EPL
+2023-12-05,Luton,Arsenal,A,2023-2024,EPL
+2023-12-06,Brighton,Brentford,H,2023-2024,EPL
+2023-12-06,Crystal Palace,Bournemouth,A,2023-2024,EPL
+2023-12-06,Fulham,Nott'm Forest,H,2023-2024,EPL
+2023-12-06,Sheffield United,Liverpool,A,2023-2024,EPL
+2023-12-06,Aston Villa,Man City,H,2023-2024,EPL
+2023-12-06,Man United,Chelsea,H,2023-2024,EPL
+2023-12-07,Everton,Newcastle,H,2023-2024,EPL
+2023-12-07,Tottenham,West Ham,A,2023-2024,EPL
+2023-12-09,Crystal Palace,Liverpool,A,2023-2024,EPL
+2023-12-09,Brighton,Burnley,D,2023-2024,EPL
+2023-12-09,Man United,Bournemouth,A,2023-2024,EPL
+2023-12-09,Sheffield United,Brentford,H,2023-2024,EPL
+2023-12-09,Wolves,Nott'm Forest,D,2023-2024,EPL
+2023-12-09,Aston Villa,Arsenal,H,2023-2024,EPL
+2023-12-10,Everton,Chelsea,H,2023-2024,EPL
+2023-12-10,Fulham,West Ham,H,2023-2024,EPL
+2023-12-10,Luton,Man City,A,2023-2024,EPL
+2023-12-10,Tottenham,Newcastle,H,2023-2024,EPL
+2023-12-15,Nott'm Forest,Tottenham,A,2023-2024,EPL
+2023-12-16,Chelsea,Sheffield United,H,2023-2024,EPL
+2023-12-16,Man City,Crystal Palace,D,2023-2024,EPL
+2023-12-16,Newcastle,Fulham,H,2023-2024,EPL
+2023-12-16,Burnley,Everton,A,2023-2024,EPL
+2023-12-17,Arsenal,Brighton,H,2023-2024,EPL
+2023-12-17,Brentford,Aston Villa,A,2023-2024,EPL
+2023-12-17,West Ham,Wolves,H,2023-2024,EPL
+2023-12-17,Liverpool,Man United,D,2023-2024,EPL
+2023-12-21,Crystal Palace,Brighton,D,2023-2024,EPL
+2023-12-22,Aston Villa,Sheffield United,D,2023-2024,EPL
+2023-12-23,West Ham,Man United,H,2023-2024,EPL
+2023-12-23,Fulham,Burnley,A,2023-2024,EPL
+2023-12-23,Luton,Newcastle,H,2023-2024,EPL
+2023-12-23,Nott'm Forest,Bournemouth,A,2023-2024,EPL
+2023-12-23,Tottenham,Everton,H,2023-2024,EPL
+2023-12-23,Liverpool,Arsenal,D,2023-2024,EPL
+2023-12-24,Wolves,Chelsea,H,2023-2024,EPL
+2023-12-26,Newcastle,Nott'm Forest,A,2023-2024,EPL
+2023-12-26,Bournemouth,Fulham,H,2023-2024,EPL
+2023-12-26,Sheffield United,Luton,A,2023-2024,EPL
+2023-12-26,Burnley,Liverpool,A,2023-2024,EPL
+2023-12-26,Man United,Aston Villa,H,2023-2024,EPL
+2023-12-27,Brentford,Wolves,A,2023-2024,EPL
+2023-12-27,Chelsea,Crystal Palace,H,2023-2024,EPL
+2023-12-27,Everton,Man City,A,2023-2024,EPL
+2023-12-28,Brighton,Tottenham,H,2023-2024,EPL
+2023-12-28,Arsenal,West Ham,A,2023-2024,EPL
+2023-12-30,Luton,Chelsea,A,2023-2024,EPL
+2023-12-30,Aston Villa,Burnley,H,2023-2024,EPL
+2023-12-30,Crystal Palace,Brentford,H,2023-2024,EPL
+2023-12-30,Man City,Sheffield United,H,2023-2024,EPL
+2023-12-30,Wolves,Everton,H,2023-2024,EPL
+2023-12-30,Nott'm Forest,Man United,H,2023-2024,EPL
+2023-12-31,Fulham,Arsenal,H,2023-2024,EPL
+2023-12-31,Tottenham,Bournemouth,H,2023-2024,EPL
+2024-01-01,Liverpool,Newcastle,H,2023-2024,EPL
+2024-01-02,West Ham,Brighton,D,2023-2024,EPL
+2024-01-12,Burnley,Luton,D,2023-2024,EPL
+2024-01-13,Chelsea,Fulham,H,2023-2024,EPL
+2024-01-13,Newcastle,Man City,A,2023-2024,EPL
+2024-01-14,Everton,Aston Villa,D,2023-2024,EPL
+2024-01-14,Man United,Tottenham,D,2023-2024,EPL
+2024-01-20,Arsenal,Crystal Palace,H,2023-2024,EPL
+2024-01-20,Brentford,Nott'm Forest,H,2023-2024,EPL
+2024-01-21,Sheffield United,West Ham,D,2023-2024,EPL
+2024-01-21,Bournemouth,Liverpool,A,2023-2024,EPL
+2024-01-22,Brighton,Wolves,D,2023-2024,EPL
+2024-01-30,Nott'm Forest,Arsenal,A,2023-2024,EPL
+2024-01-30,Fulham,Everton,D,2023-2024,EPL
+2024-01-30,Luton,Brighton,H,2023-2024,EPL
+2024-01-30,Crystal Palace,Sheffield United,H,2023-2024,EPL
+2024-01-30,Aston Villa,Newcastle,A,2023-2024,EPL
+2024-01-31,Man City,Burnley,H,2023-2024,EPL
+2024-01-31,Tottenham,Brentford,H,2023-2024,EPL
+2024-01-31,Liverpool,Chelsea,H,2023-2024,EPL
+2024-02-01,West Ham,Bournemouth,D,2023-2024,EPL
+2024-02-01,Wolves,Man United,A,2023-2024,EPL
+2024-02-03,Everton,Tottenham,D,2023-2024,EPL
+2024-02-03,Brighton,Crystal Palace,H,2023-2024,EPL
+2024-02-03,Burnley,Fulham,D,2023-2024,EPL
+2024-02-03,Newcastle,Luton,D,2023-2024,EPL
+2024-02-03,Sheffield United,Aston Villa,A,2023-2024,EPL
+2024-02-04,Bournemouth,Nott'm Forest,D,2023-2024,EPL
+2024-02-04,Chelsea,Wolves,A,2023-2024,EPL
+2024-02-04,Man United,West Ham,H,2023-2024,EPL
+2024-02-04,Arsenal,Liverpool,H,2023-2024,EPL
+2024-02-05,Brentford,Man City,A,2023-2024,EPL
+2024-02-10,Man City,Everton,H,2023-2024,EPL
+2024-02-10,Fulham,Bournemouth,H,2023-2024,EPL
+2024-02-10,Liverpool,Burnley,H,2023-2024,EPL
+2024-02-10,Luton,Sheffield United,A,2023-2024,EPL
+2024-02-10,Tottenham,Brighton,H,2023-2024,EPL
+2024-02-10,Wolves,Brentford,A,2023-2024,EPL
+2024-02-10,Nott'm Forest,Newcastle,A,2023-2024,EPL
+2024-02-11,West Ham,Arsenal,A,2023-2024,EPL
+2024-02-11,Aston Villa,Man United,A,2023-2024,EPL
+2024-02-12,Crystal Palace,Chelsea,A,2023-2024,EPL
+2024-02-17,Brentford,Liverpool,A,2023-2024,EPL
+2024-02-17,Burnley,Arsenal,A,2023-2024,EPL
+2024-02-17,Fulham,Aston Villa,A,2023-2024,EPL
+2024-02-17,Newcastle,Bournemouth,D,2023-2024,EPL
+2024-02-17,Nott'm Forest,West Ham,H,2023-2024,EPL
+2024-02-17,Tottenham,Wolves,A,2023-2024,EPL
+2024-02-17,Man City,Chelsea,D,2023-2024,EPL
+2024-02-18,Sheffield United,Brighton,A,2023-2024,EPL
+2024-02-18,Luton,Man United,A,2023-2024,EPL
+2024-02-19,Everton,Crystal Palace,D,2023-2024,EPL
+2024-02-20,Man City,Brentford,H,2023-2024,EPL
+2024-02-21,Liverpool,Luton,H,2023-2024,EPL
+2024-02-24,Aston Villa,Nott'm Forest,H,2023-2024,EPL
+2024-02-24,Brighton,Everton,D,2023-2024,EPL
+2024-02-24,Crystal Palace,Burnley,H,2023-2024,EPL
+2024-02-24,Man United,Fulham,A,2023-2024,EPL
+2024-02-24,Bournemouth,Man City,A,2023-2024,EPL
+2024-02-24,Arsenal,Newcastle,H,2023-2024,EPL
+2024-02-25,Wolves,Sheffield United,H,2023-2024,EPL
+2024-02-26,West Ham,Brentford,H,2023-2024,EPL
+2024-03-02,Brentford,Chelsea,D,2023-2024,EPL
+2024-03-02,Everton,West Ham,A,2023-2024,EPL
+2024-03-02,Fulham,Brighton,H,2023-2024,EPL
+2024-03-02,Newcastle,Wolves,H,2023-2024,EPL
+2024-03-02,Nott'm Forest,Liverpool,A,2023-2024,EPL
+2024-03-02,Tottenham,Crystal Palace,H,2023-2024,EPL
+2024-03-02,Luton,Aston Villa,A,2023-2024,EPL
+2024-03-03,Burnley,Bournemouth,A,2023-2024,EPL
+2024-03-03,Man City,Man United,H,2023-2024,EPL
+2024-03-04,Sheffield United,Arsenal,A,2023-2024,EPL
+2024-03-09,Man United,Everton,H,2023-2024,EPL
+2024-03-09,Bournemouth,Sheffield United,D,2023-2024,EPL
+2024-03-09,Crystal Palace,Luton,D,2023-2024,EPL
+2024-03-09,Wolves,Fulham,H,2023-2024,EPL
+2024-03-09,Arsenal,Brentford,H,2023-2024,EPL
+2024-03-10,Aston Villa,Tottenham,A,2023-2024,EPL
+2024-03-10,Brighton,Nott'm Forest,H,2023-2024,EPL
+2024-03-10,West Ham,Burnley,D,2023-2024,EPL
+2024-03-10,Liverpool,Man City,D,2023-2024,EPL
+2024-03-11,Chelsea,Newcastle,H,2023-2024,EPL
+2024-03-13,Bournemouth,Luton,H,2023-2024,EPL
+2024-03-16,Burnley,Brentford,H,2023-2024,EPL
+2024-03-16,Luton,Nott'm Forest,D,2023-2024,EPL
+2024-03-16,Fulham,Tottenham,H,2023-2024,EPL
+2024-03-17,West Ham,Aston Villa,D,2023-2024,EPL
+2024-03-30,Newcastle,West Ham,H,2023-2024,EPL
+2024-03-30,Bournemouth,Everton,H,2023-2024,EPL
+2024-03-30,Chelsea,Burnley,D,2023-2024,EPL
+2024-03-30,Nott'm Forest,Crystal Palace,D,2023-2024,EPL
+2024-03-30,Sheffield United,Fulham,D,2023-2024,EPL
+2024-03-30,Tottenham,Luton,H,2023-2024,EPL
+2024-03-30,Aston Villa,Wolves,H,2023-2024,EPL
+2024-03-30,Brentford,Man United,D,2023-2024,EPL
+2024-03-31,Liverpool,Brighton,H,2023-2024,EPL
+2024-03-31,Man City,Arsenal,D,2023-2024,EPL
+2024-04-02,Newcastle,Everton,D,2023-2024,EPL
+2024-04-02,Nott'm Forest,Fulham,H,2023-2024,EPL
+2024-04-02,Bournemouth,Crystal Palace,H,2023-2024,EPL
+2024-04-02,Burnley,Wolves,D,2023-2024,EPL
+2024-04-02,West Ham,Tottenham,D,2023-2024,EPL
+2024-04-03,Arsenal,Luton,H,2023-2024,EPL
+2024-04-03,Brentford,Brighton,D,2023-2024,EPL
+2024-04-03,Man City,Aston Villa,H,2023-2024,EPL
+2024-04-04,Liverpool,Sheffield United,H,2023-2024,EPL
+2024-04-04,Chelsea,Man United,H,2023-2024,EPL
+2024-04-06,Crystal Palace,Man City,A,2023-2024,EPL
+2024-04-06,Aston Villa,Brentford,D,2023-2024,EPL
+2024-04-06,Everton,Burnley,H,2023-2024,EPL
+2024-04-06,Fulham,Newcastle,A,2023-2024,EPL
+2024-04-06,Luton,Bournemouth,H,2023-2024,EPL
+2024-04-06,Wolves,West Ham,A,2023-2024,EPL
+2024-04-06,Brighton,Arsenal,A,2023-2024,EPL
+2024-04-07,Man United,Liverpool,D,2023-2024,EPL
+2024-04-07,Sheffield United,Chelsea,D,2023-2024,EPL
+2024-04-07,Tottenham,Nott'm Forest,H,2023-2024,EPL
+2024-04-13,Newcastle,Tottenham,H,2023-2024,EPL
+2024-04-13,Brentford,Sheffield United,H,2023-2024,EPL
+2024-04-13,Burnley,Brighton,D,2023-2024,EPL
+2024-04-13,Man City,Luton,H,2023-2024,EPL
+2024-04-13,Nott'm Forest,Wolves,D,2023-2024,EPL
+2024-04-13,Bournemouth,Man United,D,2023-2024,EPL
+2024-04-14,Liverpool,Crystal Palace,A,2023-2024,EPL
+2024-04-14,West Ham,Fulham,A,2023-2024,EPL
+2024-04-14,Arsenal,Aston Villa,A,2023-2024,EPL
+2024-04-15,Chelsea,Everton,H,2023-2024,EPL
+2024-04-20,Luton,Brentford,A,2023-2024,EPL
+2024-04-20,Sheffield United,Burnley,A,2023-2024,EPL
+2024-04-20,Wolves,Arsenal,A,2023-2024,EPL
+2024-04-21,Everton,Nott'm Forest,H,2023-2024,EPL
+2024-04-21,Aston Villa,Bournemouth,H,2023-2024,EPL
+2024-04-21,Crystal Palace,West Ham,H,2023-2024,EPL
+2024-04-21,Fulham,Liverpool,A,2023-2024,EPL
+2024-04-23,Arsenal,Chelsea,H,2023-2024,EPL
+2024-04-24,Wolves,Bournemouth,A,2023-2024,EPL
+2024-04-24,Crystal Palace,Newcastle,H,2023-2024,EPL
+2024-04-24,Everton,Liverpool,H,2023-2024,EPL
+2024-04-24,Man United,Sheffield United,H,2023-2024,EPL
+2024-04-25,Brighton,Man City,A,2023-2024,EPL
+2024-04-27,West Ham,Liverpool,D,2023-2024,EPL
+2024-04-27,Fulham,Crystal Palace,D,2023-2024,EPL
+2024-04-27,Man United,Burnley,D,2023-2024,EPL
+2024-04-27,Newcastle,Sheffield United,H,2023-2024,EPL
+2024-04-27,Wolves,Luton,H,2023-2024,EPL
+2024-04-27,Everton,Brentford,H,2023-2024,EPL
+2024-04-27,Aston Villa,Chelsea,D,2023-2024,EPL
+2024-04-28,Bournemouth,Brighton,H,2023-2024,EPL
+2024-04-28,Tottenham,Arsenal,A,2023-2024,EPL
+2024-04-28,Nott'm Forest,Man City,A,2023-2024,EPL
+2024-05-02,Chelsea,Tottenham,H,2023-2024,EPL
+2024-05-03,Luton,Everton,D,2023-2024,EPL
+2024-05-04,Arsenal,Bournemouth,H,2023-2024,EPL
+2024-05-04,Brentford,Fulham,D,2023-2024,EPL
+2024-05-04,Burnley,Newcastle,A,2023-2024,EPL
+2024-05-04,Sheffield United,Nott'm Forest,A,2023-2024,EPL
+2024-05-04,Man City,Wolves,H,2023-2024,EPL
+2024-05-05,Brighton,Aston Villa,H,2023-2024,EPL
+2024-05-05,Chelsea,West Ham,H,2023-2024,EPL
+2024-05-05,Liverpool,Tottenham,H,2023-2024,EPL
+2024-05-06,Crystal Palace,Man United,H,2023-2024,EPL
+2024-05-11,Fulham,Man City,A,2023-2024,EPL
+2024-05-11,Bournemouth,Brentford,A,2023-2024,EPL
+2024-05-11,Everton,Sheffield United,H,2023-2024,EPL
+2024-05-11,Newcastle,Brighton,D,2023-2024,EPL
+2024-05-11,Tottenham,Burnley,H,2023-2024,EPL
+2024-05-11,West Ham,Luton,H,2023-2024,EPL
+2024-05-11,Wolves,Crystal Palace,A,2023-2024,EPL
+2024-05-11,Nott'm Forest,Chelsea,A,2023-2024,EPL
+2024-05-12,Man United,Arsenal,A,2023-2024,EPL
+2024-05-13,Aston Villa,Liverpool,D,2023-2024,EPL
+2024-05-14,Tottenham,Man City,A,2023-2024,EPL
+2024-05-15,Brighton,Chelsea,A,2023-2024,EPL
+2024-05-15,Man United,Newcastle,H,2023-2024,EPL
+2024-05-19,Arsenal,Everton,H,2023-2024,EPL
+2024-05-19,Brentford,Newcastle,A,2023-2024,EPL
+2024-05-19,Brighton,Man United,A,2023-2024,EPL
+2024-05-19,Burnley,Nott'm Forest,A,2023-2024,EPL
+2024-05-19,Chelsea,Bournemouth,H,2023-2024,EPL
+2024-05-19,Crystal Palace,Aston Villa,H,2023-2024,EPL
+2024-05-19,Liverpool,Wolves,H,2023-2024,EPL
+2024-05-19,Luton,Fulham,A,2023-2024,EPL
+2024-05-19,Man City,West Ham,H,2023-2024,EPL
+2024-05-19,Sheffield United,Tottenham,A,2023-2024,EPL
+2023-08-11,Almeria,Vallecano,A,2023-2024,LaLiga
+2023-08-11,Sevilla,Valencia,A,2023-2024,LaLiga
+2023-08-12,Sociedad,Girona,D,2023-2024,LaLiga
+2023-08-12,Las Palmas,Mallorca,D,2023-2024,LaLiga
+2023-08-12,Ath Bilbao,Real Madrid,A,2023-2024,LaLiga
+2023-08-13,Celta,Osasuna,A,2023-2024,LaLiga
+2023-08-13,Villarreal,Betis,A,2023-2024,LaLiga
+2023-08-13,Getafe,Barcelona,D,2023-2024,LaLiga
+2023-08-14,Cadiz,Alaves,H,2023-2024,LaLiga
+2023-08-14,Ath Madrid,Granada,H,2023-2024,LaLiga
+2023-08-18,Mallorca,Villarreal,A,2023-2024,LaLiga
+2023-08-18,Valencia,Las Palmas,H,2023-2024,LaLiga
+2023-08-19,Sociedad,Celta,D,2023-2024,LaLiga
+2023-08-19,Almeria,Real Madrid,A,2023-2024,LaLiga
+2023-08-19,Osasuna,Ath Bilbao,A,2023-2024,LaLiga
+2023-08-20,Girona,Getafe,H,2023-2024,LaLiga
+2023-08-20,Barcelona,Cadiz,H,2023-2024,LaLiga
+2023-08-20,Betis,Ath Madrid,D,2023-2024,LaLiga
+2023-08-21,Alaves,Sevilla,H,2023-2024,LaLiga
+2023-08-21,Granada,Vallecano,A,2023-2024,LaLiga
+2023-08-25,Las Palmas,Sociedad,D,2023-2024,LaLiga
+2023-08-25,Celta,Real Madrid,A,2023-2024,LaLiga
+2023-08-26,Cadiz,Almeria,D,2023-2024,LaLiga
+2023-08-26,Granada,Mallorca,H,2023-2024,LaLiga
+2023-08-26,Sevilla,Girona,A,2023-2024,LaLiga
+2023-08-27,Villarreal,Barcelona,A,2023-2024,LaLiga
+2023-08-27,Valencia,Osasuna,A,2023-2024,LaLiga
+2023-08-27,Ath Bilbao,Betis,H,2023-2024,LaLiga
+2023-08-28,Getafe,Alaves,H,2023-2024,LaLiga
+2023-08-28,Vallecano,Ath Madrid,A,2023-2024,LaLiga
+2023-09-01,Cadiz,Villarreal,H,2023-2024,LaLiga
+2023-09-01,Almeria,Celta,A,2023-2024,LaLiga
+2023-09-02,Sociedad,Granada,H,2023-2024,LaLiga
+2023-09-02,Real Madrid,Getafe,H,2023-2024,LaLiga
+2023-09-02,Alaves,Valencia,H,2023-2024,LaLiga
+2023-09-02,Betis,Vallecano,H,2023-2024,LaLiga
+2023-09-03,Girona,Las Palmas,H,2023-2024,LaLiga
+2023-09-03,Mallorca,Ath Bilbao,D,2023-2024,LaLiga
+2023-09-03,Osasuna,Barcelona,A,2023-2024,LaLiga
+2023-09-15,Vallecano,Alaves,H,2023-2024,LaLiga
+2023-09-16,Ath Bilbao,Cadiz,H,2023-2024,LaLiga
+2023-09-16,Valencia,Ath Madrid,H,2023-2024,LaLiga
+2023-09-16,Celta,Mallorca,A,2023-2024,LaLiga
+2023-09-16,Barcelona,Betis,H,2023-2024,LaLiga
+2023-09-17,Getafe,Osasuna,H,2023-2024,LaLiga
+2023-09-17,Villarreal,Almeria,H,2023-2024,LaLiga
+2023-09-17,Sevilla,Las Palmas,H,2023-2024,LaLiga
+2023-09-17,Real Madrid,Sociedad,H,2023-2024,LaLiga
+2023-09-18,Granada,Girona,A,2023-2024,LaLiga
+2023-09-22,Alaves,Ath Bilbao,A,2023-2024,LaLiga
+2023-09-23,Girona,Mallorca,H,2023-2024,LaLiga
+2023-09-23,Osasuna,Sevilla,D,2023-2024,LaLiga
+2023-09-23,Barcelona,Celta,H,2023-2024,LaLiga
+2023-09-23,Almeria,Valencia,D,2023-2024,LaLiga
+2023-09-24,Sociedad,Getafe,H,2023-2024,LaLiga
+2023-09-24,Vallecano,Villarreal,D,2023-2024,LaLiga
+2023-09-24,Betis,Cadiz,D,2023-2024,LaLiga
+2023-09-24,Las Palmas,Granada,H,2023-2024,LaLiga
+2023-09-24,Ath Madrid,Real Madrid,H,2023-2024,LaLiga
+2023-09-26,Sevilla,Almeria,H,2023-2024,LaLiga
+2023-09-26,Mallorca,Barcelona,D,2023-2024,LaLiga
+2023-09-27,Ath Bilbao,Getafe,D,2023-2024,LaLiga
+2023-09-27,Real Madrid,Las Palmas,H,2023-2024,LaLiga
+2023-09-27,Villarreal,Girona,A,2023-2024,LaLiga
+2023-09-27,Cadiz,Vallecano,D,2023-2024,LaLiga
+2023-09-27,Valencia,Sociedad,A,2023-2024,LaLiga
+2023-09-28,Celta,Alaves,D,2023-2024,LaLiga
+2023-09-28,Granada,Betis,D,2023-2024,LaLiga
+2023-09-28,Osasuna,Ath Madrid,A,2023-2024,LaLiga
+2023-09-29,Barcelona,Sevilla,H,2023-2024,LaLiga
+2023-09-30,Getafe,Villarreal,D,2023-2024,LaLiga
+2023-09-30,Vallecano,Mallorca,D,2023-2024,LaLiga
+2023-09-30,Girona,Real Madrid,A,2023-2024,LaLiga
+2023-09-30,Sociedad,Ath Bilbao,H,2023-2024,LaLiga
+2023-10-01,Almeria,Granada,D,2023-2024,LaLiga
+2023-10-01,Alaves,Osasuna,A,2023-2024,LaLiga
+2023-10-01,Ath Madrid,Cadiz,H,2023-2024,LaLiga
+2023-10-01,Betis,Valencia,H,2023-2024,LaLiga
+2023-10-02,Las Palmas,Celta,H,2023-2024,LaLiga
+2023-10-06,Ath Bilbao,Almeria,H,2023-2024,LaLiga
+2023-10-07,Cadiz,Girona,A,2023-2024,LaLiga
+2023-10-07,Real Madrid,Osasuna,H,2023-2024,LaLiga
+2023-10-07,Mallorca,Valencia,D,2023-2024,LaLiga
+2023-10-07,Sevilla,Vallecano,D,2023-2024,LaLiga
+2023-10-08,Villarreal,Las Palmas,A,2023-2024,LaLiga
+2023-10-08,Ath Madrid,Sociedad,H,2023-2024,LaLiga
+2023-10-08,Alaves,Betis,D,2023-2024,LaLiga
+2023-10-08,Celta,Getafe,D,2023-2024,LaLiga
+2023-10-08,Granada,Barcelona,D,2023-2024,LaLiga
+2023-10-20,Osasuna,Granada,H,2023-2024,LaLiga
+2023-10-21,Sociedad,Mallorca,H,2023-2024,LaLiga
+2023-10-21,Getafe,Betis,D,2023-2024,LaLiga
+2023-10-21,Sevilla,Real Madrid,D,2023-2024,LaLiga
+2023-10-21,Celta,Ath Madrid,A,2023-2024,LaLiga
+2023-10-22,Las Palmas,Vallecano,A,2023-2024,LaLiga
+2023-10-22,Girona,Almeria,H,2023-2024,LaLiga
+2023-10-22,Villarreal,Alaves,D,2023-2024,LaLiga
+2023-10-22,Barcelona,Ath Bilbao,H,2023-2024,LaLiga
+2023-10-23,Valencia,Cadiz,H,2023-2024,LaLiga
+2023-10-27,Girona,Celta,H,2023-2024,LaLiga
+2023-10-28,Almeria,Las Palmas,A,2023-2024,LaLiga
+2023-10-28,Barcelona,Real Madrid,A,2023-2024,LaLiga
+2023-10-28,Mallorca,Getafe,D,2023-2024,LaLiga
+2023-10-28,Cadiz,Sevilla,D,2023-2024,LaLiga
+2023-10-29,Betis,Osasuna,H,2023-2024,LaLiga
+2023-10-29,Vallecano,Sociedad,D,2023-2024,LaLiga
+2023-10-29,Ath Bilbao,Valencia,D,2023-2024,LaLiga
+2023-10-29,Ath Madrid,Alaves,H,2023-2024,LaLiga
+2023-10-30,Granada,Villarreal,A,2023-2024,LaLiga
+2023-11-03,Las Palmas,Ath Madrid,H,2023-2024,LaLiga
+2023-11-04,Osasuna,Girona,A,2023-2024,LaLiga
+2023-11-04,Betis,Mallorca,H,2023-2024,LaLiga
+2023-11-04,Celta,Sevilla,D,2023-2024,LaLiga
+2023-11-04,Sociedad,Barcelona,A,2023-2024,LaLiga
+2023-11-05,Alaves,Almeria,H,2023-2024,LaLiga
+2023-11-05,Valencia,Granada,H,2023-2024,LaLiga
+2023-11-05,Villarreal,Ath Bilbao,A,2023-2024,LaLiga
+2023-11-05,Real Madrid,Vallecano,D,2023-2024,LaLiga
+2023-11-06,Getafe,Cadiz,H,2023-2024,LaLiga
+2023-11-10,Ath Bilbao,Celta,H,2023-2024,LaLiga
+2023-11-11,Vallecano,Girona,A,2023-2024,LaLiga
+2023-11-11,Almeria,Sociedad,A,2023-2024,LaLiga
+2023-11-11,Granada,Getafe,D,2023-2024,LaLiga
+2023-11-11,Osasuna,Las Palmas,D,2023-2024,LaLiga
+2023-11-11,Real Madrid,Valencia,H,2023-2024,LaLiga
+2023-11-12,Barcelona,Alaves,H,2023-2024,LaLiga
+2023-11-12,Sevilla,Betis,D,2023-2024,LaLiga
+2023-11-12,Ath Madrid,Villarreal,H,2023-2024,LaLiga
+2023-11-24,Alaves,Granada,H,2023-2024,LaLiga
+2023-11-25,Vallecano,Barcelona,D,2023-2024,LaLiga
+2023-11-25,Valencia,Celta,D,2023-2024,LaLiga
+2023-11-25,Getafe,Almeria,H,2023-2024,LaLiga
+2023-11-25,Ath Madrid,Mallorca,H,2023-2024,LaLiga
+2023-11-26,Villarreal,Osasuna,H,2023-2024,LaLiga
+2023-11-26,Sociedad,Sevilla,H,2023-2024,LaLiga
+2023-11-26,Cadiz,Real Madrid,A,2023-2024,LaLiga
+2023-11-26,Betis,Las Palmas,H,2023-2024,LaLiga
+2023-11-27,Girona,Ath Bilbao,D,2023-2024,LaLiga
+2023-11-29,Mallorca,Cadiz,D,2023-2024,LaLiga
+2023-12-01,Las Palmas,Getafe,H,2023-2024,LaLiga
+2023-12-02,Girona,Valencia,H,2023-2024,LaLiga
+2023-12-02,Ath Bilbao,Vallecano,H,2023-2024,LaLiga
+2023-12-02,Real Madrid,Granada,H,2023-2024,LaLiga
+2023-12-02,Osasuna,Sociedad,D,2023-2024,LaLiga
+2023-12-03,Mallorca,Alaves,D,2023-2024,LaLiga
+2023-12-03,Almeria,Betis,D,2023-2024,LaLiga
+2023-12-03,Sevilla,Villarreal,D,2023-2024,LaLiga
+2023-12-03,Barcelona,Ath Madrid,H,2023-2024,LaLiga
+2023-12-04,Celta,Cadiz,D,2023-2024,LaLiga
+2023-12-08,Getafe,Valencia,H,2023-2024,LaLiga
+2023-12-09,Alaves,Las Palmas,A,2023-2024,LaLiga
+2023-12-09,Betis,Real Madrid,D,2023-2024,LaLiga
+2023-12-09,Villarreal,Sociedad,A,2023-2024,LaLiga
+2023-12-09,Mallorca,Sevilla,H,2023-2024,LaLiga
+2023-12-10,Ath Madrid,Almeria,H,2023-2024,LaLiga
+2023-12-10,Cadiz,Osasuna,D,2023-2024,LaLiga
+2023-12-10,Barcelona,Girona,A,2023-2024,LaLiga
+2023-12-11,Granada,Ath Bilbao,D,2023-2024,LaLiga
+2023-12-11,Vallecano,Celta,D,2023-2024,LaLiga
+2023-12-15,Osasuna,Vallecano,H,2023-2024,LaLiga
+2023-12-16,Celta,Granada,H,2023-2024,LaLiga
+2023-12-16,Ath Bilbao,Ath Madrid,H,2023-2024,LaLiga
+2023-12-16,Sevilla,Getafe,A,2023-2024,LaLiga
+2023-12-16,Valencia,Barcelona,D,2023-2024,LaLiga
+2023-12-17,Almeria,Mallorca,D,2023-2024,LaLiga
+2023-12-17,Sociedad,Betis,D,2023-2024,LaLiga
+2023-12-17,Las Palmas,Cadiz,D,2023-2024,LaLiga
+2023-12-17,Real Madrid,Villarreal,H,2023-2024,LaLiga
+2023-12-18,Girona,Alaves,H,2023-2024,LaLiga
+2023-12-19,Vallecano,Valencia,A,2023-2024,LaLiga
+2023-12-19,Ath Madrid,Getafe,D,2023-2024,LaLiga
+2023-12-19,Granada,Sevilla,A,2023-2024,LaLiga
+2023-12-20,Barcelona,Almeria,H,2023-2024,LaLiga
+2023-12-20,Ath Bilbao,Las Palmas,H,2023-2024,LaLiga
+2023-12-20,Villarreal,Celta,H,2023-2024,LaLiga
+2023-12-21,Betis,Girona,D,2023-2024,LaLiga
+2023-12-21,Cadiz,Sociedad,D,2023-2024,LaLiga
+2023-12-21,Alaves,Real Madrid,A,2023-2024,LaLiga
+2023-12-21,Mallorca,Osasuna,H,2023-2024,LaLiga
+2023-12-23,Ath Madrid,Sevilla,H,2023-2024,LaLiga
+2024-01-02,Getafe,Vallecano,A,2023-2024,LaLiga
+2024-01-02,Sociedad,Alaves,D,2023-2024,LaLiga
+2024-01-02,Valencia,Villarreal,H,2023-2024,LaLiga
+2024-01-03,Granada,Cadiz,H,2023-2024,LaLiga
+2024-01-03,Celta,Betis,H,2023-2024,LaLiga
+2024-01-03,Real Madrid,Mallorca,H,2023-2024,LaLiga
+2024-01-03,Girona,Ath Madrid,H,2023-2024,LaLiga
+2024-01-04,Osasuna,Almeria,H,2023-2024,LaLiga
+2024-01-04,Sevilla,Ath Bilbao,A,2023-2024,LaLiga
+2024-01-04,Las Palmas,Barcelona,A,2023-2024,LaLiga
+2024-01-12,Sevilla,Alaves,A,2023-2024,LaLiga
+2024-01-13,Las Palmas,Villarreal,H,2023-2024,LaLiga
+2024-01-13,Mallorca,Celta,D,2023-2024,LaLiga
+2024-01-13,Ath Bilbao,Sociedad,H,2023-2024,LaLiga
+2024-01-13,Betis,Granada,H,2023-2024,LaLiga
+2024-01-14,Almeria,Girona,D,2023-2024,LaLiga
+2024-01-14,Cadiz,Valencia,A,2023-2024,LaLiga
+2024-01-19,Alaves,Cadiz,H,2023-2024,LaLiga
+2024-01-20,Vallecano,Las Palmas,A,2023-2024,LaLiga
+2024-01-20,Villarreal,Mallorca,D,2023-2024,LaLiga
+2024-01-20,Valencia,Ath Bilbao,H,2023-2024,LaLiga
+2024-01-20,Celta,Sociedad,A,2023-2024,LaLiga
+2024-01-21,Osasuna,Getafe,H,2023-2024,LaLiga
+2024-01-21,Real Madrid,Almeria,H,2023-2024,LaLiga
+2024-01-21,Betis,Barcelona,A,2023-2024,LaLiga
+2024-01-21,Girona,Sevilla,H,2023-2024,LaLiga
+2024-01-22,Granada,Ath Madrid,A,2023-2024,LaLiga
+2024-01-26,Almeria,Alaves,A,2023-2024,LaLiga
+2024-01-27,Sociedad,Vallecano,D,2023-2024,LaLiga
+2024-01-27,Las Palmas,Real Madrid,A,2023-2024,LaLiga
+2024-01-27,Barcelona,Villarreal,A,2023-2024,LaLiga
+2024-01-27,Mallorca,Betis,A,2023-2024,LaLiga
+2024-01-28,Celta,Girona,A,2023-2024,LaLiga
+2024-01-28,Cadiz,Ath Bilbao,D,2023-2024,LaLiga
+2024-01-28,Sevilla,Osasuna,D,2023-2024,LaLiga
+2024-01-28,Ath Madrid,Valencia,H,2023-2024,LaLiga
+2024-01-29,Getafe,Granada,H,2023-2024,LaLiga
+2024-01-31,Barcelona,Osasuna,H,2023-2024,LaLiga
+2024-01-31,Ath Madrid,Vallecano,H,2023-2024,LaLiga
+2024-02-01,Getafe,Real Madrid,A,2023-2024,LaLiga
+2024-02-02,Ath Bilbao,Mallorca,H,2023-2024,LaLiga
+2024-02-03,Valencia,Almeria,H,2023-2024,LaLiga
+2024-02-03,Granada,Las Palmas,D,2023-2024,LaLiga
+2024-02-03,Alaves,Barcelona,A,2023-2024,LaLiga
+2024-02-03,Girona,Sociedad,D,2023-2024,LaLiga
+2024-02-04,Villarreal,Cadiz,D,2023-2024,LaLiga
+2024-02-04,Osasuna,Celta,A,2023-2024,LaLiga
+2024-02-04,Betis,Getafe,D,2023-2024,LaLiga
+2024-02-04,Real Madrid,Ath Madrid,D,2023-2024,LaLiga
+2024-02-05,Vallecano,Sevilla,A,2023-2024,LaLiga
+2024-02-09,Cadiz,Betis,A,2023-2024,LaLiga
+2024-02-10,Alaves,Villarreal,D,2023-2024,LaLiga
+2024-02-10,Sociedad,Osasuna,A,2023-2024,LaLiga
+2024-02-10,Real Madrid,Girona,H,2023-2024,LaLiga
+2024-02-10,Las Palmas,Valencia,H,2023-2024,LaLiga
+2024-02-11,Getafe,Celta,H,2023-2024,LaLiga
+2024-02-11,Mallorca,Vallecano,H,2023-2024,LaLiga
+2024-02-11,Sevilla,Ath Madrid,H,2023-2024,LaLiga
+2024-02-11,Barcelona,Granada,D,2023-2024,LaLiga
+2024-02-12,Almeria,Ath Bilbao,D,2023-2024,LaLiga
+2024-02-16,Villarreal,Getafe,D,2023-2024,LaLiga
+2024-02-17,Ath Madrid,Las Palmas,H,2023-2024,LaLiga
+2024-02-17,Osasuna,Cadiz,H,2023-2024,LaLiga
+2024-02-17,Celta,Barcelona,A,2023-2024,LaLiga
+2024-02-17,Valencia,Sevilla,D,2023-2024,LaLiga
+2024-02-18,Vallecano,Real Madrid,D,2023-2024,LaLiga
+2024-02-18,Granada,Almeria,D,2023-2024,LaLiga
+2024-02-18,Mallorca,Sociedad,A,2023-2024,LaLiga
+2024-02-18,Betis,Alaves,D,2023-2024,LaLiga
+2024-02-19,Ath Bilbao,Girona,H,2023-2024,LaLiga
+2024-02-23,Sociedad,Villarreal,A,2023-2024,LaLiga
+2024-02-24,Barcelona,Getafe,H,2023-2024,LaLiga
+2024-02-24,Alaves,Mallorca,D,2023-2024,LaLiga
+2024-02-24,Almeria,Ath Madrid,D,2023-2024,LaLiga
+2024-02-25,Cadiz,Celta,D,2023-2024,LaLiga
+2024-02-25,Betis,Ath Bilbao,H,2023-2024,LaLiga
+2024-02-25,Las Palmas,Osasuna,D,2023-2024,LaLiga
+2024-02-25,Real Madrid,Sevilla,H,2023-2024,LaLiga
+2024-02-26,Girona,Vallecano,H,2023-2024,LaLiga
+2024-03-01,Celta,Almeria,H,2023-2024,LaLiga
+2024-03-02,Sevilla,Sociedad,H,2023-2024,LaLiga
+2024-03-02,Vallecano,Cadiz,D,2023-2024,LaLiga
+2024-03-02,Getafe,Las Palmas,D,2023-2024,LaLiga
+2024-03-02,Valencia,Real Madrid,D,2023-2024,LaLiga
+2024-03-03,Villarreal,Granada,H,2023-2024,LaLiga
+2024-03-03,Ath Madrid,Betis,H,2023-2024,LaLiga
+2024-03-03,Mallorca,Girona,H,2023-2024,LaLiga
+2024-03-03,Ath Bilbao,Barcelona,D,2023-2024,LaLiga
+2024-03-04,Osasuna,Alaves,H,2023-2024,LaLiga
+2024-03-08,Barcelona,Mallorca,H,2023-2024,LaLiga
+2024-03-09,Valencia,Getafe,H,2023-2024,LaLiga
+2024-03-09,Cadiz,Ath Madrid,H,2023-2024,LaLiga
+2024-03-09,Granada,Sociedad,A,2023-2024,LaLiga
+2024-03-09,Girona,Osasuna,H,2023-2024,LaLiga
+2024-03-10,Alaves,Vallecano,H,2023-2024,LaLiga
+2024-03-10,Las Palmas,Ath Bilbao,A,2023-2024,LaLiga
+2024-03-10,Real Madrid,Celta,H,2023-2024,LaLiga
+2024-03-10,Betis,Villarreal,A,2023-2024,LaLiga
+2024-03-11,Almeria,Sevilla,D,2023-2024,LaLiga
+2024-03-15,Sociedad,Cadiz,H,2023-2024,LaLiga
+2024-03-16,Mallorca,Granada,H,2023-2024,LaLiga
+2024-03-16,Osasuna,Real Madrid,A,2023-2024,LaLiga
+2024-03-16,Getafe,Girona,H,2023-2024,LaLiga
+2024-03-16,Ath Bilbao,Alaves,H,2023-2024,LaLiga
+2024-03-17,Sevilla,Celta,A,2023-2024,LaLiga
+2024-03-17,Las Palmas,Almeria,A,2023-2024,LaLiga
+2024-03-17,Villarreal,Valencia,H,2023-2024,LaLiga
+2024-03-17,Vallecano,Betis,H,2023-2024,LaLiga
+2024-03-17,Ath Madrid,Barcelona,A,2023-2024,LaLiga
+2024-03-29,Cadiz,Granada,H,2023-2024,LaLiga
+2024-03-30,Getafe,Sevilla,A,2023-2024,LaLiga
+2024-03-30,Almeria,Osasuna,A,2023-2024,LaLiga
+2024-03-30,Valencia,Mallorca,D,2023-2024,LaLiga
+2024-03-30,Barcelona,Las Palmas,H,2023-2024,LaLiga
+2024-03-31,Celta,Vallecano,D,2023-2024,LaLiga
+2024-03-31,Girona,Betis,H,2023-2024,LaLiga
+2024-03-31,Alaves,Sociedad,A,2023-2024,LaLiga
+2024-03-31,Real Madrid,Ath Bilbao,H,2023-2024,LaLiga
+2024-04-01,Villarreal,Ath Madrid,A,2023-2024,LaLiga
+2024-04-04,Granada,Valencia,A,2023-2024,LaLiga
+2024-04-12,Betis,Celta,H,2023-2024,LaLiga
+2024-04-13,Ath Madrid,Girona,H,2023-2024,LaLiga
+2024-04-13,Vallecano,Getafe,D,2023-2024,LaLiga
+2024-04-13,Mallorca,Real Madrid,A,2023-2024,LaLiga
+2024-04-13,Cadiz,Barcelona,A,2023-2024,LaLiga
+2024-04-14,Las Palmas,Sevilla,A,2023-2024,LaLiga
+2024-04-14,Granada,Alaves,H,2023-2024,LaLiga
+2024-04-14,Ath Bilbao,Villarreal,D,2023-2024,LaLiga
+2024-04-14,Sociedad,Almeria,D,2023-2024,LaLiga
+2024-04-15,Osasuna,Valencia,A,2023-2024,LaLiga
+2024-04-19,Ath Bilbao,Granada,D,2023-2024,LaLiga
+2024-04-20,Celta,Las Palmas,H,2023-2024,LaLiga
+2024-04-20,Vallecano,Osasuna,H,2023-2024,LaLiga
+2024-04-20,Valencia,Betis,A,2023-2024,LaLiga
+2024-04-20,Girona,Cadiz,H,2023-2024,LaLiga
+2024-04-21,Getafe,Sociedad,D,2023-2024,LaLiga
+2024-04-21,Almeria,Villarreal,A,2023-2024,LaLiga
+2024-04-21,Alaves,Ath Madrid,H,2023-2024,LaLiga
+2024-04-21,Real Madrid,Barcelona,H,2023-2024,LaLiga
+2024-04-22,Sevilla,Mallorca,H,2023-2024,LaLiga
+2024-04-26,Sociedad,Real Madrid,A,2023-2024,LaLiga
+2024-04-27,Las Palmas,Girona,A,2023-2024,LaLiga
+2024-04-27,Almeria,Getafe,A,2023-2024,LaLiga
+2024-04-27,Alaves,Celta,H,2023-2024,LaLiga
+2024-04-27,Ath Madrid,Ath Bilbao,H,2023-2024,LaLiga
+2024-04-28,Cadiz,Mallorca,D,2023-2024,LaLiga
+2024-04-28,Granada,Osasuna,H,2023-2024,LaLiga
+2024-04-28,Villarreal,Vallecano,H,2023-2024,LaLiga
+2024-04-28,Betis,Sevilla,D,2023-2024,LaLiga
+2024-04-29,Barcelona,Valencia,H,2023-2024,LaLiga
+2024-05-03,Getafe,Ath Bilbao,A,2023-2024,LaLiga
+2024-05-04,Sociedad,Las Palmas,H,2023-2024,LaLiga
+2024-05-04,Real Madrid,Cadiz,H,2023-2024,LaLiga
+2024-05-04,Girona,Barcelona,H,2023-2024,LaLiga
+2024-05-04,Mallorca,Ath Madrid,A,2023-2024,LaLiga
+2024-05-05,Osasuna,Betis,A,2023-2024,LaLiga
+2024-05-05,Celta,Villarreal,H,2023-2024,LaLiga
+2024-05-05,Valencia,Alaves,A,2023-2024,LaLiga
+2024-05-05,Sevilla,Granada,H,2023-2024,LaLiga
+2024-05-05,Vallecano,Almeria,A,2023-2024,LaLiga
+2024-05-10,Alaves,Girona,D,2023-2024,LaLiga
+2024-05-11,Mallorca,Las Palmas,H,2023-2024,LaLiga
+2024-05-11,Villarreal,Sevilla,H,2023-2024,LaLiga
+2024-05-11,Granada,Real Madrid,A,2023-2024,LaLiga
+2024-05-11,Ath Bilbao,Osasuna,D,2023-2024,LaLiga
+2024-05-12,Cadiz,Getafe,H,2023-2024,LaLiga
+2024-05-12,Ath Madrid,Celta,H,2023-2024,LaLiga
+2024-05-12,Valencia,Vallecano,D,2023-2024,LaLiga
+2024-05-12,Betis,Almeria,H,2023-2024,LaLiga
+2024-05-13,Barcelona,Sociedad,H,2023-2024,LaLiga
+2024-05-14,Osasuna,Mallorca,D,2023-2024,LaLiga
+2024-05-14,Real Madrid,Alaves,H,2023-2024,LaLiga
+2024-05-14,Girona,Villarreal,A,2023-2024,LaLiga
+2024-05-15,Sevilla,Cadiz,A,2023-2024,LaLiga
+2024-05-15,Vallecano,Granada,H,2023-2024,LaLiga
+2024-05-15,Celta,Ath Bilbao,H,2023-2024,LaLiga
+2024-05-15,Getafe,Ath Madrid,A,2023-2024,LaLiga
+2024-05-16,Las Palmas,Betis,D,2023-2024,LaLiga
+2024-05-16,Almeria,Barcelona,A,2023-2024,LaLiga
+2024-05-16,Sociedad,Valencia,H,2023-2024,LaLiga
+2024-05-18,Alaves,Getafe,H,2023-2024,LaLiga
+2024-05-19,Ath Bilbao,Sevilla,H,2023-2024,LaLiga
+2024-05-19,Ath Madrid,Osasuna,A,2023-2024,LaLiga
+2024-05-19,Barcelona,Vallecano,H,2023-2024,LaLiga
+2024-05-19,Betis,Sociedad,A,2023-2024,LaLiga
+2024-05-19,Cadiz,Las Palmas,D,2023-2024,LaLiga
+2024-05-19,Granada,Celta,A,2023-2024,LaLiga
+2024-05-19,Mallorca,Almeria,D,2023-2024,LaLiga
+2024-05-19,Valencia,Girona,A,2023-2024,LaLiga
+2024-05-19,Villarreal,Real Madrid,D,2023-2024,LaLiga
+2024-05-24,Girona,Granada,H,2023-2024,LaLiga
+2024-05-25,Osasuna,Villarreal,D,2023-2024,LaLiga
+2024-05-25,Sociedad,Ath Madrid,A,2023-2024,LaLiga
+2024-05-25,Almeria,Cadiz,H,2023-2024,LaLiga
+2024-05-25,Vallecano,Ath Bilbao,A,2023-2024,LaLiga
+2024-05-25,Real Madrid,Betis,D,2023-2024,LaLiga
+2024-05-26,Getafe,Mallorca,A,2023-2024,LaLiga
+2024-05-26,Celta,Valencia,D,2023-2024,LaLiga
+2024-05-26,Las Palmas,Alaves,D,2023-2024,LaLiga
+2024-05-26,Sevilla,Barcelona,A,2023-2024,LaLiga
+2024-08-16,Man United,Fulham,H,2024-2025,EPL
+2024-08-17,Ipswich,Liverpool,A,2024-2025,EPL
+2024-08-17,Arsenal,Wolves,H,2024-2025,EPL
+2024-08-17,Everton,Brighton,A,2024-2025,EPL
+2024-08-17,Newcastle,Southampton,H,2024-2025,EPL
+2024-08-17,Nott'm Forest,Bournemouth,D,2024-2025,EPL
+2024-08-17,West Ham,Aston Villa,A,2024-2025,EPL
+2024-08-18,Brentford,Crystal Palace,H,2024-2025,EPL
+2024-08-18,Chelsea,Man City,A,2024-2025,EPL
+2024-08-19,Leicester,Tottenham,D,2024-2025,EPL
+2024-08-24,Brighton,Man United,H,2024-2025,EPL
+2024-08-24,Crystal Palace,West Ham,A,2024-2025,EPL
+2024-08-24,Fulham,Leicester,H,2024-2025,EPL
+2024-08-24,Man City,Ipswich,H,2024-2025,EPL
+2024-08-24,Southampton,Nott'm Forest,A,2024-2025,EPL
+2024-08-24,Tottenham,Everton,H,2024-2025,EPL
+2024-08-24,Aston Villa,Arsenal,A,2024-2025,EPL
+2024-08-25,Bournemouth,Newcastle,D,2024-2025,EPL
+2024-08-25,Wolves,Chelsea,A,2024-2025,EPL
+2024-08-25,Liverpool,Brentford,H,2024-2025,EPL
+2024-08-31,Arsenal,Brighton,D,2024-2025,EPL
+2024-08-31,Brentford,Southampton,H,2024-2025,EPL
+2024-08-31,Everton,Bournemouth,A,2024-2025,EPL
+2024-08-31,Ipswich,Fulham,D,2024-2025,EPL
+2024-08-31,Leicester,Aston Villa,A,2024-2025,EPL
+2024-08-31,Nott'm Forest,Wolves,D,2024-2025,EPL
+2024-08-31,West Ham,Man City,A,2024-2025,EPL
+2024-09-01,Chelsea,Crystal Palace,D,2024-2025,EPL
+2024-09-01,Newcastle,Tottenham,H,2024-2025,EPL
+2024-09-01,Man United,Liverpool,A,2024-2025,EPL
+2024-09-14,Southampton,Man United,A,2024-2025,EPL
+2024-09-14,Brighton,Ipswich,D,2024-2025,EPL
+2024-09-14,Crystal Palace,Leicester,D,2024-2025,EPL
+2024-09-14,Fulham,West Ham,D,2024-2025,EPL
+2024-09-14,Liverpool,Nott'm Forest,A,2024-2025,EPL
+2024-09-14,Man City,Brentford,H,2024-2025,EPL
+2024-09-14,Aston Villa,Everton,H,2024-2025,EPL
+2024-09-14,Bournemouth,Chelsea,A,2024-2025,EPL
+2024-09-15,Tottenham,Arsenal,A,2024-2025,EPL
+2024-09-15,Wolves,Newcastle,A,2024-2025,EPL
+2024-09-21,West Ham,Chelsea,A,2024-2025,EPL
+2024-09-21,Aston Villa,Wolves,H,2024-2025,EPL
+2024-09-21,Fulham,Newcastle,H,2024-2025,EPL
+2024-09-21,Leicester,Everton,D,2024-2025,EPL
+2024-09-21,Liverpool,Bournemouth,H,2024-2025,EPL
+2024-09-21,Southampton,Ipswich,D,2024-2025,EPL
+2024-09-21,Tottenham,Brentford,H,2024-2025,EPL
+2024-09-21,Crystal Palace,Man United,D,2024-2025,EPL
+2024-09-22,Brighton,Nott'm Forest,D,2024-2025,EPL
+2024-09-22,Man City,Arsenal,D,2024-2025,EPL
+2024-09-28,Newcastle,Man City,D,2024-2025,EPL
+2024-09-28,Arsenal,Leicester,H,2024-2025,EPL
+2024-09-28,Brentford,West Ham,D,2024-2025,EPL
+2024-09-28,Chelsea,Brighton,H,2024-2025,EPL
+2024-09-28,Everton,Crystal Palace,H,2024-2025,EPL
+2024-09-28,Nott'm Forest,Fulham,A,2024-2025,EPL
+2024-09-28,Wolves,Liverpool,A,2024-2025,EPL
+2024-09-29,Ipswich,Aston Villa,D,2024-2025,EPL
+2024-09-29,Man United,Tottenham,A,2024-2025,EPL
+2024-09-30,Bournemouth,Southampton,H,2024-2025,EPL
+2024-10-05,Crystal Palace,Liverpool,A,2024-2025,EPL
+2024-10-05,Arsenal,Southampton,H,2024-2025,EPL
+2024-10-05,Brentford,Wolves,H,2024-2025,EPL
+2024-10-05,Leicester,Bournemouth,H,2024-2025,EPL
+2024-10-05,Man City,Fulham,H,2024-2025,EPL
+2024-10-05,West Ham,Ipswich,H,2024-2025,EPL
+2024-10-05,Everton,Newcastle,D,2024-2025,EPL
+2024-10-06,Aston Villa,Man United,D,2024-2025,EPL
+2024-10-06,Chelsea,Nott'm Forest,D,2024-2025,EPL
+2024-10-06,Brighton,Tottenham,H,2024-2025,EPL
+2024-10-19,Tottenham,West Ham,H,2024-2025,EPL
+2024-10-19,Fulham,Aston Villa,A,2024-2025,EPL
+2024-10-19,Ipswich,Everton,A,2024-2025,EPL
+2024-10-19,Man United,Brentford,H,2024-2025,EPL
+2024-10-19,Newcastle,Brighton,A,2024-2025,EPL
+2024-10-19,Southampton,Leicester,A,2024-2025,EPL
+2024-10-19,Bournemouth,Arsenal,H,2024-2025,EPL
+2024-10-20,Wolves,Man City,A,2024-2025,EPL
+2024-10-20,Liverpool,Chelsea,H,2024-2025,EPL
+2024-10-21,Nott'm Forest,Crystal Palace,H,2024-2025,EPL
+2024-10-25,Leicester,Nott'm Forest,A,2024-2025,EPL
+2024-10-26,Aston Villa,Bournemouth,D,2024-2025,EPL
+2024-10-26,Brentford,Ipswich,H,2024-2025,EPL
+2024-10-26,Brighton,Wolves,D,2024-2025,EPL
+2024-10-26,Man City,Southampton,H,2024-2025,EPL
+2024-10-26,Everton,Fulham,D,2024-2025,EPL
+2024-10-27,Chelsea,Newcastle,H,2024-2025,EPL
+2024-10-27,Crystal Palace,Tottenham,H,2024-2025,EPL
+2024-10-27,West Ham,Man United,H,2024-2025,EPL
+2024-10-27,Arsenal,Liverpool,D,2024-2025,EPL
+2024-11-02,Newcastle,Arsenal,H,2024-2025,EPL
+2024-11-02,Bournemouth,Man City,H,2024-2025,EPL
+2024-11-02,Ipswich,Leicester,D,2024-2025,EPL
+2024-11-02,Liverpool,Brighton,H,2024-2025,EPL
+2024-11-02,Nott'm Forest,West Ham,H,2024-2025,EPL
+2024-11-02,Southampton,Everton,H,2024-2025,EPL
+2024-11-02,Wolves,Crystal Palace,D,2024-2025,EPL
+2024-11-03,Tottenham,Aston Villa,H,2024-2025,EPL
+2024-11-03,Man United,Chelsea,D,2024-2025,EPL
+2024-11-04,Fulham,Brentford,H,2024-2025,EPL
+2024-11-09,Brentford,Bournemouth,H,2024-2025,EPL
+2024-11-09,Crystal Palace,Fulham,A,2024-2025,EPL
+2024-11-09,West Ham,Everton,D,2024-2025,EPL
+2024-11-09,Wolves,Southampton,H,2024-2025,EPL
+2024-11-09,Brighton,Man City,H,2024-2025,EPL
+2024-11-09,Liverpool,Aston Villa,H,2024-2025,EPL
+2024-11-10,Man United,Leicester,H,2024-2025,EPL
+2024-11-10,Nott'm Forest,Newcastle,A,2024-2025,EPL
+2024-11-10,Tottenham,Ipswich,A,2024-2025,EPL
+2024-11-10,Chelsea,Arsenal,D,2024-2025,EPL
+2024-11-23,Leicester,Chelsea,A,2024-2025,EPL
+2024-11-23,Arsenal,Nott'm Forest,H,2024-2025,EPL
+2024-11-23,Aston Villa,Crystal Palace,D,2024-2025,EPL
+2024-11-23,Bournemouth,Brighton,A,2024-2025,EPL
+2024-11-23,Everton,Brentford,D,2024-2025,EPL
+2024-11-23,Fulham,Wolves,A,2024-2025,EPL
+2024-11-23,Man City,Tottenham,A,2024-2025,EPL
+2024-11-24,Southampton,Liverpool,A,2024-2025,EPL
+2024-11-24,Ipswich,Man United,D,2024-2025,EPL
+2024-11-25,Newcastle,West Ham,A,2024-2025,EPL
+2024-11-29,Brighton,Southampton,D,2024-2025,EPL
+2024-11-30,Brentford,Leicester,H,2024-2025,EPL
+2024-11-30,Crystal Palace,Newcastle,D,2024-2025,EPL
+2024-11-30,Nott'm Forest,Ipswich,H,2024-2025,EPL
+2024-11-30,Wolves,Bournemouth,A,2024-2025,EPL
+2024-11-30,West Ham,Arsenal,A,2024-2025,EPL
+2024-12-01,Chelsea,Aston Villa,H,2024-2025,EPL
+2024-12-01,Man United,Everton,H,2024-2025,EPL
+2024-12-01,Tottenham,Fulham,D,2024-2025,EPL
+2024-12-01,Liverpool,Man City,H,2024-2025,EPL
+2024-12-03,Ipswich,Crystal Palace,A,2024-2025,EPL
+2024-12-03,Leicester,West Ham,H,2024-2025,EPL
+2024-12-04,Everton,Wolves,H,2024-2025,EPL
+2024-12-04,Man City,Nott'm Forest,H,2024-2025,EPL
+2024-12-04,Newcastle,Liverpool,D,2024-2025,EPL
+2024-12-04,Southampton,Chelsea,A,2024-2025,EPL
+2024-12-04,Arsenal,Man United,H,2024-2025,EPL
+2024-12-04,Aston Villa,Brentford,H,2024-2025,EPL
+2024-12-05,Fulham,Brighton,H,2024-2025,EPL
+2024-12-05,Bournemouth,Tottenham,H,2024-2025,EPL
+2024-12-07,Aston Villa,Southampton,H,2024-2025,EPL
+2024-12-07,Brentford,Newcastle,H,2024-2025,EPL
+2024-12-07,Crystal Palace,Man City,D,2024-2025,EPL
+2024-12-07,Man United,Nott'm Forest,A,2024-2025,EPL
+2024-12-08,Fulham,Arsenal,D,2024-2025,EPL
+2024-12-08,Ipswich,Bournemouth,A,2024-2025,EPL
+2024-12-08,Leicester,Brighton,D,2024-2025,EPL
+2024-12-08,Tottenham,Chelsea,A,2024-2025,EPL
+2024-12-09,West Ham,Wolves,H,2024-2025,EPL
+2024-12-14,Arsenal,Everton,D,2024-2025,EPL
+2024-12-14,Liverpool,Fulham,D,2024-2025,EPL
+2024-12-14,Newcastle,Leicester,H,2024-2025,EPL
+2024-12-14,Wolves,Ipswich,A,2024-2025,EPL
+2024-12-14,Nott'm Forest,Aston Villa,H,2024-2025,EPL
+2024-12-15,Brighton,Crystal Palace,A,2024-2025,EPL
+2024-12-15,Man City,Man United,A,2024-2025,EPL
+2024-12-15,Chelsea,Brentford,H,2024-2025,EPL
+2024-12-15,Southampton,Tottenham,A,2024-2025,EPL
+2024-12-16,Bournemouth,West Ham,D,2024-2025,EPL
+2024-12-21,Aston Villa,Man City,H,2024-2025,EPL
+2024-12-21,Brentford,Nott'm Forest,A,2024-2025,EPL
+2024-12-21,Ipswich,Newcastle,A,2024-2025,EPL
+2024-12-21,West Ham,Brighton,D,2024-2025,EPL
+2024-12-21,Crystal Palace,Arsenal,A,2024-2025,EPL
+2024-12-22,Everton,Chelsea,D,2024-2025,EPL
+2024-12-22,Fulham,Southampton,D,2024-2025,EPL
+2024-12-22,Leicester,Wolves,A,2024-2025,EPL
+2024-12-22,Man United,Bournemouth,A,2024-2025,EPL
+2024-12-22,Tottenham,Liverpool,A,2024-2025,EPL
+2024-12-26,Man City,Everton,D,2024-2025,EPL
+2024-12-26,Bournemouth,Crystal Palace,D,2024-2025,EPL
+2024-12-26,Chelsea,Fulham,A,2024-2025,EPL
+2024-12-26,Newcastle,Aston Villa,H,2024-2025,EPL
+2024-12-26,Nott'm Forest,Tottenham,H,2024-2025,EPL
+2024-12-26,Southampton,West Ham,A,2024-2025,EPL
+2024-12-26,Wolves,Man United,H,2024-2025,EPL
+2024-12-26,Liverpool,Leicester,H,2024-2025,EPL
+2024-12-27,Brighton,Brentford,D,2024-2025,EPL
+2024-12-27,Arsenal,Ipswich,H,2024-2025,EPL
+2024-12-29,Leicester,Man City,A,2024-2025,EPL
+2024-12-29,Crystal Palace,Southampton,H,2024-2025,EPL
+2024-12-29,Everton,Nott'm Forest,A,2024-2025,EPL
+2024-12-29,Fulham,Bournemouth,D,2024-2025,EPL
+2024-12-29,Tottenham,Wolves,D,2024-2025,EPL
+2024-12-29,West Ham,Liverpool,A,2024-2025,EPL
+2024-12-30,Aston Villa,Brighton,D,2024-2025,EPL
+2024-12-30,Ipswich,Chelsea,H,2024-2025,EPL
+2024-12-30,Man United,Newcastle,A,2024-2025,EPL
+2025-01-01,Brentford,Arsenal,A,2024-2025,EPL
+2025-01-04,Tottenham,Newcastle,A,2024-2025,EPL
+2025-01-04,Aston Villa,Leicester,H,2024-2025,EPL
+2025-01-04,Bournemouth,Everton,H,2024-2025,EPL
+2025-01-04,Crystal Palace,Chelsea,D,2024-2025,EPL
+2025-01-04,Man City,West Ham,H,2024-2025,EPL
+2025-01-04,Southampton,Brentford,A,2024-2025,EPL
+2025-01-04,Brighton,Arsenal,D,2024-2025,EPL
+2025-01-05,Fulham,Ipswich,D,2024-2025,EPL
+2025-01-05,Liverpool,Man United,D,2024-2025,EPL
+2025-01-06,Wolves,Nott'm Forest,A,2024-2025,EPL
+2025-01-14,Brentford,Man City,D,2024-2025,EPL
+2025-01-14,Chelsea,Bournemouth,D,2024-2025,EPL
+2025-01-14,West Ham,Fulham,H,2024-2025,EPL
+2025-01-14,Nott'm Forest,Liverpool,D,2024-2025,EPL
+2025-01-15,Everton,Aston Villa,A,2024-2025,EPL
+2025-01-15,Leicester,Crystal Palace,A,2024-2025,EPL
+2025-01-15,Newcastle,Wolves,H,2024-2025,EPL
+2025-01-15,Arsenal,Tottenham,H,2024-2025,EPL
+2025-01-16,Ipswich,Brighton,A,2024-2025,EPL
+2025-01-16,Man United,Southampton,H,2024-2025,EPL
+2025-01-18,Newcastle,Bournemouth,A,2024-2025,EPL
+2025-01-18,Brentford,Liverpool,A,2024-2025,EPL
+2025-01-18,Leicester,Fulham,A,2024-2025,EPL
+2025-01-18,West Ham,Crystal Palace,A,2024-2025,EPL
+2025-01-18,Arsenal,Aston Villa,D,2024-2025,EPL
+2025-01-19,Everton,Tottenham,H,2024-2025,EPL
+2025-01-19,Man United,Brighton,A,2024-2025,EPL
+2025-01-19,Nott'm Forest,Southampton,H,2024-2025,EPL
+2025-01-19,Ipswich,Man City,A,2024-2025,EPL
+2025-01-20,Chelsea,Wolves,H,2024-2025,EPL
+2025-01-25,Bournemouth,Nott'm Forest,H,2024-2025,EPL
+2025-01-25,Brighton,Everton,A,2024-2025,EPL
+2025-01-25,Liverpool,Ipswich,H,2024-2025,EPL
+2025-01-25,Southampton,Newcastle,A,2024-2025,EPL
+2025-01-25,Wolves,Arsenal,A,2024-2025,EPL
+2025-01-25,Man City,Chelsea,H,2024-2025,EPL
+2025-01-26,Crystal Palace,Brentford,A,2024-2025,EPL
+2025-01-26,Tottenham,Leicester,A,2024-2025,EPL
+2025-01-26,Aston Villa,West Ham,D,2024-2025,EPL
+2025-01-26,Fulham,Man United,A,2024-2025,EPL
+2025-02-01,Nott'm Forest,Brighton,H,2024-2025,EPL
+2025-02-01,Bournemouth,Liverpool,A,2024-2025,EPL
+2025-02-01,Everton,Leicester,H,2024-2025,EPL
+2025-02-01,Ipswich,Southampton,A,2024-2025,EPL
+2025-02-01,Newcastle,Fulham,A,2024-2025,EPL
+2025-02-01,Wolves,Aston Villa,H,2024-2025,EPL
+2025-02-02,Brentford,Tottenham,A,2024-2025,EPL
+2025-02-02,Man United,Crystal Palace,A,2024-2025,EPL
+2025-02-02,Arsenal,Man City,H,2024-2025,EPL
+2025-02-03,Chelsea,West Ham,H,2024-2025,EPL
+2025-02-12,Everton,Liverpool,D,2024-2025,EPL
+2025-02-14,Brighton,Chelsea,H,2024-2025,EPL
+2025-02-15,Leicester,Arsenal,A,2024-2025,EPL
+2025-02-15,Aston Villa,Ipswich,D,2024-2025,EPL
+2025-02-15,Fulham,Nott'm Forest,H,2024-2025,EPL
+2025-02-15,Man City,Newcastle,H,2024-2025,EPL
+2025-02-15,Southampton,Bournemouth,A,2024-2025,EPL
+2025-02-15,West Ham,Brentford,A,2024-2025,EPL
+2025-02-15,Crystal Palace,Everton,A,2024-2025,EPL
+2025-02-16,Liverpool,Wolves,H,2024-2025,EPL
+2025-02-16,Tottenham,Man United,H,2024-2025,EPL
+2025-02-19,Aston Villa,Liverpool,D,2024-2025,EPL
+2025-02-21,Leicester,Brentford,A,2024-2025,EPL
+2025-02-22,Everton,Man United,D,2024-2025,EPL
+2025-02-22,Arsenal,West Ham,A,2024-2025,EPL
+2025-02-22,Bournemouth,Wolves,A,2024-2025,EPL
+2025-02-22,Fulham,Crystal Palace,A,2024-2025,EPL
+2025-02-22,Ipswich,Tottenham,A,2024-2025,EPL
+2025-02-22,Southampton,Brighton,A,2024-2025,EPL
+2025-02-22,Aston Villa,Chelsea,H,2024-2025,EPL
+2025-02-23,Newcastle,Nott'm Forest,H,2024-2025,EPL
+2025-02-23,Man City,Liverpool,A,2024-2025,EPL
+2025-02-25,Brighton,Bournemouth,H,2024-2025,EPL
+2025-02-25,Crystal Palace,Aston Villa,H,2024-2025,EPL
+2025-02-25,Wolves,Fulham,A,2024-2025,EPL
+2025-02-25,Chelsea,Southampton,H,2024-2025,EPL
+2025-02-26,Brentford,Everton,D,2024-2025,EPL
+2025-02-26,Man United,Ipswich,H,2024-2025,EPL
+2025-02-26,Nott'm Forest,Arsenal,D,2024-2025,EPL
+2025-02-26,Tottenham,Man City,A,2024-2025,EPL
+2025-02-26,Liverpool,Newcastle,H,2024-2025,EPL
+2025-02-27,West Ham,Leicester,H,2024-2025,EPL
+2025-03-08,Nott'm Forest,Man City,H,2024-2025,EPL
+2025-03-08,Brighton,Fulham,H,2024-2025,EPL
+2025-03-08,Crystal Palace,Ipswich,H,2024-2025,EPL
+2025-03-08,Liverpool,Southampton,H,2024-2025,EPL
+2025-03-08,Brentford,Aston Villa,A,2024-2025,EPL
+2025-03-08,Wolves,Everton,D,2024-2025,EPL
+2025-03-09,Chelsea,Leicester,H,2024-2025,EPL
+2025-03-09,Tottenham,Bournemouth,D,2024-2025,EPL
+2025-03-09,Man United,Arsenal,D,2024-2025,EPL
+2025-03-10,West Ham,Newcastle,A,2024-2025,EPL
+2025-03-15,Everton,West Ham,D,2024-2025,EPL
+2025-03-15,Ipswich,Nott'm Forest,A,2024-2025,EPL
+2025-03-15,Man City,Brighton,D,2024-2025,EPL
+2025-03-15,Southampton,Wolves,A,2024-2025,EPL
+2025-03-15,Bournemouth,Brentford,A,2024-2025,EPL
+2025-03-16,Arsenal,Chelsea,H,2024-2025,EPL
+2025-03-16,Fulham,Tottenham,H,2024-2025,EPL
+2025-03-16,Leicester,Man United,A,2024-2025,EPL
+2025-04-01,Arsenal,Fulham,H,2024-2025,EPL
+2025-04-01,Wolves,West Ham,H,2024-2025,EPL
+2025-04-01,Nott'm Forest,Man United,H,2024-2025,EPL
+2025-04-02,Bournemouth,Ipswich,A,2024-2025,EPL
+2025-04-02,Brighton,Aston Villa,A,2024-2025,EPL
+2025-04-02,Man City,Leicester,H,2024-2025,EPL
+2025-04-02,Newcastle,Brentford,H,2024-2025,EPL
+2025-04-02,Southampton,Crystal Palace,D,2024-2025,EPL
+2025-04-02,Liverpool,Everton,H,2024-2025,EPL
+2025-04-03,Chelsea,Tottenham,H,2024-2025,EPL
+2025-04-05,Everton,Arsenal,D,2024-2025,EPL
+2025-04-05,Crystal Palace,Brighton,H,2024-2025,EPL
+2025-04-05,Ipswich,Wolves,A,2024-2025,EPL
+2025-04-05,West Ham,Bournemouth,D,2024-2025,EPL
+2025-04-05,Aston Villa,Nott'm Forest,H,2024-2025,EPL
+2025-04-06,Brentford,Chelsea,D,2024-2025,EPL
+2025-04-06,Fulham,Liverpool,H,2024-2025,EPL
+2025-04-06,Tottenham,Southampton,H,2024-2025,EPL
+2025-04-06,Man United,Man City,D,2024-2025,EPL
+2025-04-07,Leicester,Newcastle,A,2024-2025,EPL
+2025-04-12,Man City,Crystal Palace,H,2024-2025,EPL
+2025-04-12,Brighton,Leicester,D,2024-2025,EPL
+2025-04-12,Nott'm Forest,Everton,A,2024-2025,EPL
+2025-04-12,Southampton,Aston Villa,A,2024-2025,EPL
+2025-04-12,Arsenal,Brentford,D,2024-2025,EPL
+2025-04-13,Chelsea,Ipswich,D,2024-2025,EPL
+2025-04-13,Liverpool,West Ham,H,2024-2025,EPL
+2025-04-13,Wolves,Tottenham,H,2024-2025,EPL
+2025-04-13,Newcastle,Man United,H,2024-2025,EPL
+2025-04-14,Bournemouth,Fulham,H,2024-2025,EPL
+2025-04-16,Newcastle,Crystal Palace,H,2024-2025,EPL
+2025-04-19,Brentford,Brighton,H,2024-2025,EPL
+2025-04-19,Crystal Palace,Bournemouth,D,2024-2025,EPL
+2025-04-19,Everton,Man City,A,2024-2025,EPL
+2025-04-19,West Ham,Southampton,D,2024-2025,EPL
+2025-04-19,Aston Villa,Newcastle,H,2024-2025,EPL
+2025-04-20,Fulham,Chelsea,A,2024-2025,EPL
+2025-04-20,Ipswich,Arsenal,A,2024-2025,EPL
+2025-04-20,Man United,Wolves,A,2024-2025,EPL
+2025-04-20,Leicester,Liverpool,A,2024-2025,EPL
+2025-04-21,Tottenham,Nott'm Forest,A,2024-2025,EPL
+2025-04-22,Man City,Aston Villa,H,2024-2025,EPL
+2025-04-23,Arsenal,Crystal Palace,D,2024-2025,EPL
+2025-04-26,Chelsea,Everton,H,2024-2025,EPL
+2025-04-26,Brighton,West Ham,H,2024-2025,EPL
+2025-04-26,Newcastle,Ipswich,H,2024-2025,EPL
+2025-04-26,Southampton,Fulham,A,2024-2025,EPL
+2025-04-26,Wolves,Leicester,H,2024-2025,EPL
+2025-04-27,Bournemouth,Man United,D,2024-2025,EPL
+2025-04-27,Liverpool,Tottenham,H,2024-2025,EPL
+2025-05-01,Nott'm Forest,Brentford,A,2024-2025,EPL
+2025-05-02,Man City,Wolves,H,2024-2025,EPL
+2025-05-03,Aston Villa,Fulham,H,2024-2025,EPL
+2025-05-03,Everton,Ipswich,D,2024-2025,EPL
+2025-05-03,Leicester,Southampton,H,2024-2025,EPL
+2025-05-03,Arsenal,Bournemouth,A,2024-2025,EPL
+2025-05-04,Brentford,Man United,H,2024-2025,EPL
+2025-05-04,Brighton,Newcastle,D,2024-2025,EPL
+2025-05-04,West Ham,Tottenham,D,2024-2025,EPL
+2025-05-04,Chelsea,Liverpool,H,2024-2025,EPL
+2025-05-05,Crystal Palace,Nott'm Forest,D,2024-2025,EPL
+2025-05-10,Fulham,Everton,A,2024-2025,EPL
+2025-05-10,Ipswich,Brentford,A,2024-2025,EPL
+2025-05-10,Southampton,Man City,D,2024-2025,EPL
+2025-05-10,Wolves,Brighton,A,2024-2025,EPL
+2025-05-10,Bournemouth,Aston Villa,A,2024-2025,EPL
+2025-05-11,Newcastle,Chelsea,H,2024-2025,EPL
+2025-05-11,Man United,West Ham,A,2024-2025,EPL
+2025-05-11,Nott'm Forest,Leicester,D,2024-2025,EPL
+2025-05-11,Tottenham,Crystal Palace,A,2024-2025,EPL
+2025-05-11,Liverpool,Arsenal,D,2024-2025,EPL
+2025-05-16,Aston Villa,Tottenham,H,2024-2025,EPL
+2025-05-16,Chelsea,Man United,H,2024-2025,EPL
+2025-05-18,Everton,Southampton,H,2024-2025,EPL
+2025-05-18,West Ham,Nott'm Forest,A,2024-2025,EPL
+2025-05-18,Brentford,Fulham,A,2024-2025,EPL
+2025-05-18,Leicester,Ipswich,H,2024-2025,EPL
+2025-05-18,Arsenal,Newcastle,H,2024-2025,EPL
+2025-05-19,Brighton,Liverpool,H,2024-2025,EPL
+2025-05-20,Crystal Palace,Wolves,H,2024-2025,EPL
+2025-05-20,Man City,Bournemouth,H,2024-2025,EPL
+2025-05-25,Bournemouth,Leicester,H,2024-2025,EPL
+2025-05-25,Fulham,Man City,A,2024-2025,EPL
+2025-05-25,Ipswich,West Ham,A,2024-2025,EPL
+2025-05-25,Liverpool,Crystal Palace,D,2024-2025,EPL
+2025-05-25,Man United,Aston Villa,H,2024-2025,EPL
+2025-05-25,Newcastle,Everton,A,2024-2025,EPL
+2025-05-25,Nott'm Forest,Chelsea,A,2024-2025,EPL
+2025-05-25,Southampton,Arsenal,A,2024-2025,EPL
+2025-05-25,Tottenham,Brighton,A,2024-2025,EPL
+2025-05-25,Wolves,Brentford,D,2024-2025,EPL
+2024-08-15,Ath Bilbao,Getafe,D,2024-2025,LaLiga
+2024-08-15,Betis,Girona,D,2024-2025,LaLiga
+2024-08-16,Celta,Alaves,H,2024-2025,LaLiga
+2024-08-16,Las Palmas,Sevilla,D,2024-2025,LaLiga
+2024-08-17,Osasuna,Leganes,D,2024-2025,LaLiga
+2024-08-17,Valencia,Barcelona,A,2024-2025,LaLiga
+2024-08-18,Sociedad,Vallecano,A,2024-2025,LaLiga
+2024-08-18,Mallorca,Real Madrid,D,2024-2025,LaLiga
+2024-08-19,Valladolid,Espanol,H,2024-2025,LaLiga
+2024-08-19,Villarreal,Ath Madrid,D,2024-2025,LaLiga
+2024-08-23,Celta,Valencia,H,2024-2025,LaLiga
+2024-08-23,Sevilla,Villarreal,A,2024-2025,LaLiga
+2024-08-24,Osasuna,Mallorca,H,2024-2025,LaLiga
+2024-08-24,Barcelona,Ath Bilbao,H,2024-2025,LaLiga
+2024-08-24,Espanol,Sociedad,A,2024-2025,LaLiga
+2024-08-24,Getafe,Vallecano,D,2024-2025,LaLiga
+2024-08-25,Real Madrid,Valladolid,H,2024-2025,LaLiga
+2024-08-25,Leganes,Las Palmas,H,2024-2025,LaLiga
+2024-08-25,Alaves,Betis,D,2024-2025,LaLiga
+2024-08-25,Ath Madrid,Girona,H,2024-2025,LaLiga
+2024-08-26,Villarreal,Celta,H,2024-2025,LaLiga
+2024-08-27,Mallorca,Sevilla,D,2024-2025,LaLiga
+2024-08-27,Vallecano,Barcelona,A,2024-2025,LaLiga
+2024-08-28,Ath Bilbao,Valencia,H,2024-2025,LaLiga
+2024-08-28,Valladolid,Leganes,D,2024-2025,LaLiga
+2024-08-28,Ath Madrid,Espanol,D,2024-2025,LaLiga
+2024-08-28,Sociedad,Alaves,A,2024-2025,LaLiga
+2024-08-29,Girona,Osasuna,H,2024-2025,LaLiga
+2024-08-29,Las Palmas,Real Madrid,D,2024-2025,LaLiga
+2024-08-31,Barcelona,Valladolid,H,2024-2025,LaLiga
+2024-08-31,Ath Bilbao,Ath Madrid,A,2024-2025,LaLiga
+2024-08-31,Espanol,Vallecano,H,2024-2025,LaLiga
+2024-08-31,Leganes,Mallorca,A,2024-2025,LaLiga
+2024-08-31,Valencia,Villarreal,D,2024-2025,LaLiga
+2024-09-01,Alaves,Las Palmas,H,2024-2025,LaLiga
+2024-09-01,Osasuna,Celta,H,2024-2025,LaLiga
+2024-09-01,Sevilla,Girona,A,2024-2025,LaLiga
+2024-09-01,Getafe,Sociedad,D,2024-2025,LaLiga
+2024-09-01,Real Madrid,Betis,H,2024-2025,LaLiga
+2024-09-13,Betis,Leganes,H,2024-2025,LaLiga
+2024-09-14,Mallorca,Villarreal,A,2024-2025,LaLiga
+2024-09-14,Espanol,Alaves,H,2024-2025,LaLiga
+2024-09-14,Sevilla,Getafe,H,2024-2025,LaLiga
+2024-09-14,Sociedad,Real Madrid,A,2024-2025,LaLiga
+2024-09-15,Celta,Valladolid,H,2024-2025,LaLiga
+2024-09-15,Girona,Barcelona,A,2024-2025,LaLiga
+2024-09-15,Las Palmas,Ath Bilbao,A,2024-2025,LaLiga
+2024-09-15,Ath Madrid,Valencia,H,2024-2025,LaLiga
+2024-09-16,Vallecano,Osasuna,H,2024-2025,LaLiga
+2024-09-17,Mallorca,Sociedad,H,2024-2025,LaLiga
+2024-09-18,Betis,Getafe,H,2024-2025,LaLiga
+2024-09-19,Leganes,Ath Bilbao,A,2024-2025,LaLiga
+2024-09-20,Alaves,Sevilla,H,2024-2025,LaLiga
+2024-09-21,Valladolid,Sociedad,D,2024-2025,LaLiga
+2024-09-21,Osasuna,Las Palmas,H,2024-2025,LaLiga
+2024-09-21,Valencia,Girona,H,2024-2025,LaLiga
+2024-09-21,Real Madrid,Espanol,H,2024-2025,LaLiga
+2024-09-22,Getafe,Leganes,D,2024-2025,LaLiga
+2024-09-22,Ath Bilbao,Celta,H,2024-2025,LaLiga
+2024-09-22,Villarreal,Barcelona,A,2024-2025,LaLiga
+2024-09-22,Vallecano,Ath Madrid,D,2024-2025,LaLiga
+2024-09-23,Betis,Mallorca,A,2024-2025,LaLiga
+2024-09-24,Sevilla,Valladolid,H,2024-2025,LaLiga
+2024-09-24,Valencia,Osasuna,D,2024-2025,LaLiga
+2024-09-24,Real Madrid,Alaves,H,2024-2025,LaLiga
+2024-09-25,Girona,Vallecano,D,2024-2025,LaLiga
+2024-09-25,Barcelona,Getafe,H,2024-2025,LaLiga
+2024-09-26,Espanol,Villarreal,A,2024-2025,LaLiga
+2024-09-26,Las Palmas,Betis,D,2024-2025,LaLiga
+2024-09-26,Celta,Ath Madrid,A,2024-2025,LaLiga
+2024-09-27,Valladolid,Mallorca,A,2024-2025,LaLiga
+2024-09-28,Getafe,Alaves,H,2024-2025,LaLiga
+2024-09-28,Vallecano,Leganes,D,2024-2025,LaLiga
+2024-09-28,Sociedad,Valencia,H,2024-2025,LaLiga
+2024-09-28,Osasuna,Barcelona,H,2024-2025,LaLiga
+2024-09-29,Celta,Girona,D,2024-2025,LaLiga
+2024-09-29,Ath Bilbao,Sevilla,D,2024-2025,LaLiga
+2024-09-29,Betis,Espanol,H,2024-2025,LaLiga
+2024-09-29,Ath Madrid,Real Madrid,D,2024-2025,LaLiga
+2024-09-30,Villarreal,Las Palmas,H,2024-2025,LaLiga
+2024-10-04,Leganes,Valencia,D,2024-2025,LaLiga
+2024-10-05,Espanol,Mallorca,H,2024-2025,LaLiga
+2024-10-05,Getafe,Osasuna,D,2024-2025,LaLiga
+2024-10-05,Las Palmas,Celta,A,2024-2025,LaLiga
+2024-10-05,Valladolid,Vallecano,A,2024-2025,LaLiga
+2024-10-05,Real Madrid,Villarreal,H,2024-2025,LaLiga
+2024-10-06,Girona,Ath Bilbao,H,2024-2025,LaLiga
+2024-10-06,Alaves,Barcelona,A,2024-2025,LaLiga
+2024-10-06,Sevilla,Betis,H,2024-2025,LaLiga
+2024-10-06,Sociedad,Ath Madrid,D,2024-2025,LaLiga
+2024-10-18,Alaves,Valladolid,A,2024-2025,LaLiga
+2024-10-19,Ath Bilbao,Espanol,H,2024-2025,LaLiga
+2024-10-19,Osasuna,Betis,A,2024-2025,LaLiga
+2024-10-19,Girona,Sociedad,A,2024-2025,LaLiga
+2024-10-19,Celta,Real Madrid,A,2024-2025,LaLiga
+2024-10-20,Mallorca,Vallecano,H,2024-2025,LaLiga
+2024-10-20,Ath Madrid,Leganes,H,2024-2025,LaLiga
+2024-10-20,Villarreal,Getafe,D,2024-2025,LaLiga
+2024-10-20,Barcelona,Sevilla,H,2024-2025,LaLiga
+2024-10-21,Valencia,Las Palmas,A,2024-2025,LaLiga
+2024-10-25,Espanol,Sevilla,A,2024-2025,LaLiga
+2024-10-26,Valladolid,Villarreal,A,2024-2025,LaLiga
+2024-10-26,Vallecano,Alaves,H,2024-2025,LaLiga
+2024-10-26,Las Palmas,Girona,H,2024-2025,LaLiga
+2024-10-26,Real Madrid,Barcelona,A,2024-2025,LaLiga
+2024-10-27,Leganes,Celta,H,2024-2025,LaLiga
+2024-10-27,Getafe,Valencia,D,2024-2025,LaLiga
+2024-10-27,Betis,Ath Madrid,H,2024-2025,LaLiga
+2024-10-27,Sociedad,Osasuna,A,2024-2025,LaLiga
+2024-10-28,Mallorca,Ath Bilbao,D,2024-2025,LaLiga
+2024-11-01,Alaves,Mallorca,H,2024-2025,LaLiga
+2024-11-02,Osasuna,Valladolid,H,2024-2025,LaLiga
+2024-11-02,Girona,Leganes,H,2024-2025,LaLiga
+2024-11-03,Ath Madrid,Las Palmas,H,2024-2025,LaLiga
+2024-11-03,Barcelona,Espanol,H,2024-2025,LaLiga
+2024-11-03,Sevilla,Sociedad,A,2024-2025,LaLiga
+2024-11-03,Ath Bilbao,Betis,D,2024-2025,LaLiga
+2024-11-04,Celta,Getafe,H,2024-2025,LaLiga
+2024-11-08,Vallecano,Las Palmas,A,2024-2025,LaLiga
+2024-11-09,Real Madrid,Osasuna,H,2024-2025,LaLiga
+2024-11-09,Villarreal,Alaves,H,2024-2025,LaLiga
+2024-11-09,Leganes,Sevilla,H,2024-2025,LaLiga
+2024-11-10,Betis,Celta,D,2024-2025,LaLiga
+2024-11-10,Mallorca,Ath Madrid,A,2024-2025,LaLiga
+2024-11-10,Getafe,Girona,A,2024-2025,LaLiga
+2024-11-10,Valladolid,Ath Bilbao,D,2024-2025,LaLiga
+2024-11-10,Sociedad,Barcelona,H,2024-2025,LaLiga
+2024-11-22,Getafe,Valladolid,H,2024-2025,LaLiga
+2024-11-23,Valencia,Betis,H,2024-2025,LaLiga
+2024-11-23,Ath Madrid,Alaves,H,2024-2025,LaLiga
+2024-11-23,Girona,Espanol,H,2024-2025,LaLiga
+2024-11-23,Las Palmas,Mallorca,A,2024-2025,LaLiga
+2024-11-23,Celta,Barcelona,D,2024-2025,LaLiga
+2024-11-24,Osasuna,Villarreal,D,2024-2025,LaLiga
+2024-11-24,Sevilla,Vallecano,H,2024-2025,LaLiga
+2024-11-24,Leganes,Real Madrid,A,2024-2025,LaLiga
+2024-11-24,Ath Bilbao,Sociedad,H,2024-2025,LaLiga
+2024-11-29,Mallorca,Valencia,H,2024-2025,LaLiga
+2024-11-30,Barcelona,Las Palmas,A,2024-2025,LaLiga
+2024-11-30,Alaves,Leganes,D,2024-2025,LaLiga
+2024-11-30,Espanol,Celta,H,2024-2025,LaLiga
+2024-11-30,Valladolid,Ath Madrid,A,2024-2025,LaLiga
+2024-12-01,Villarreal,Girona,D,2024-2025,LaLiga
+2024-12-01,Real Madrid,Getafe,H,2024-2025,LaLiga
+2024-12-01,Vallecano,Ath Bilbao,A,2024-2025,LaLiga
+2024-12-01,Sociedad,Betis,H,2024-2025,LaLiga
+2024-12-02,Sevilla,Osasuna,D,2024-2025,LaLiga
+2024-12-03,Mallorca,Barcelona,A,2024-2025,LaLiga
+2024-12-04,Ath Bilbao,Real Madrid,H,2024-2025,LaLiga
+2024-12-06,Celta,Mallorca,H,2024-2025,LaLiga
+2024-12-07,Las Palmas,Valladolid,H,2024-2025,LaLiga
+2024-12-07,Betis,Barcelona,D,2024-2025,LaLiga
+2024-12-07,Valencia,Vallecano,A,2024-2025,LaLiga
+2024-12-07,Girona,Real Madrid,A,2024-2025,LaLiga
+2024-12-08,Leganes,Sociedad,A,2024-2025,LaLiga
+2024-12-08,Ath Bilbao,Villarreal,H,2024-2025,LaLiga
+2024-12-08,Osasuna,Alaves,D,2024-2025,LaLiga
+2024-12-08,Ath Madrid,Sevilla,H,2024-2025,LaLiga
+2024-12-09,Getafe,Espanol,H,2024-2025,LaLiga
+2024-12-13,Valladolid,Valencia,H,2024-2025,LaLiga
+2024-12-14,Espanol,Osasuna,D,2024-2025,LaLiga
+2024-12-14,Mallorca,Girona,H,2024-2025,LaLiga
+2024-12-14,Sevilla,Celta,H,2024-2025,LaLiga
+2024-12-14,Vallecano,Real Madrid,D,2024-2025,LaLiga
+2024-12-15,Ath Madrid,Getafe,H,2024-2025,LaLiga
+2024-12-15,Alaves,Ath Bilbao,D,2024-2025,LaLiga
+2024-12-15,Sociedad,Las Palmas,D,2024-2025,LaLiga
+2024-12-15,Villarreal,Betis,A,2024-2025,LaLiga
+2024-12-15,Barcelona,Leganes,A,2024-2025,LaLiga
+2024-12-18,Espanol,Valencia,D,2024-2025,LaLiga
+2024-12-18,Villarreal,Vallecano,D,2024-2025,LaLiga
+2024-12-20,Girona,Valladolid,H,2024-2025,LaLiga
+2024-12-21,Getafe,Mallorca,A,2024-2025,LaLiga
+2024-12-21,Celta,Sociedad,H,2024-2025,LaLiga
+2024-12-21,Osasuna,Ath Bilbao,A,2024-2025,LaLiga
+2024-12-21,Barcelona,Ath Madrid,A,2024-2025,LaLiga
+2024-12-22,Valencia,Alaves,D,2024-2025,LaLiga
+2024-12-22,Real Madrid,Sevilla,H,2024-2025,LaLiga
+2024-12-22,Las Palmas,Espanol,H,2024-2025,LaLiga
+2024-12-22,Leganes,Villarreal,A,2024-2025,LaLiga
+2024-12-22,Betis,Vallecano,D,2024-2025,LaLiga
+2025-01-03,Valencia,Real Madrid,A,2024-2025,LaLiga
+2025-01-10,Vallecano,Celta,H,2024-2025,LaLiga
+2025-01-11,Alaves,Girona,A,2024-2025,LaLiga
+2025-01-11,Valladolid,Betis,H,2024-2025,LaLiga
+2025-01-11,Espanol,Leganes,D,2024-2025,LaLiga
+2025-01-11,Sevilla,Valencia,D,2024-2025,LaLiga
+2025-01-12,Las Palmas,Getafe,A,2024-2025,LaLiga
+2025-01-12,Ath Madrid,Osasuna,H,2024-2025,LaLiga
+2025-01-13,Sociedad,Villarreal,H,2024-2025,LaLiga
+2025-01-17,Espanol,Valladolid,H,2024-2025,LaLiga
+2025-01-18,Girona,Sevilla,A,2024-2025,LaLiga
+2025-01-18,Leganes,Ath Madrid,H,2024-2025,LaLiga
+2025-01-18,Betis,Alaves,A,2024-2025,LaLiga
+2025-01-18,Getafe,Barcelona,D,2024-2025,LaLiga
+2025-01-19,Celta,Ath Bilbao,A,2024-2025,LaLiga
+2025-01-19,Real Madrid,Las Palmas,H,2024-2025,LaLiga
+2025-01-19,Osasuna,Vallecano,D,2024-2025,LaLiga
+2025-01-19,Valencia,Sociedad,H,2024-2025,LaLiga
+2025-01-20,Villarreal,Mallorca,H,2024-2025,LaLiga
+2025-01-24,Las Palmas,Osasuna,D,2024-2025,LaLiga
+2025-01-25,Mallorca,Betis,A,2024-2025,LaLiga
+2025-01-25,Ath Madrid,Villarreal,D,2024-2025,LaLiga
+2025-01-25,Sevilla,Espanol,D,2024-2025,LaLiga
+2025-01-25,Valladolid,Real Madrid,A,2024-2025,LaLiga
+2025-01-26,Vallecano,Girona,H,2024-2025,LaLiga
+2025-01-26,Sociedad,Getafe,A,2024-2025,LaLiga
+2025-01-26,Ath Bilbao,Leganes,D,2024-2025,LaLiga
+2025-01-26,Barcelona,Valencia,H,2024-2025,LaLiga
+2025-01-27,Alaves,Celta,D,2024-2025,LaLiga
+2025-01-31,Leganes,Vallecano,A,2024-2025,LaLiga
+2025-02-01,Getafe,Sevilla,D,2024-2025,LaLiga
+2025-02-01,Villarreal,Valladolid,H,2024-2025,LaLiga
+2025-02-01,Ath Madrid,Mallorca,H,2024-2025,LaLiga
+2025-02-01,Espanol,Real Madrid,H,2024-2025,LaLiga
+2025-02-02,Barcelona,Alaves,H,2024-2025,LaLiga
+2025-02-02,Valencia,Celta,H,2024-2025,LaLiga
+2025-02-02,Osasuna,Sociedad,H,2024-2025,LaLiga
+2025-02-02,Betis,Ath Bilbao,D,2024-2025,LaLiga
+2025-02-03,Girona,Las Palmas,H,2024-2025,LaLiga
+2025-02-07,Vallecano,Valladolid,H,2024-2025,LaLiga
+2025-02-08,Celta,Betis,H,2024-2025,LaLiga
+2025-02-08,Ath Bilbao,Girona,H,2024-2025,LaLiga
+2025-02-08,Las Palmas,Villarreal,A,2024-2025,LaLiga
+2025-02-08,Real Madrid,Ath Madrid,D,2024-2025,LaLiga
+2025-02-09,Alaves,Getafe,A,2024-2025,LaLiga
+2025-02-09,Valencia,Leganes,H,2024-2025,LaLiga
+2025-02-09,Sociedad,Espanol,H,2024-2025,LaLiga
+2025-02-09,Sevilla,Barcelona,A,2024-2025,LaLiga
+2025-02-10,Mallorca,Osasuna,D,2024-2025,LaLiga
+2025-02-14,Girona,Getafe,A,2024-2025,LaLiga
+2025-02-15,Leganes,Alaves,D,2024-2025,LaLiga
+2025-02-15,Osasuna,Real Madrid,D,2024-2025,LaLiga
+2025-02-15,Ath Madrid,Celta,D,2024-2025,LaLiga
+2025-02-15,Villarreal,Valencia,D,2024-2025,LaLiga
+2025-02-16,Espanol,Ath Bilbao,D,2024-2025,LaLiga
+2025-02-16,Valladolid,Sevilla,A,2024-2025,LaLiga
+2025-02-16,Mallorca,Las Palmas,H,2024-2025,LaLiga
+2025-02-16,Betis,Sociedad,H,2024-2025,LaLiga
+2025-02-17,Barcelona,Vallecano,H,2024-2025,LaLiga
+2025-02-21,Celta,Osasuna,H,2024-2025,LaLiga
+2025-02-22,Alaves,Espanol,A,2024-2025,LaLiga
+2025-02-22,Vallecano,Villarreal,A,2024-2025,LaLiga
+2025-02-22,Valencia,Ath Madrid,A,2024-2025,LaLiga
+2025-02-22,Las Palmas,Barcelona,A,2024-2025,LaLiga
+2025-02-23,Ath Bilbao,Valladolid,H,2024-2025,LaLiga
+2025-02-23,Real Madrid,Girona,H,2024-2025,LaLiga
+2025-02-23,Getafe,Betis,A,2024-2025,LaLiga
+2025-02-23,Sociedad,Leganes,H,2024-2025,LaLiga
+2025-02-24,Sevilla,Mallorca,D,2024-2025,LaLiga
+2025-02-28,Valladolid,Las Palmas,D,2024-2025,LaLiga
+2025-03-01,Girona,Celta,D,2024-2025,LaLiga
+2025-03-01,Vallecano,Sevilla,D,2024-2025,LaLiga
+2025-03-01,Betis,Real Madrid,H,2024-2025,LaLiga
+2025-03-01,Ath Madrid,Ath Bilbao,H,2024-2025,LaLiga
+2025-03-02,Leganes,Getafe,H,2024-2025,LaLiga
+2025-03-02,Barcelona,Sociedad,H,2024-2025,LaLiga
+2025-03-02,Mallorca,Alaves,D,2024-2025,LaLiga
+2025-03-02,Osasuna,Valencia,D,2024-2025,LaLiga
+2025-03-08,Celta,Leganes,H,2024-2025,LaLiga
+2025-03-08,Alaves,Villarreal,H,2024-2025,LaLiga
+2025-03-08,Valencia,Valladolid,H,2024-2025,LaLiga
+2025-03-09,Getafe,Ath Madrid,H,2024-2025,LaLiga
+2025-03-09,Real Madrid,Vallecano,H,2024-2025,LaLiga
+2025-03-09,Ath Bilbao,Mallorca,D,2024-2025,LaLiga
+2025-03-09,Betis,Las Palmas,H,2024-2025,LaLiga
+2025-03-09,Sociedad,Sevilla,A,2024-2025,LaLiga
+2025-03-10,Espanol,Girona,D,2024-2025,LaLiga
+2025-03-14,Las Palmas,Alaves,D,2024-2025,LaLiga
+2025-03-15,Valladolid,Celta,A,2024-2025,LaLiga
+2025-03-15,Mallorca,Espanol,H,2024-2025,LaLiga
+2025-03-15,Villarreal,Real Madrid,A,2024-2025,LaLiga
+2025-03-15,Girona,Valencia,D,2024-2025,LaLiga
+2025-03-16,Leganes,Betis,A,2024-2025,LaLiga
+2025-03-16,Sevilla,Ath Bilbao,A,2024-2025,LaLiga
+2025-03-16,Osasuna,Getafe,A,2024-2025,LaLiga
+2025-03-16,Vallecano,Sociedad,D,2024-2025,LaLiga
+2025-03-16,Ath Madrid,Barcelona,A,2024-2025,LaLiga
+2025-03-27,Barcelona,Osasuna,H,2024-2025,LaLiga
+2025-03-29,Sociedad,Valladolid,H,2024-2025,LaLiga
+2025-03-29,Espanol,Ath Madrid,D,2024-2025,LaLiga
+2025-03-29,Alaves,Vallecano,A,2024-2025,LaLiga
+2025-03-29,Real Madrid,Leganes,H,2024-2025,LaLiga
+2025-03-30,Getafe,Villarreal,A,2024-2025,LaLiga
+2025-03-30,Barcelona,Girona,H,2024-2025,LaLiga
+2025-03-30,Ath Bilbao,Osasuna,D,2024-2025,LaLiga
+2025-03-30,Valencia,Mallorca,H,2024-2025,LaLiga
+2025-03-30,Betis,Sevilla,H,2024-2025,LaLiga
+2025-03-31,Celta,Las Palmas,D,2024-2025,LaLiga
+2025-04-04,Vallecano,Espanol,A,2024-2025,LaLiga
+2025-04-05,Girona,Alaves,A,2024-2025,LaLiga
+2025-04-05,Real Madrid,Valencia,A,2024-2025,LaLiga
+2025-04-05,Mallorca,Celta,A,2024-2025,LaLiga
+2025-04-05,Barcelona,Betis,D,2024-2025,LaLiga
+2025-04-06,Las Palmas,Sociedad,A,2024-2025,LaLiga
+2025-04-06,Sevilla,Ath Madrid,A,2024-2025,LaLiga
+2025-04-06,Valladolid,Getafe,A,2024-2025,LaLiga
+2025-04-06,Villarreal,Ath Bilbao,D,2024-2025,LaLiga
+2025-04-07,Leganes,Osasuna,D,2024-2025,LaLiga
+2025-04-11,Valencia,Sevilla,H,2024-2025,LaLiga
+2025-04-12,Sociedad,Mallorca,A,2024-2025,LaLiga
+2025-04-12,Getafe,Las Palmas,A,2024-2025,LaLiga
+2025-04-12,Celta,Espanol,A,2024-2025,LaLiga
+2025-04-12,Leganes,Barcelona,A,2024-2025,LaLiga
+2025-04-13,Osasuna,Girona,H,2024-2025,LaLiga
+2025-04-13,Alaves,Real Madrid,A,2024-2025,LaLiga
+2025-04-13,Betis,Villarreal,A,2024-2025,LaLiga
+2025-04-13,Ath Bilbao,Vallecano,H,2024-2025,LaLiga
+2025-04-14,Ath Madrid,Valladolid,H,2024-2025,LaLiga
+2025-04-18,Espanol,Getafe,H,2024-2025,LaLiga
+2025-04-19,Vallecano,Valencia,D,2024-2025,LaLiga
+2025-04-19,Barcelona,Celta,H,2024-2025,LaLiga
+2025-04-19,Mallorca,Leganes,D,2024-2025,LaLiga
+2025-04-19,Las Palmas,Ath Madrid,H,2024-2025,LaLiga
+2025-04-20,Valladolid,Osasuna,A,2024-2025,LaLiga
+2025-04-20,Villarreal,Sociedad,D,2024-2025,LaLiga
+2025-04-20,Sevilla,Alaves,D,2024-2025,LaLiga
+2025-04-20,Real Madrid,Ath Bilbao,H,2024-2025,LaLiga
+2025-04-21,Girona,Betis,A,2024-2025,LaLiga
+2025-04-22,Valencia,Espanol,D,2024-2025,LaLiga
+2025-04-22,Barcelona,Mallorca,H,2024-2025,LaLiga
+2025-04-23,Ath Bilbao,Las Palmas,H,2024-2025,LaLiga
+2025-04-23,Celta,Villarreal,H,2024-2025,LaLiga
+2025-04-23,Alaves,Sociedad,H,2024-2025,LaLiga
+2025-04-23,Getafe,Real Madrid,A,2024-2025,LaLiga
+2025-04-24,Leganes,Girona,D,2024-2025,LaLiga
+2025-04-24,Osasuna,Sevilla,H,2024-2025,LaLiga
+2025-04-24,Ath Madrid,Vallecano,H,2024-2025,LaLiga
+2025-04-24,Betis,Valladolid,H,2024-2025,LaLiga
+2025-04-27,Villarreal,Espanol,H,2024-2025,LaLiga
+2025-05-02,Vallecano,Getafe,H,2024-2025,LaLiga
+2025-05-03,Alaves,Ath Madrid,D,2024-2025,LaLiga
+2025-05-03,Villarreal,Osasuna,H,2024-2025,LaLiga
+2025-05-03,Las Palmas,Valencia,A,2024-2025,LaLiga
+2025-05-03,Valladolid,Barcelona,A,2024-2025,LaLiga
+2025-05-04,Real Madrid,Celta,H,2024-2025,LaLiga
+2025-05-04,Sevilla,Leganes,D,2024-2025,LaLiga
+2025-05-04,Espanol,Betis,A,2024-2025,LaLiga
+2025-05-04,Sociedad,Ath Bilbao,D,2024-2025,LaLiga
+2025-05-05,Girona,Mallorca,H,2024-2025,LaLiga
+2025-05-09,Las Palmas,Vallecano,A,2024-2025,LaLiga
+2025-05-10,Valencia,Getafe,H,2024-2025,LaLiga
+2025-05-10,Celta,Sevilla,H,2024-2025,LaLiga
+2025-05-10,Girona,Villarreal,A,2024-2025,LaLiga
+2025-05-10,Mallorca,Valladolid,H,2024-2025,LaLiga
+2025-05-10,Ath Madrid,Sociedad,H,2024-2025,LaLiga
+2025-05-11,Leganes,Espanol,H,2024-2025,LaLiga
+2025-05-11,Barcelona,Real Madrid,H,2024-2025,LaLiga
+2025-05-11,Ath Bilbao,Alaves,H,2024-2025,LaLiga
+2025-05-11,Betis,Osasuna,D,2024-2025,LaLiga
+2025-05-13,Valladolid,Girona,A,2024-2025,LaLiga
+2025-05-13,Sociedad,Celta,A,2024-2025,LaLiga
+2025-05-13,Sevilla,Las Palmas,H,2024-2025,LaLiga
+2025-05-14,Alaves,Valencia,H,2024-2025,LaLiga
+2025-05-14,Villarreal,Leganes,H,2024-2025,LaLiga
+2025-05-14,Real Madrid,Mallorca,H,2024-2025,LaLiga
+2025-05-15,Vallecano,Betis,D,2024-2025,LaLiga
+2025-05-15,Osasuna,Ath Madrid,H,2024-2025,LaLiga
+2025-05-15,Espanol,Barcelona,A,2024-2025,LaLiga
+2025-05-15,Getafe,Ath Bilbao,A,2024-2025,LaLiga
+2025-05-18,Ath Madrid,Betis,H,2024-2025,LaLiga
+2025-05-18,Barcelona,Villarreal,A,2024-2025,LaLiga
+2025-05-18,Celta,Vallecano,A,2024-2025,LaLiga
+2025-05-18,Las Palmas,Leganes,A,2024-2025,LaLiga
+2025-05-18,Mallorca,Getafe,A,2024-2025,LaLiga
+2025-05-18,Osasuna,Espanol,H,2024-2025,LaLiga
+2025-05-18,Sevilla,Real Madrid,A,2024-2025,LaLiga
+2025-05-18,Sociedad,Girona,H,2024-2025,LaLiga
+2025-05-18,Valencia,Ath Bilbao,A,2024-2025,LaLiga
+2025-05-18,Valladolid,Alaves,A,2024-2025,LaLiga
+2025-05-23,Betis,Valencia,D,2024-2025,LaLiga
+2025-05-24,Real Madrid,Sociedad,H,2024-2025,LaLiga
+2025-05-24,Espanol,Las Palmas,H,2024-2025,LaLiga
+2025-05-24,Leganes,Valladolid,H,2024-2025,LaLiga
+2025-05-24,Alaves,Osasuna,D,2024-2025,LaLiga
+2025-05-24,Getafe,Celta,A,2024-2025,LaLiga
+2025-05-24,Vallecano,Mallorca,D,2024-2025,LaLiga
+2025-05-25,Girona,Ath Madrid,A,2024-2025,LaLiga
+2025-05-25,Villarreal,Sevilla,H,2024-2025,LaLiga
+2025-05-25,Ath Bilbao,Barcelona,A,2024-2025,LaLiga
